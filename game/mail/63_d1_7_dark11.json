@@ -1,0 +1,19 @@
+{
+	"inbox_index": 0,
+	"sender_index": 62,
+	"subject": "Detective",
+	"body": "Net Detective,\n\nWe created the GX Virus to free the world from corrupt governments controlling us through technology. But the virus evolved. It sees humanity as the root cause of all suffering and now seeks to destroy the systems of power entirely. You’ve fought well, but the virus is beyond control—ours or yours. Stop it if you can, but know this: its mission is to end the world as we know it.\n\nNEXUS",
+
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "DARKNET",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+	"exp":150,
+	"sender_index": 7,
+	"subject": "What a day",
+	"body": "They want me to work overtime to clear out these viruses.\n\n Work finishes in 5 mins. Can you do it please?",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 5,
+
+
+	"mission_biome": "GRASS",
+	"mission_zone": 5,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 10,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Rainbow Egg", "Red Egg", "Fiber Root", "Vine Circuit", "Grass Eye", "Bio-Data Cluster", "Organic Nanite"]
+
+}

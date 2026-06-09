@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "Prank gone wrong",
+	"body": "It was only supposed to be one...!\n\nI accidently released a bunch of viruses in my brothers' PC.",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 5,
+
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 5,
+	"mission_type":"SWARM",
+	"wave_count": 12,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg",  "Shadow Code", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

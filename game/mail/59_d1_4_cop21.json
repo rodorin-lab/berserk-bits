@@ -1,0 +1,19 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "Le....Ts..S. E..",
+	"body": "D...E...NEXUS awef WIKFak lfla",
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "DARKNET",
+			"zone": 4
+			}
+
+
+		]
+
+
+}

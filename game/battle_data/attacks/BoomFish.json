@@ -1,0 +1,36 @@
+{
+	"beats": [
+		{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.2
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 40,
+		"move_pattern":"PONG",
+		"move_style":"HOV",
+		"move_speed": 0.5,
+		"idle_time":0,
+		"life":30000,
+		"on_hit":"EXPLODE",
+		"spawn_pos": []
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1,
+		"sprite_speed":0.3
+		}
+	],
+
+	"sprites":[
+			{
+			"filename":"bomb.png",
+			"frames":4,
+			"xo": 16,
+			"yo": 28,
+			}
+		]
+}

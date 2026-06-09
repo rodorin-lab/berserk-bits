@@ -1,0 +1,22 @@
+{
+	"inbox_index": 0,
+	"type" : "Call",
+	"caller" : "COP",
+	"messages" : [
+		"Woah… that was a doozy.",
+		"That was no ordinary virus.",
+		"Thank you for handling that!"
+		],
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 4
+			}
+
+
+		]
+
+
+}

@@ -1,0 +1,19 @@
+{
+	"type" : "AUTO",
+	"object" : "obj_chip_cap_program",
+	"name" : "Chip Cap",
+	"description" : "Increase Chip Capacity to 6",
+	"generate_seconds" : 0,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 9,
+			"yo": 18
+			}
+		],
+
+	"idle_index": 0,
+
+}

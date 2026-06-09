@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+	"exp":150,
+	"sender_index": 7,
+	"subject": "Accident...",
+	"body": "I accidently launched a buggy virus program. Can you take it down in the next 5 mins so no one knows?",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 7,
+
+
+	"mission_biome": "GRASS",
+	"mission_zone": 7,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 10,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Grass Teal", "Silver Egg", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+}

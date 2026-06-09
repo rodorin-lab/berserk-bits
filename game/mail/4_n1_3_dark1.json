@@ -1,0 +1,22 @@
+{
+	"inbox_index": 0,
+	"type" : "Call",
+	"caller" : "GENOS",
+	"messages" : [
+			"A new Net Agent?",
+			"Interesting..."
+		],
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 3
+			}
+
+
+		]
+
+
+}

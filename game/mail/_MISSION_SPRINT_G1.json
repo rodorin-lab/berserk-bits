@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"exp":150,
+	"sender_index": 7,
+	"subject": "Time Trial!",
+	"body": "I bet you can't bust 5 waves of viruses in 5 minutes!",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 1,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 1,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 10,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Grass Teal", "Fiber Root", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+}

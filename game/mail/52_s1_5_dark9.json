@@ -1,0 +1,22 @@
+{
+	"inbox_index": 0,
+	"type" : "Call",
+	"caller" : "GENOS",
+	"messages" : [
+			"I've told you to stop.",
+			"You chosen to ignore me.",
+			"You're officially out of warnings."
+		],
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "PRISM",
+			"zone": 5
+			}
+
+
+		]
+
+
+}

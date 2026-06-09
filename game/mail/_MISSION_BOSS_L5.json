@@ -1,0 +1,30 @@
+{
+	"inbox_index": 1,
+	"exp":400,
+	"sender_index": 7,
+	"subject": "Wifi issues?",
+	"body": "Strange, we're not being allowed to access the web because of some BOSS viruses...\n\nCould I pay you to handle them?",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 7,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 5,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, null,
+                 null, null, "LMINI1",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "LMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "LBOSS",
+                 null, null, null]
+		],
+
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Eden", "Lava Egg", "Thermal Core", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte"]
+
+}

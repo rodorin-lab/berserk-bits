@@ -1,0 +1,22 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "Welcome Aboard!",
+	"body": "Thanks again for signing up!\n\nHere's a Health and a Coin Program to help you get started!",
+	"button": {
+		"text":"DOWNLOAD",
+		"forever" : false,
+		"effect": "ITEM",
+		"item_name": ["GoldEgg", "HeartEgg", "Auto-Shaker (Used)", "Net Egg"]
+		},
+
+	"unlock_conditions": [
+
+			{
+			"type" : "CALL",
+			"code": "0_N1_1_COP0"
+			}
+		]
+
+
+}

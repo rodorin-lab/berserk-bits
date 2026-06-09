@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":200,
+	"sender_index": 7,
+	"subject": "BIG XP",
+	"body": "Viruses I tell ya, everywhere!\n\nCan you delete these freaks hanging around my partners' NET space?",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 7,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 7,
+	"mission_type":"SWARM",
+	"wave_count": 13,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Lava Toriyama", "Lava BW Egg", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte", "Thermal Core"]
+
+}

@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "",
+	"generate_seconds" : 300,
+	"productive_minutes" : 40,
+	"food_preference" : 7,
+	"egg" : "Net Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 23,
+			"yo": 42,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

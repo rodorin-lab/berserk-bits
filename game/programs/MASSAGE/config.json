@@ -1,0 +1,22 @@
+{
+
+	"type" : "AUTO",
+	"object" : "obj_massage_bot_program",
+	"name" : "Massage Bot",
+	"description" : "Automatically cracks your Mining Material Diamond for you.",
+	"generate_seconds" : 0,
+	"speed" : 0.35,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 11,
+			"yo": 27
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

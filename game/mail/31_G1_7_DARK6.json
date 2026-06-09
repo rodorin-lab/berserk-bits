@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 62,
+	"subject": "???",
+	"body": "...",
+
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "GRASS",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

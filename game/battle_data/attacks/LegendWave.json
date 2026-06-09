@@ -1,0 +1,40 @@
+{
+	"beats": [
+		{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.2
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 80,
+		"move_pattern":"HOR",
+		"move_style":"TEL",
+		"move_speed": 0,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"",
+		"spawn_pos": [
+			"0","0","0","0",
+			"0","S","0","0",
+			"0","0","0","0"
+			]
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1,
+		"sprite_speed":0.3
+		}
+	],
+
+	"sprites":[
+			{
+			"filename":"tsunami2.png",
+			"frames":7,
+			"xo": 34,
+			"yo": 55,
+			}
+		]
+}

@@ -1,0 +1,23 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "BarrierB",
+	"generate_seconds" : 210,
+	"productive_minutes" : 15,
+	"food_preference" : 4,
+	"egg" : "Sky Yellow Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 20,
+			"yo": 48,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "FLOAT",
+	"walk_anim" : "FLOAT"
+
+}

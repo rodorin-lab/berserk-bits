@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "LtnJustce",
+	"generate_seconds" : 250,
+	"productive_minutes" : 30,
+	"food_preference" : 7,
+	"egg" : "Sky Ltn",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 17,
+			"yo": 34,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "FLOAT"
+}

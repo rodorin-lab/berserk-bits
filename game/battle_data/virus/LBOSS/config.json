@@ -1,0 +1,30 @@
+{
+	"hp": 620,
+	"exp": 8500,
+	"coins": 500,
+	"move_pattern":"RAND",
+	"move_style":"TEL",
+	"move_speed":1,
+	"pierce": true,
+	"idle_time":50,
+	"idle_anim" : "SQUISH",
+	"attack_trigger":"TILE",
+	"trigger_tiles_min": 3,
+	"trigger_tiles_max": 5,
+	"trigger_time": 0,
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 55,
+			"yo": 91,
+			}
+		],
+	"idle_sprite_index": 0,
+	"idle_sprite_speed": 0,
+	"attacks":[
+			{
+			"name":"shokwave"
+			}
+		]
+}

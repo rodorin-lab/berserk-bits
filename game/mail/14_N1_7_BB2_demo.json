@@ -1,0 +1,28 @@
+{
+	"inbox_index": 0,
+	"sender_index": 46,
+	"subject": "Thank You!",
+	"body": "Thank you for playing Berserk B.I.T.S!\n\nAs a reward for completing the demo, please take this secret code as a reward.\n\nThis code will unlock something special in the final game, so keep it safe.",
+	"button": {
+		"text":"XO-BBX",
+		"forever" : true,
+		"effect": "LINK",
+		"url": ""
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 7
+			},
+			{
+			"type" : "DEMO",
+			"true_false": true
+			}
+
+
+		]
+
+
+}

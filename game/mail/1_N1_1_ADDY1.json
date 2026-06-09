@@ -1,0 +1,24 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "HelperBOTS + EGGS",
+	"body": "I can't believe you beat your first area!\n\nBeginner's luck I'm sure...\n\nMaybe a noob like you could use you one of these.\n\nEggs Hatch into BOTS who will make BATTLE CHIPS for you!\n\nJust remember to FEED them!",
+	"button": {
+		"text":"DOWNLOAD",
+		"forever" : false,
+		"effect": "ITEM",
+		"item_name": ["Net Egg","Auto-Shaker (Used)"]
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 1
+			}
+
+
+		]
+
+
+}

@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":400,
+	"sender_index": 7,
+	"subject": "Virus Swarm!",
+	"body": "There's a virus swarm in the the arcade!\n\nPlease help us!",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 1,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 1,
+	"mission_type":"SWARM",
+	"wave_count": 10,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Lava Eden", "Lava BW Egg", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte"]
+
+}

@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 62,
+	"subject": "???",
+	"body": "You're gunning for the wrong side… You and your B.I.T are pretty promising.\n\nJoin us, or we'll beat you to a pulp.",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "GRASS",
+			"zone": 4
+			}
+
+
+		]
+
+
+}

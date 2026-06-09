@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 62,
+	"subject": "???",
+	"body": "Meet me here:",
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "GRASS",
+			"zone": 1
+			}
+
+
+		]
+
+
+}

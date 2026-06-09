@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "GnarlyWind",
+	"generate_seconds" : 100,
+	"productive_minutes" : 25,
+	"food_preference" : 1,
+	"egg" : "Sky Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 21,
+			"yo": 34,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

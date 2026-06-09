@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "GoBersrk",
+	"generate_seconds" : 190,
+	"productive_minutes" : 13,
+	"food_preference" : 7,
+	"egg" : "Purple Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 19,
+			"yo": 35,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "FLOAT",
+	"walk_anim" : "FLOAT"
+}

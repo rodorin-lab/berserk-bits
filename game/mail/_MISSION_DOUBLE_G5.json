@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":300,
+	"sender_index": 7,
+	"subject": "Want to watch reels.",
+	"body": "Look, I'm trying to relax on the web and apparently 2 huge viruses are causing issues.\n\nCan you delete them please?",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 7,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 5,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+	[null, null, "GMINI1",
+                 null, null, null,
+                 null, null, "GMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Grass Ears", "Fiber Root", "Vine Circuit", "BlackWhite Egg", "Bio-Data Cluster", "Organic Nanite"]
+
+}

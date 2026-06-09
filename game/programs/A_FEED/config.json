@@ -1,0 +1,21 @@
+{
+
+	"type" : "AUTO",
+	"object" : "obj_server_program",
+	"name" : "Feeder Bot",
+	"description" : "Feeds Programs Food from your Inventory",
+	"generate_seconds" : 0,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 19,
+			"yo": 55,
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

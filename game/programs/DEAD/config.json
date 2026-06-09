@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "WtrGunB",
+	"generate_seconds" : 100,
+	"productive_minutes" : 10,
+	"food_preference" : 1,
+	"egg" : "Grass Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 15,
+			"yo": 41,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

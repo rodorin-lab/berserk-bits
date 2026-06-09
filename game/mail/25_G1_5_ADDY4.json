@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "Too Many Viruses",
+	"body": "You must not be doing your job. There's viruses EVERYWHERE.\n\nDo something about it, 'detective'.",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "GRASS",
+			"zone": 5
+			}
+
+
+		]
+
+
+}

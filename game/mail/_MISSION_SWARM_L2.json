@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+	"sender_index": 7,
+	"subject": "So many viruses!",
+	"body": "Look, I have a party to go too.\n\nViruses mean no wifi for music. ",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 2,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 2,
+	"mission_type":"SWARM",
+	"wave_count": 10,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Lava Eden", "Thermal Core", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte"]
+
+}

@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "WARNING!",
+	"body": "NEXUS isn't just a rogue group—they're a global threat. Be ready. Things are escalating.",
+
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "PRISM",
+			"zone": 6
+			}
+
+
+		]
+
+
+}

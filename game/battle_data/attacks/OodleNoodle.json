@@ -1,0 +1,106 @@
+{
+	"beats": [
+	{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.2
+	},
+	{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 30,
+		"move_pattern":"",
+		"move_style":"FALL",
+		"move_speed": 0.1,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"STUN",
+		"spawn_pos": []
+	},
+	{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.3
+	},
+	{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 30,
+		"move_pattern":"",
+		"move_style":"FALL",
+		"move_speed": 0.1,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"STUN",
+		"spawn_pos": []
+	},
+	{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.2
+	},
+	{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 30,
+		"move_pattern":"",
+		"move_style":"FALL",
+		"move_speed": 0.1,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"STUN",
+		"spawn_pos": []
+	},
+	{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.2
+	},
+	{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 35,
+		"move_pattern":"",
+		"move_style":"FALL",
+		"move_speed": 0.1,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"STUN",
+		"spawn_pos": []
+	},
+	{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.2
+	},
+	{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 30,
+		"move_pattern":"",
+		"move_style":"FALL",
+		"move_speed": 0.1,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"STUN",
+		"spawn_pos": []
+		},
+
+		
+	],
+
+
+	"sprites":[
+			{
+			"filename":"oodlenoodle.png",
+			"frames":20,
+			"xo": 18,
+			"yo": 30,
+			}
+		]
+}

@@ -1,0 +1,25 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "Welcome!",
+	"body": "Welcome to the Prism zone! More polygons more problems.\n\nI can't think of a good segue. TO THE SLOTS!!",
+
+	"button": {
+		"text":"DOWNLOAD",
+		"forever" : false,
+		"effect": "TOKEN",
+		"amount": "3"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "PRISM",
+			"zone": 1
+			}
+
+
+		]
+
+
+}

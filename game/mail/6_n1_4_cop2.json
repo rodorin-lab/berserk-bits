@@ -1,0 +1,28 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "For the PAY WALL!",
+	"body": "Thanks again for helping us!\n\nHere's 200 coins to help with that fee.",
+	"button": {
+		"text":"REDEEM",
+		"forever" : false,
+		"effect": "COIN",
+		"amount": "200"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 3
+			},
+			{
+			"type" : "CALL",
+			"code": "5_N1_4_COP1"
+			}
+
+
+		]
+
+
+}

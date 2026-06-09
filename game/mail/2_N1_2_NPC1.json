@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 6,
+	"subject": "Collect More Eggs!",
+	"body": "Hey!\n\nYou know there's a lot of different eggs you can collect in different areas.\n\nTry re visiting areas of the net to find cool new Helper Bots!",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 2
+			}
+
+
+		]
+
+
+}

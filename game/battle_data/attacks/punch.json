@@ -1,0 +1,28 @@
+{
+	"beats": [
+		{
+		"type":"TEL"
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":0
+		},
+		{
+		"type":"HIT",
+		"damage": 60,
+		"life": 10,
+		"spawn_pos": [
+			"0","0","0","0",
+			"S","X","0","0",
+			"0","0","0","0"
+			]
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1
+		}
+	],
+
+	"sprites":[
+		]
+}

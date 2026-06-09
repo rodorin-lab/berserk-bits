@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "It's me again",
+	"body": "Hey, can someone turn these HEAL BOTS back on? they've stopped working.",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 4,
+
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 4,
+	"mission_type":"NOHEAL+",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Spin2", "Shadow Code", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

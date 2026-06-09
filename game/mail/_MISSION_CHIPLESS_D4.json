@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "ANNOYING HACKERS",
+	"body": "I think there's a hacker stopping everyone from using battle chips.\n\nPlease help us!",
+	"exp":1000,
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 4,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 4,
+	"mission_type":"CHIPLESS",
+	"wave_count": 3,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Thrmo", "Dark Green", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+
+}

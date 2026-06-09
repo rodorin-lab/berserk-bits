@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "is my B.I.T ok?",
+	"body": "Thats strange, I can't use my battle chips\n\nMaybe someone is preventing their use?",
+	"exp":150,
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 7,
+	"wave_count": 3,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 7,
+	"mission_type":"CHIPLESS",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Green Egg", "Fiber Root", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+
+}

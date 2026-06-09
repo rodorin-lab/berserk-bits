@@ -1,0 +1,18 @@
+{
+	"inbox_index": 1,
+	"exp":50,
+	"sender_index": 7,
+	"subject": "I'm weak though?",
+	"body": "So no one can heal in the battle dome.\n\nYou may be effected too, can you please help?",
+	"unlocked_biome":"NET",
+	"unlocked_zone": 2,
+
+	"mission_biome": "NET",
+	"mission_zone": 2,
+	"mission_type":"NOHEAL",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Net Egg", "Blue Egg", "White Egg", "Signal Thread", "Cache Code", "Firewall Fragment", "Bandwidth Crystal"]
+
+}

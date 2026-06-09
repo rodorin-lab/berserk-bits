@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "RestoreA",
+	"generate_seconds" : 200,
+	"productive_minutes" : 90,
+	"food_preference" : 3,
+	"egg" : "Red Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 21,
+			"yo": 26,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

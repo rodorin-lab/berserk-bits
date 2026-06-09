@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "Burn?",
+	"body": "You okay? That was a close one. NEXUS is pushing harder than ever. It’s not just about the plant—they’re after something deep in the volcano. You’ve got to stop them!",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "LAVA",
+			"zone": 6
+			}
+
+
+		]
+
+
+}

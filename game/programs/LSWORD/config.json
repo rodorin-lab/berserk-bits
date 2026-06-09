@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "LongSword",
+	"generate_seconds" : 180,
+	"productive_minutes" : 40,
+	"food_preference" : 5,
+	"egg" : "Dark Green",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 21,
+			"yo": 33,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "FLOAT",
+	"walk_anim" : "FLOAT"
+}

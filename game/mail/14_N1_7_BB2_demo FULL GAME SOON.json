@@ -1,0 +1,28 @@
+{
+	"inbox_index": 0,
+	"sender_index": 46,
+	"subject": "FULL GAME SOON!",
+	"body": "Berserk B.I.T.S Launches soon! with 100+ battle chips  \n\n7 Different Areas to explore, 4 unique B.I.T.S and a lot more customisation and missions!\n\nWe hope you enjoyed this taster! Don't forget to Wishlist the game <3",
+"button": {
+		"text":"WISHLIST",
+		"forever" : true,
+		"effect": "LINK",
+		"url": "https://store.steampowered.com/app/2348540/Berserk_BITS/"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 7
+			},
+			{
+			"type" : "DEMO",
+			"true_false": true
+			}
+
+
+		]
+
+
+}

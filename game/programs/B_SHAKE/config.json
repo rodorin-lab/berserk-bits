@@ -1,0 +1,22 @@
+{
+
+	"type" : "AUTO",
+	"object" : "obj_auto_shaker_program_used",
+	"name" : "Auto-Shaker (Used)",
+	"description" : "Shakes Money and Heart Bots",
+	"generate_seconds" : 0,
+	"speed" : 0.4,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 16,
+			"yo": 31,
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

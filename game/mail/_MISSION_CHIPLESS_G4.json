@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "ANNOYING HACKERS",
+	"body": "I think there's a hacker stopping everyone from using battle chips.\n\nPlease help us!",
+"exp":150,
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 4,
+	"wave_count": 3,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 4,
+	"mission_type":"CHIPLESS",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Eye", "Grass Teal", "Fiber Root", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+
+}

@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":150,
+	"sender_index": 7,
+	"subject": "Oopsie",
+	"body": "It was only supposed to be one...!\n\nI accidently released a bunch of viruses in my teachers' PC.",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 5,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 5,
+	"mission_type":"SWARM",
+	"wave_count": 15,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Eye", "Grass Hut", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+}

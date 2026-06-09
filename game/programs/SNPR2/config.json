@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "",
+	"generate_seconds" : 210,
+	"productive_minutes" : 25,
+	"food_preference" : 3,
+	"egg" : "Grass Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 18,
+			"yo": 37,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

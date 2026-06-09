@@ -1,0 +1,19 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "YOU DID IT!",
+	"body": "Net Detective... that was amazing!\n\nThe Net seems safe for now.\n\nWe're currently on our way to NEXUS head quarters.\n\nYou and your B.I.T have been unbelivable.\n\nPlease stick around Net Detective.\n\nWe still need you on board, you never know when danger could strike again!",
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "DARKNET",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

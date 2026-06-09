@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+	"sender_index": 7,
+	"subject": "Double Trouble!",
+	"body": "Two mini bosses are messing up the place!\n\nClear the out!",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 7,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 3,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "LMINI1",
+                 null, null, null,
+                 null, null, "LMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg",  "Lava Red Egg", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte"]
+
+}

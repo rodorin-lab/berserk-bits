@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "is my B.I.T ok?",
+	"body": "Thats strange, I can't use my battle chips\n\nMaybe someone is preventing their use?",
+"exp":800,
+	"unlocked_biome":"PRISM",
+	"unlocked_zone": 7,
+
+	"mission_biome": "PRISM",
+	"mission_zone": 7,
+	"mission_type":"CHIPLESS",
+	"wave_count": 3,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Prism Egg", "Purple Egg", "Frost Shard", "Glacial Code", "Ice Thread", "Prism Orange", "Cryo Core"]
+
+
+}

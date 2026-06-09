@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":300,
+	"sender_index": 7,
+	"subject": "Double Trouble!",
+	"body": "Two mini bosses are messing up the place!\n\nClear the out!",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 3,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 3,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "GMINI1",
+                 null, null, null,
+                 null, null, "GMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Grass Ears", "Fiber Root", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+}

@@ -1,0 +1,51 @@
+{
+	"beats": [
+		{
+		"type":"MOVE",
+		"x": 10,
+		"y": 0,
+		"frames" : 10
+ 		},
+		{
+		"type":"FLASH",
+		"frames":40
+		},
+		{
+		"type":"MOVE",
+		"x": -20,
+		"y": 0,
+		"frames" : 10
+ 		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.4,
+		"damage": 20,
+		"move_pattern":"HOR",
+		"move_style":"JUMP",
+		"move_speed": 1.5,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"STUN",
+		"spawn_pos": [
+			"SX","0","0","0",
+			"0","0","0","0",
+			"0","0","0","0"
+			]
+		},
+		{
+		"type":"MOVE",
+		"x": 10,
+		"y": 0,
+		"frames" : 5
+ 		}
+	],
+	"sprites":[
+			{
+			"filename":"boulder.png",
+			"frames":4,
+			"xo": 22,
+			"yo": 36
+			}
+		]
+}

@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 19,
+	"subject": "NET Duration",
+	"body": "Hey, different areas of the NET are longer than others.\n\n The more clock symbols that show, mean it'll take longer to clear the area!.\n\n Try to keep that in mind! ",
+
+"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 2
+			}
+
+
+		]
+
+
+}

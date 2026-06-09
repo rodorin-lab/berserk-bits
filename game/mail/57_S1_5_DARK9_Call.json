@@ -1,0 +1,21 @@
+{
+	"inbox_index": 0,
+	"type" : "Call",
+	"caller" : "GENOS",
+	"messages" : [
+			"You don't belong here Net Detective.",
+			"You're both officially on your own."
+			"Don't think your little friends will be able to support you here."
+			"Let's see what you and that B.I.T of yours can do."
+		],
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "DARKNET",
+			"zone": 1
+			}
+		
+
+
+		]

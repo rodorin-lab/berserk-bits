@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "LegendBurst",
+	"generate_seconds" : 130,
+	"productive_minutes" : 20,
+	"food_preference" : 5,
+	"egg" : "Darknet Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 17,
+			"yo": 41,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "FLOAT",
+	"walk_anim" : "FLOAT"
+}

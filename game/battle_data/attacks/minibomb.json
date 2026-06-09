@@ -1,0 +1,12 @@
+{
+	"beats": [
+		{
+		"type":"ANIM",
+		"sprite_index":0
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1
+		}
+	]
+}

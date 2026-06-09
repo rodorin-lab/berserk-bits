@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":200,
+	"sender_index": 7,
+	"subject": "Oopsie",
+	"body": "It was only supposed to be one...!\n\nI accidently released a bunch of viruses in my teachers' PC.",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 5,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 5,
+	"mission_type":"SWARM",
+	"wave_count": 13,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Lava Toriyama",  "Thermal Core", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte"]
+
+}

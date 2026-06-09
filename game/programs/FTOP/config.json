@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "FrozenTop",
+	"generate_seconds" : 130,
+	"productive_minutes" : 25,
+	"food_preference" : 3,
+	"egg" : "Sky Green Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 9,
+			"yo": 18,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "BOUNCE"
+}

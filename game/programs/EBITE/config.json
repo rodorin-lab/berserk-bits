@@ -1,0 +1,23 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "GrassBite",
+	"generate_seconds" : 100,
+	"productive_minutes" : 25,
+	"food_preference" : 6,
+	"egg" : "Silver Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 22,
+			"yo": 52,
+
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

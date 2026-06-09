@@ -1,0 +1,17 @@
+{
+	"inbox_index": 0,
+	"sender_index": 8,
+	"subject": "MAYDAY!",
+	"body": "Everything is going haywire! The security scanners are identifying everyone as a threat. Can you locate and disable the malicious code?",
+"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "SKY",
+			"zone": 2
+			}
+
+
+		]
+
+
+}

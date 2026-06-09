@@ -1,0 +1,23 @@
+{
+	"inbox_index": 0,
+	"sender_index": 15,
+	"subject": "Hey Kid",
+	"body": "The virus' will spank you good 'round here. Don't gamble with your life.\n\nGamble with this instead!",
+	"button": {
+		"text":"DOWNLOAD",
+		"forever" : false,
+		"effect": "TOKEN",
+		"amount": "1"
+		},
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "GRASS",
+			"zone": 1
+			}
+
+
+		]
+
+
+}

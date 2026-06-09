@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "Recharge",
+	"generate_seconds" : 150,
+	"productive_minutes" : 20,
+	"food_preference" : 2,
+	"egg" : "Lava Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 13,
+			"yo": 22,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

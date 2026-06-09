@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "DeathDefy",
+	"generate_seconds" : 200,
+	"productive_minutes" : 5,
+	"food_preference" : 7,
+	"egg" : "Sky Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 13,
+			"yo": 26,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

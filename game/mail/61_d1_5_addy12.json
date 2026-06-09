@@ -1,0 +1,23 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "Welcome!",
+	"body": "… GX Virus?!",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "DARKNET",
+			"zone": 5
+			},
+			{
+			"type" : "READ",
+			"email": "60_D1_5_DARK10"
+			}
+		
+
+
+		]
+
+
+}

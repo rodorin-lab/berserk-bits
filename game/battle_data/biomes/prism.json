@@ -1,0 +1,562 @@
+{
+  "x": 353,
+  "y": 293,
+  "palette_index": 3,
+  "subzones": [
+    {
+      "name": "PRISM 1",
+      "x": 317,
+      "y": 320,
+      "recomendedLevel": 87,
+      "isBoss": false,
+      "bgIndex": 27,
+      "beat_minutes": 3,
+      "battle_spawn_rate": 12,
+      "mine_spawn_rate": 2,
+      "treasure_spawn_rate": 1,
+      "icon": 0,
+      "clocks": 1,
+      "enemy_multiplier": 3.9,
+      "lock_condition": "NONE",
+      "lock_amount": 0,
+      "battleID": [
+        "A",
+        "B"
+      ],
+      "encounters": [],
+      "ore": [
+        "Frost Shard",
+        "Glacial Code"
+      ]
+    },
+    {
+      "name": "PRISM 2",
+      "x": 290,
+      "y": 297,
+      "recomendedLevel": 92,
+      "isBoss": false,
+      "bgIndex": 28,
+      "beat_minutes": 4,
+      "battle_spawn_rate": 13,
+      "mine_spawn_rate": 2,
+      "treasure_spawn_rate": 1,
+      "icon": 0,
+      "clocks": 1,
+      "enemy_multiplier": 4,
+      "lock_condition": "NONE",
+      "lock_amount": 0,
+      "battleID": [
+        "B",
+        "C"
+      ],
+      "encounters": [],
+      "ore": [
+        "Ice Thread",
+        "Frost Shard"
+      ]
+    },
+    {
+      "name": "PRISM 3",
+      "x": 319,
+      "y": 285,
+      "recomendedLevel": 95,
+      "isBoss": true,
+      "bgIndex": 8,
+      "beat_minutes": 3,
+      "battle_spawn_rate": 10,
+      "mine_spawn_rate": 2,
+      "treasure_spawn_rate": 1,
+      "icon": 0,
+      "clocks": 1,
+      "enemy_multiplier": 4,
+      "lock_condition": "NONE",
+      "lock_amount": 0,
+      "battleID": [
+        "B",
+        "C"
+      ],
+      "encounters": [
+        {
+          "spawn_minutes": 1,
+          "grid": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "PMINI1",
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "ore": [
+        "Frost Shard",
+        "Frozen Circuit"
+      ]
+    },
+    {
+      "name": "PRISM 4",
+      "x": 340,
+      "y": 260,
+      "recomendedLevel": 99,
+      "isBoss": false,
+      "bgIndex": 29,
+      "beat_minutes": 4,
+      "battle_spawn_rate": 9,
+      "mine_spawn_rate": 2,
+      "treasure_spawn_rate": 1,
+      "icon": 0,
+      "clocks": 1,
+      "enemy_multiplier": 4.2,
+      "lock_condition": "NONE",
+      "lock_amount": 0,
+      "battleID": [
+        "C",
+        "D"
+      ],
+      "encounters": [],
+      "ore": [
+        "Frozen Circuit",
+        "Ice Thread"
+      ]
+    },
+    {
+      "name": "PRISM 5",
+      "x": 390,
+      "y": 268,
+      "recomendedLevel": 100,
+      "isBoss": true,
+      "bgIndex": 30,
+      "beat_minutes": 1,
+      "battle_spawn_rate": 10,
+      "mine_spawn_rate": 2,
+      "treasure_spawn_rate": 1,
+      "icon": 0,
+      "clocks": 1,
+      "enemy_multiplier": 4.4,
+      "lock_condition": "COIN",
+      "lock_amount": 25000,
+      "battleID": [
+        "D",
+        "E"
+      ],
+      "encounters": [
+        {
+          "spawn_minutes": 1,
+          "grid": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "PMINI2",
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "ore": [
+        "Cryo Core",
+        "Glacial Code"
+      ]
+    },
+    {
+      "name": "PRISM 6",
+      "x": 369,
+      "y": 290,
+      "recomendedLevel": 110,
+      "isBoss": false,
+      "bgIndex": 31,
+      "beat_minutes": 4,
+      "battle_spawn_rate": 8,
+      "mine_spawn_rate": 2,
+      "treasure_spawn_rate": 1,
+      "icon": 0,
+      "clocks": 1,
+      "enemy_multiplier": 4.2,
+      "lock_condition": "NONE",
+      "lock_amount": 0,
+      "battleID": [
+        "E",
+        "F"
+      ],
+      "encounters": [],
+      "ore": [
+        "Frozen Circuit",
+        "Frost Shard"
+      ]
+    },
+    {
+      "name": "PRISM 7",
+      "x": 396,
+      "y": 307,
+      "recomendedLevel": 110,
+      "isBoss": true,
+      "bgIndex": 9,
+      "beat_minutes": 1,
+      "battle_spawn_rate": 9,
+      "mine_spawn_rate": 2,
+      "treasure_spawn_rate": 1,
+      "icon": 0,
+      "clocks": 1,
+      "enemy_multiplier": 4.3,
+      "lock_condition": "NONE",
+      "lock_amount": 0,
+      "battleID": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "encounters": [
+        {
+          "spawn_minutes": 1,
+          "grid": [
+            "PROCK",
+            null,
+            null,
+            "PROCK",
+            null,
+            "PBOSS",
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "ore": [
+        "Cryo Core",
+        "Ice Thread"
+      ]
+    }
+  ],
+  "tile_variation": 1,
+  "battles": [
+    {
+      "battleID": "A",
+      "grid": [
+        null,
+        "PDUCK",
+        null,
+        null,
+        "PROCK",
+        null,
+        "PROCK",
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "A",
+      "grid": [
+        null,
+        null,
+        "PROCK",
+        null,
+        "PDUCK",
+        null,
+        "PROCK",
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "A",
+      "grid": [
+        null,
+        "PDUCK",
+        null,
+        null,
+        "PDUCK",
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "A",
+      "grid": [
+        "PDUCK",
+        null,
+        "PDUCK",
+        null,
+        null,
+        null,
+        null,
+        "PROCK",
+        null
+      ]
+    },
+    {
+      "battleID": "B",
+      "grid": [
+        null,
+        "PDUCK",
+        null,
+        null,
+        "PFACE",
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "B",
+      "grid": [
+        "PDUCK",
+        null,
+        "PFACE",
+        null,
+        "PROCK",
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "B",
+      "grid": [
+        null,
+        "PFACE",
+        null,
+        null,
+        "PDUCK",
+        null,
+        null,
+        "PDUCK",
+        null
+      ]
+    },
+    {
+      "battleID": "B",
+      "grid": [
+        null,
+        null,
+        null,
+        null,
+        "PFACE",
+        null,
+        "PDUCK",
+        null,
+        "PDUCK"
+      ]
+    },
+    {
+      "battleID": "C",
+      "grid": [
+        null,
+        "PFACE",
+        null,
+        null,
+        "PFLY",
+        null,
+        null,
+        "PDUCK",
+        null
+      ]
+    },
+    {
+      "battleID": "C",
+      "grid": [
+        null,
+        "PFLY",
+        null,
+        null,
+        "PFACE",
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "C",
+      "grid": [
+        "PFLY",
+        null,
+        "PFACE",
+        null,
+        "PDUCK",
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "C",
+      "grid": [
+        null,
+        null,
+        null,
+        "PFLY",
+        null,
+        "PDUCK",
+        null,
+        null,
+        "PFACE"
+      ]
+    },
+    {
+      "battleID": "D",
+      "grid": [
+        null,
+        "PFLY",
+        null,
+        null,
+        "PFACE",
+        null,
+        null,
+        "PFLY",
+        null
+      ]
+    },
+    {
+      "battleID": "D",
+      "grid": [
+        null,
+        null,
+        null,
+        "PFACE",
+        "PROCK",
+        "PFACE",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "D",
+      "grid": [
+        "PFACE",
+        null,
+        "PFLY",
+        null,
+        null,
+        null,
+        "PFACE",
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "E",
+      "grid": [
+        null,
+        "PMAGI",
+        null,
+        null,
+        "PROCK",
+        null,
+        null,
+        "PFLY",
+        null
+      ]
+    },
+    {
+      "battleID": "E",
+      "grid": [
+        null,
+        "PROCK",
+        null,
+        "PMAGI",
+        null,
+        "PFLY",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "E",
+      "grid": [
+        "PMAGI",
+        null,
+        "PFLY",
+        null,
+        "PROCK",
+        null,
+        "PMAGI",
+        null,
+        null
+      ]
+    },
+    {
+      "battleID": "F",
+      "grid": [
+        null,
+        "PMAGI",
+        null,
+        null,
+        "PROCK",
+        null,
+        null,
+        "PMAGI",
+        null
+      ]
+    },
+    {
+      "battleID": "F",
+      "grid": [
+        "PROCK",
+        null,
+        "PMAGI",
+        null,
+        "PROCK",
+        null,
+        null,
+        null,
+        "PMAGI"
+      ]
+    },
+    {
+      "battleID": "F",
+      "grid": [
+        null,
+        "PROCK",
+        null,
+        "PMAGI",
+        null,
+        "PROCK",
+        null,
+        "PMAGI",
+        null
+      ]
+    }
+  ],
+  "EGG": {
+    "reward_icon": "prism_egg_ui.png",
+    "egg_sprite": "ice_egg.png",
+    "hatch_sprite": "ice_egg_hatch.png",
+    "codes": [
+        "MAG",
+        "WIZ",
+        "CNDY",
+        "TRTLE2",
+        "DRAG"
+    ]
+  },
+  "reward_coins": 20,
+  "rewards": [
+    {
+      "type": "EGG",
+      "value": 1
+    },
+    {
+      "type": "EGG",
+      "value": 1
+    },
+    {
+      "type": "EGG",
+      "value": 1
+    }
+  ]
+}

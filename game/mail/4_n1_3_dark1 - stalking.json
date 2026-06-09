@@ -1,0 +1,19 @@
+{
+	"inbox_index": 0,
+	"sender_index": 62,
+	"subject": "...",
+	"body": "We'll be keeping our eye on you.",
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 3
+			}
+
+
+		]
+
+
+}

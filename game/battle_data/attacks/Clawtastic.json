@@ -1,0 +1,37 @@
+{
+	"beats": [
+		{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.3
+		},
+			{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 30,
+		"move_pattern":"HOR",
+		"move_style":"HOV",
+		"move_speed": 0,
+		"idle_time":10,
+		"life": 20,
+		"on_hit":"CRIT",
+		"spawn_on_enemy" : true,
+		"spawn_pos": []
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1,
+		"sprite_speed":0.3
+		}
+	],
+
+	"sprites":[
+			{
+			"filename":"crab.png",
+			"frames":14,
+			"xo": 37,
+			"yo": 62
+			}
+		]
+}

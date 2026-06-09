@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "NO TIME!",
+	"body": "I messed up. I downloaded something funky.\n\nPeople are coming to my house in 1 minute and I NEED these viruses gone!.",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 3,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 3,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 6,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Toad", "Bite Egg", "Corrupted Data Shard", "Hydro Egg", "Claw Egg", "NullCore"]
+
+}

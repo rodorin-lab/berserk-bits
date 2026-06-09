@@ -1,0 +1,24 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "Too Many Viruses",
+	"body": "Things sure are HEATING up hehehe.\n\nI've got something for you. So don't say I didn't do nothing for ya.",
+	"button": {
+		"text":"DOWNLOAD",
+		"forever" : false,
+		"effect": "ITEM",
+		"item_name": "Lava Egg"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "LAVA",
+			"zone": 1
+			}
+
+
+		]
+
+
+}

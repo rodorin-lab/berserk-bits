@@ -1,0 +1,20 @@
+{
+	"type" : "AUTO",
+	"object" : "obj_speed_boost_program",
+	"name" : "Speed Boost",
+	"description" : "Periodically increases your BIT's Speed during battle.",
+	"generate_seconds" : 0,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 9,
+			"yo": 18
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

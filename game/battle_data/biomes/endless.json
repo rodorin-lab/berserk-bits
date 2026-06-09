@@ -1,0 +1,891 @@
+{
+  "x" : 832,
+  "y" : 211,
+  "palette_index" : 5,
+
+  "subzones": [
+		{
+		"name": "Zone A",
+		"x":832,
+		"y":211,
+		"recomendedLevel" :  7,
+		"clocks" : 0,
+		"isBoss" : true,
+ 		"battle_spawn_rate": 15,
+		"mine_spawn_rate": 0,
+		"beat_minutes" : 1,
+		"treasure_spawn_rate": 0,
+		"icon" : 0,
+		"enemy_multiplier": 7,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B", "C", "D", "E", "F"],
+		"encounters": [
+			{
+			"spawn_minutes": 5,
+      			"grid": [
+				null, null, null,
+				null, null, "GENOS",
+				null, null, null
+      				]
+    			}
+			]
+		}
+		
+	],
+
+  "card": "biome_cards5.png",
+  "tile_variation" : 1,
+  "battles": [
+    	{
+        "battleID": "A",
+        "grid": [null, "BLD", null,
+                 null, null, null,
+                 null, "BBX", null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, null, null,
+                 null, "BLD", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "NMOLE", null,
+                 null, "NMOLE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["NMOLE", null, "NMOLE",
+                 null, null, null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "NMOLE", null,
+                 null, "NSLIME", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["NMOLE", null, "NSLIME",
+                 null, null, null,
+                 "BLD", null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "NSLIME", null,
+                 null, "NMOLE", null,
+                 null, "NMOLE", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "NSLIME", null,
+                 "NMOLE", null, "NMOLE"]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "NSLIME", null,
+                 null, "NCOP", null,
+                 null, "NMOLE", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "NCOP", null,
+                 null, "NSLIME", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["NCOP", null, "NSLIME",
+                 null, "NMOLE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, null, null,
+                 "NCOP", null, "NMOLE",
+                 null, "BLD", "NSLIME"]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, "NCOP", null,
+                 null, "NSLIME", null,
+                 null, "NCOP", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, null, null,
+                 "NSLIME", "NCOP", "NSLIME",
+                 null, null, null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["NSLIME", null, "NCOP",
+                 null, null, null,
+                 "NSLIME", null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "NYOYO", null,
+                 null, "NCOP", null,
+                 null, "NSLIME", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "NCOP", null,
+                 "NYOYO", "BLD", "NSLIME",
+                 null, null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["NYOYO", null, "NSLIME",
+                 null, "NCOP", null,
+                 "NYOYO", null, null]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "NYOYO", null,
+                 null, "NCOP", null,
+                 null, "NYOYO", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["NCOP", null, "NYOYO",
+                 null, "NCOP", null,
+                 null, null, "NYOYO"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "NCOP", null,
+                 "NYOYO", null, "NCOP",
+                 null, "NYOYO", null]
+    },
+	{
+      	"battleID": "P",
+      	"grid": [null, null, null, 
+		"BLD", "NPIG", null,
+		null, null, null]
+    	},
+{
+        "battleID": "A",
+        "grid": [null, "GNUT", null,
+                 null, null, null,
+                 "BBX", null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, null, null,
+                 null, "GNUT", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "GNUT", null,
+                 "BLD", "GNUT", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["GNUT", null, "GNUT",
+                 null, null, null,
+                 null, "DDX", null]
+    },
+
+
+    {
+        "battleID": "B",
+        "grid": [null, "GNUT", null,
+                 null, "GHEDGE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["GNUT", null, "GHEDGE",
+                 null, null, null,
+                 null, "BLD", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "GHEDGE", null,
+                 null, "GNUT", null,
+                 null, "GNUT", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "GHEDGE", null,
+                 "GNUT", null, "GNUT"]
+    },
+
+
+    {
+        "battleID": "C",
+        "grid": [null, "GHEDGE", null,
+                 null, "GKID", null,
+                 null, "GNUT", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "GKID", null,
+                 null, "GHEDGE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["GKID", null, "GHEDGE",
+                 null, "GNUT", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, null, null,
+                 "GKID", null, "GNUT",
+                 null, "BLD", "GHEDGE"]
+    },
+
+
+    {
+        "battleID": "D",
+        "grid": [null, "GKID", null,
+                 null, "GHEDGE", null,
+                 null, "GKID", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, null, null,
+                 "GHEDGE", "GTREE", "GHEDGE",
+                 null, null, null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["GHEDGE", null, "GKID",
+                 null, null, null,
+                 "GHEDGE", null, null]
+    },
+
+
+    {
+        "battleID": "E",
+        "grid": [null, "GTENGU", null,
+                 "DDX", "GTREE", null,
+                 null, "GKID", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "GTREE", null,
+                 "GTENGU", null, "GKID",
+                 null, null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["GTENGU", null, "GKID",
+                 null, "GTREE", null,
+                 "GTENGU", null, null]
+    },
+
+
+    {
+        "battleID": "F",
+        "grid": [null, "GTENGU", null,
+                 null, "GTREE", "BLD",
+                 null, "GTENGU", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["GTREE", null, "GTENGU",
+                 null, "GTREE", null,
+                 null, null, "GTENGU"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "GTREE", null,
+                 "GTENGU", null, "GTREE",
+                 null, "GTENGU", null]
+    },
+{
+        "battleID": "A",
+        "grid": [null, "SBUG", null,
+                 null, null, null,
+                 "BLD", null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, null, null,
+                 null, "SBUG", null,
+                 null, null, "DDX"]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "SBUG", null,
+                 null, "SBUG", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["SBUG", null, "SBUG",
+                 null, null, null,
+                 null, null, null]
+    },
+
+    {
+        "battleID": "B",
+        "grid": [null, "SBUG", null,
+                 null, "SCROW", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["SBUG", null, "SCROW",
+                 null, null, null,
+                 null, "BLD", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "SCROW", null,
+                 null, "SBUG", null,
+                 null, "SBUG", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "SCROW", null,
+                 "SBUG", null, "SBUG"]
+    },
+
+
+    {
+        "battleID": "C",
+        "grid": [null, "SCROW", null,
+                 null, "SCLOUD", null,
+                 null, "SBUG", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "SCLOUD", null,
+                 null, "SCROW", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["SCLOUD", null, "SCROW",
+                 null, "SBUG", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "NJX", null,
+                 "SCLOUD", null, "SBUG",
+                 null, null, "SCROW"]
+    },
+
+
+    {
+        "battleID": "D",
+        "grid": [null, "SCLOUD", null,
+                 null, "SCROW", null,
+                 null, "SCLOUD", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, null, null,
+                 "SCROW", "SEAGLE", "SCROW",
+                 null, "BLD", null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["SCROW", null, "SCLOUD",
+                 null, null, null,
+                 "SCROW", "NJX", null]
+    },
+
+
+    {
+        "battleID": "E",
+        "grid": [null, "SWOLF", null,
+                 null, "SEAGLE", null,
+                 null, "SCLOUD", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "SEAGLE", null,
+                 "SWOLF", null, "SCLOUD",
+                 null, "BLD", null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["SWOLF", null, "SCLOUD",
+                 null, "SEAGLE", null,
+                 "SWOLF", null, null]
+    },
+
+
+    {
+        "battleID": "F",
+        "grid": [null, "SWOLF", null,
+                 null, "SEAGLE", null,
+                 null, "SWOLF", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["SEAGLE", null, "SWOLF",
+                 null, "SEAGLE", null,
+                 null, null, "SWOLF"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "SEAGLE", null,
+                 "SWOLF", null, "SEAGLE",
+                 null, "SWOLF", null]
+    },
+{
+        "battleID": "A",
+        "grid": [null, "PDUCK", null,
+                 null, null, null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, null, null,
+                 null, "PDUCK", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "PDUCK", null,
+                 null, "PDUCK", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["PDUCK", null, "PDUCK",
+                 null, null, null,
+                 null, "BBX", null]
+    },
+
+
+    {
+        "battleID": "B",
+        "grid": [null, "PDUCK", null,
+                 null, "PFACE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["PDUCK", null, "PFACE",
+                 null, null, null,
+                 null, "BLD", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "PFACE", null,
+                 null, "PDUCK", null,
+                 null, "PDUCK", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "PFACE", null,
+                 "PDUCK", null, "PDUCK"]
+    },
+
+
+    {
+        "battleID": "C",
+        "grid": [null, "PFACE", null,
+                 null, "PFLY", null,
+                 null, "PDUCK", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "PFLY", null,
+                 null, "PFACE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["PFLY", null, "PFACE",
+                 "BLD", "PDUCK", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, null, null,
+                 "PFLY", null, "PDUCK",
+                 null, null, "PFACE"]
+    },
+
+
+    {
+        "battleID": "D",
+        "grid": [null, "PFLY", null,
+                 null, "PFACE", null,
+                 null, "PFLY", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, null, null,
+                 "PFACE", "PROCK", "PFACE",
+                 null, "BBX", null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["PFACE", "DDX", "PFLY",
+                 null, null, null,
+                 "PFACE", null, null]
+    },
+
+
+    {
+        "battleID": "E",
+        "grid": [null, "PMAGI", null,
+                 null, "PROCK", null,
+                 null, "PFLY", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "PROCK", null,
+                 "PMAGI", null, "PFLY",
+                 null, null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["PMAGI", null, "PFLY",
+                 null, "PROCK", null,
+                 "PMAGI", null, null]
+    },
+
+
+    {
+        "battleID": "F",
+        "grid": [null, "PMAGI", null,
+                 null, "PROCK", null,
+                 null, "PMAGI", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["PROCK", null, "PMAGI",
+                 null, "PROCK", null,
+                 null, null, "PMAGI"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "PROCK", null,
+                 "PMAGI", null, "PROCK",
+                 null, "PMAGI", null]
+    },
+{
+        "battleID": "A",
+        "grid": [null, "LSAM", null,
+                 null, null, null,
+                 null, "NJX", null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, null, null,
+                 null, "LSAM", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "LSAM", null,
+                 null, "LSAM", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["LSAM", null, "LSAM",
+                 "BLD", null, null,
+                 null, "DDX", null]
+    },
+
+
+    {
+        "battleID": "B",
+        "grid": [null, "LSAM", null,
+                 null, "LFIRE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["LSAM", null, "LFIRE",
+                 null, null, "BLD",
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "LFIRE", null,
+                 null, "LSAM", null,
+                 null, "LSAM", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "LFIRE", null,
+                 "LSAM", null, "LSAM"]
+    },
+
+
+    {
+        "battleID": "C",
+        "grid": [null, "LFIRE", null,
+                 null, "LSTAMP", null,
+                 null, "LSAM", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "LSTAMP", null,
+                 null, "LFIRE", null,
+                 "BLD", null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["LSTAMP", null, "LFIRE",
+                 null, "LSAM", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, null, null,
+                 "LSTAMP", null, "LSAM",
+                 null, "DDX", "LFIRE"]
+    },
+
+
+    {
+        "battleID": "D",
+        "grid": [null, "LSTAMP", null,
+                 null, "LFIRE", null,
+                 null, "LSTAMP", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, null, null,
+                 "LFIRE", "LSUN", "LFIRE",
+                 null, null, null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["LFIRE", null, "LSTAMP",
+                 null, null, null,
+                 "LFIRE", null, null]
+    },
+
+
+    {
+        "battleID": "E",
+        "grid": [null, "LWIZ", null,
+                 null, "LSUN", "BLD",
+                 null, "LSTAMP", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "LSUN", null,
+                 "LWIZ", null, "LSTAMP",
+                 null, null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["LWIZ", null, "LSTAMP",
+                 null, "LSUN", null,
+                 "LWIZ", null, null]
+    },
+
+
+    {
+        "battleID": "F",
+        "grid": [null, "LWIZ", null,
+                 null, "LSUN", null,
+                 null, "LWIZ", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["LSUN", null, "LWIZ",
+                 null, "LSUN", null,
+                 null, null, "LWIZ"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "LSUN", null,
+                 "LWIZ", null, "LSUN",
+                 null, "LWIZ", null]
+    },
+{
+        "battleID": "A",
+        "grid": [null, "DBOO", null,
+                 null, null, null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "BBX", null,
+                 "BLD", "DBOO", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "DBOO", null,
+                 null, "DBOO", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["DBOO", null, "DBOO",
+                 null, null, null,
+                 null, null, null]
+    },
+
+
+    {
+        "battleID": "B",
+        "grid": [null, "DBOO", null,
+                 null, "DFRANK", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["DBOO", null, "DFRANK",
+                 null, null, null,
+                 null, "BLD", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "DFRANK", null,
+                 null, "DBOO", null,
+                 null, "DBOO", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "DFRANK", null,
+                 "DBOO", null, "DBOO"]
+    },
+
+
+    {
+        "battleID": "C",
+        "grid": [null, "DFRANK", null,
+                 null, "DMUMMY", null,
+                 null, "DBOO", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "DMUMMY", null,
+                 null, "DFRANK", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["DMUMMY", null, "DFRANK",
+                 null, "DBOO", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, null, null,
+                 "DMUMMY", null, "DBOO",
+                 null, null, "DFRANK"]
+    },
+
+    {
+        "battleID": "D",
+        "grid": [null, "DMUMMY", null,
+                 null, "DFRANK", null,
+                 null, "DMUMMY", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, "NJX", null,
+                 "DFRANK", "DDEMON", "DFRANK",
+                 null, null, null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["DFRANK", null, "DMUMMY",
+                 null, null, null,
+                 "DFRANK", "BLD", null]
+    },
+
+
+    {
+        "battleID": "E",
+        "grid": [null, "DKING", null,
+                 null, "DDEMON", null,
+                 null, "DMUMMY", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "DDEMON", null,
+                 "DKING", null, "DMUMMY",
+                 null, null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["DKING", null, "DMUMMY",
+                 null, "DDEMON", null,
+                 "DKING", null, null]
+    },
+
+
+    {
+        "battleID": "F",
+        "grid": [null, "DKING", null,
+                 null, "DDEMON", null,
+                 null, "DKING", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["DDEMON", null, "DKING",
+                 null, "DDEMON", null,
+                 null, null, "DKING"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "DDEMON", null,
+                 "DKING", null, "DDEMON",
+                 null, "DKING", null]
+    }
+
+  ],
+
+
+ "reward_coins": 20,
+  "rewards" : [
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "MEDAL",
+		"value": 1
+		}
+	],
+
+
+
+
+
+  "EGG" : {
+	"reward_icon":"dark_egg_ui.png",
+	"egg_sprite":"skull_egg.png",
+	"hatch_sprite":"skull_egg_hatch.png",
+	"codes": [
+		
+		"ENDSH",
+		"GOBRSK",
+		"NOMEM",
+                "CPYTHIS",
+		"CLOCKA"
+
+		]
+	},
+
+
+
+}

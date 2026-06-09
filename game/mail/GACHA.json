@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 25,
+	"subject": "GACHA TOKENS!",
+	"body": "OMG OMG OMG OMG The shop sells some GACHA TOKENS. SO YOU CAN GET RARE BOTS. I bought so many, they only sell them in intervals now :)",
+
+"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 5
+			}
+
+
+		]
+
+
+}

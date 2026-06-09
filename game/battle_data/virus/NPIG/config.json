@@ -1,0 +1,27 @@
+{
+	"hp": 40,
+	"exp": 2,
+	"coins": 80,
+	"move_pattern":"RAND",
+	"move_style":"TEL",
+	"move_speed":1,
+	"idle_time":20,
+	"idle_anim" : "SQUISH",
+	"attack_trigger":"TILE",
+	"trigger_tiles_min": 3,
+	"trigger_tiles_max": 5,
+	"trigger_time": 0,
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 17,
+			"yo": 34,
+			}
+		],
+	"idle_sprite_index": 0,
+	"idle_sprite_speed": 0,
+	"attacks":[
+			
+		]
+}

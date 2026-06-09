@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 19,
+	"subject": "IT'S GONNA BLOW!",
+	"body": "Our control systems are under attack! If we can't stabilize the cores, the volcanic pressure could cause an eruption. Please, help us regain control!",
+
+	
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "LAVA",
+			"zone": 2
+			}
+
+
+		]
+
+
+}

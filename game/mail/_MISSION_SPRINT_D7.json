@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+		"exp":1000,
+	"sender_index": 7,
+	"subject": "Accident...",
+	"body": "I accidently launched a buggy virus program. Can you take it down in the next 5 mins so no one knows?",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 7,
+
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 7,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 5,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg",  "Shadow Code", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

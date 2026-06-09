@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+"exp":800,
+	"sender_index": 7,
+	"subject": "Want to watch reels.",
+	"body": "Look, I'm trying to relax on the web and apparently 2 huge viruses are causing issues.\n\nCan you delete them please?",
+	"unlocked_biome":"PRISM",
+	"unlocked_zone": 5,
+
+	"mission_biome": "PRISM",
+	"mission_zone": 5,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+			[null, null, "PMINI1",
+                 null, null, null,
+                 null, null, "PMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Prism Egg", "Prism Wiz", "Prism Orange", "Glacial Code", "Ice Thread", "Frozen Circuit", "Cryo Core"]
+
+}

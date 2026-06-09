@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "GobPunch",
+	"generate_seconds" : 150,
+	"productive_minutes" : 15,
+	"food_preference" : 4,
+	"egg" : "Darknet Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 14,
+			"yo": 30,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "BOUNCE"
+}

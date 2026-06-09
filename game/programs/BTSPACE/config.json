@@ -1,0 +1,19 @@
+{
+	"type" : "AUTO",
+	"object" : "obj_bot_space_program",
+	"name" : "Bot Space",
+	"description" : "Increase BOT Capacity by 2",
+	"generate_seconds" : 0,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 9,
+			"yo": 18
+			}
+		],
+
+	"idle_index": 0,
+
+}

@@ -1,0 +1,62 @@
+{
+	"beats": [
+		{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.8
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":1,
+		"damage": 20,
+		"move_pattern":"HOR",
+		"move_style":"HOV",
+		"move_speed": 0,
+		"idle_time":5,
+		"life": 65,
+		"on_hit":"STUN",
+		"spawn_pos": []
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":1,
+		"damage": 20,
+		"move_pattern":"HOR",
+		"move_style":"HOV",
+		"move_speed": 0,
+		"idle_time":5,
+		"life": 65,
+		"on_hit":"STUN",
+		"spawn_pos": []
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":1,
+		"damage": 20,
+		"move_pattern":"HOR",
+		"move_style":"HOV",
+		"move_speed": 0,
+		"idle_time":5,
+		"life": 65,
+		"on_hit":"STUN",
+		"spawn_pos": []
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1,
+		"sprite_speed":0.1
+		}
+	],
+
+	"sprites":[
+			{
+			"filename":"shocker.png",
+			"frames":20,
+			"xo": 24,
+			"yo": 36,
+			}
+		]
+}

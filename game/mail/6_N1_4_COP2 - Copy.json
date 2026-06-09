@@ -1,0 +1,28 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "UNLOCKING WALL",
+	"body": "So when you have the money, your B.I.T should be able to just pay for that lock.\n\nDrop them on it.\n\nOh go on have another 100.",
+	"button": {
+		"text":"REDEEM",
+		"forever" : false,
+		"effect": "COIN",
+		"amount": "100"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 3
+			},
+			{
+			"type" : "CALL",
+			"code": "5_N1_4_COP1"
+			}
+
+
+		]
+
+
+}

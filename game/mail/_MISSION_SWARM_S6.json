@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+"exp":600,
+
+	"sender_index": 7,
+	"subject": "Need Agent",
+	"body": "Hey Net Agent.\n\Can some lazy battler handle the disturbance in the square please?",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 6,
+
+	"mission_biome": "SKY",
+	"mission_zone": 6,
+	"mission_type":"SWARM",
+	"wave_count": 12,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Blue Egg",, "Sky Yellow Egg", "Airwave Fabric", "Sky Blue Egg",, "Storm Crystal", "Wind Circuit", "Lightning Shard"]
+
+}

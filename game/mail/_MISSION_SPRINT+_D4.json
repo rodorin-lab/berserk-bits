@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "Time Trial PLUS!",
+	"body": "I bet you can't bust 5 waves of viruses in 1 minute!",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 4,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 4,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 7,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Black Egg", "Dark Purple", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

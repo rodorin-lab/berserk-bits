@@ -1,0 +1,28 @@
+{
+	"inbox_index": 0,
+	"sender_index": 46,
+	"subject": "Join the Community!",
+	"body": "Have thoughts? wants, wishes? we want to keep expanding! Join our discord and share your thoughts! ",
+	"button": {
+		"text":"DISCORD",
+		"forever" : true,
+		"effect": "LINK",
+		"url": "https://discord.gg/uEyG5tfDzQ"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 2
+			},
+			{
+			"type" : "DEMO",
+			"true_false": true
+			}
+
+
+		]
+
+
+}

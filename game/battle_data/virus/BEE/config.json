@@ -1,0 +1,43 @@
+{
+	"hp": 20,
+	"exp": 200,
+	"move_pattern":"PONG",
+	"move_style":"HOV",
+	"move_speed":0.5,
+	"idle_time":0,
+	"attack_trigger":"ROW",
+	"trigger_tiles_min": 3,
+	"trigger_tiles_max": 5,
+	"trigger_time": 0,
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":3,
+			"xo": 31,
+			"yo": 38,
+			},
+			{
+			"filename":"shoot_windup.png",
+			"frames":2,
+			"xo": 41,
+			"yo": 46,
+			},
+			{
+			"filename":"shoot_cooldown.png",
+			"frames":4,
+			"xo": 41,
+			"yo": 46,
+			}
+		],
+	"idle_sprite_index": 0,
+	"idle_sprite_speed": 0.2,
+	"attacks":[
+			{
+			"name":"minibomb",
+			"sprite_index_0": 1,
+			"sprite_speed_0": 0.3,
+			"sprite_index_1": 2,
+			"sprite_speed_1": 0.3
+			}
+		]
+}

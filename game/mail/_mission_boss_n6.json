@@ -1,0 +1,29 @@
+{
+	"inbox_index": 1,
+	"exp":40,
+	"sender_index": 7,
+	"subject": "Anime no sub.",
+	"body": "There's some Big Boys lurking around my Online Language class \n\nYou don't think you could handle these viruses do you?",
+	"unlocked_biome":"NET",
+	"unlocked_zone": 7,
+
+	"mission_biome": "NET",
+	"mission_zone": 6,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, null,
+                 null, null, "NMINI1",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "NMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "NBOSS",
+                 null, null, null]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Net Egg", "Blue Egg", "Mach Egg", "Data Shard", "Signal Thread", "Cache Code", "Firewall Fragment", "Bandwidth Crystal", "Data Shard"]
+
+}

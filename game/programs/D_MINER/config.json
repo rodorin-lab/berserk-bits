@@ -1,0 +1,22 @@
+{
+
+	"type" : "AUTO",
+	"object" : "obj_diamond_miner_program",
+	"name" : "Diamond Miner",
+	"description" : "Automatically cracks your Mining Material Diamond for you.",
+	"generate_seconds" : 0,
+	"speed" : 0.6,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 13,
+			"yo": 29
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

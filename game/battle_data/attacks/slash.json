@@ -1,0 +1,41 @@
+{
+	"beats": [
+		{
+		"type":"TEL"
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":0
+		},
+		{
+		"type":"PROJ",
+		"sprite_index": 0,
+		"play_speed":0.3,
+		"damage": 40,
+		"move_pattern":"HOR",
+		"move_style":"HOV",
+		"move_speed": 0,
+		"idle_time":10,
+		"life":10,
+		"on_hit":"",
+		"spawn_pos": [
+			"S","X","0","0",
+			"0","0","0","0",
+			"0","0","0","0"
+			]
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1
+		}
+	],
+
+	"sprites":[
+			{
+			"filename":"slash.png",
+			"frames":5,
+			"xo": 18,
+			"yo": 13,
+			}
+		]
+}

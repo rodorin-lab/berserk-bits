@@ -1,0 +1,23 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "OvrClockA",
+	"generate_seconds" : 200,
+	"productive_minutes" : 10,
+	"food_preference" : 7,
+	"egg" : "Prism Green",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 13,
+			"yo": 39,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+
+}

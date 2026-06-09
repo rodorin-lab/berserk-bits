@@ -1,0 +1,29 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "Eggs!",
+	"body": "Psst. Here's a secret. Bad guys don't like eggs.",
+
+	"button": {
+		"text":"DOWNLOAD",
+		"forever" : false,
+		"effect": "ITEM",
+		"item_name": "Prism Egg"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "PRISM",
+			"zone": 5
+			},
+			{
+			"type" : "READ",
+			"email": "52_S1_5_DARK9"
+			}
+
+
+		]
+
+
+}

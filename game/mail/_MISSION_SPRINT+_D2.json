@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "Not again...",
+	"body": "SWARMS OF VIRUSES. SWARMS!!!!!!!!!",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 2,
+
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 2,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 6,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Spin2", "Dark Purple", "Corrupted Data Shard", "Peanut Butter", "Blackfire Crystal", "NullCore"]
+
+}

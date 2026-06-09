@@ -1,0 +1,18 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+	"sender_index": 7,
+	"subject": "Health BOTS down!",
+	"body": How can I train my BIT battlers if they can't heal?\n\nNET detective, can you handle it? I think we've been hacked.",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 5,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 5,
+	"mission_type":"NOHEAL",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Thermal Core", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte"]
+
+}

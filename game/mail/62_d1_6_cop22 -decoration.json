@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "DECORATIONS",
+	"body": "Feel free to decorate your HomeBoard! if you don't like something, just throw it off the board.\n\nIt'll just delete itself! If you want to re-tile. Just select the blank tile!.\n\nWe're still working on making this bigger and better!",
+
+"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 2
+			}
+
+
+		]
+
+
+}

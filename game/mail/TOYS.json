@@ -1,0 +1,17 @@
+{
+	"inbox_index": 0,
+	"sender_index": 12,
+	"subject": "TOYS TOYS TOYS!!!",
+	"body": "SALE SALE SALE SALE! we're open for business!\n\nOur unique toys make your BOTS HAPPY, so they work harder and faster!"
+"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 3
+			}
+
+
+		]
+
+
+}

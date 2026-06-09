@@ -1,0 +1,38 @@
+{
+	"beats": [
+		{
+		"type":"ANIM",
+		"sprite_index":0
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 20,
+		"move_pattern":"HOR",
+		"move_style":"HOV",
+		"move_speed": 0.5,
+		"idle_time":10,
+		"life":30000000,
+		"on_hit":"DIE",
+		"spawn_pos": [
+			"SX","0","0","0",
+			"0","0","0","0",
+			"0","0","0","0"
+			]
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1
+		}
+	],
+
+	"sprites":[
+			{
+			"filename":"bubble.png",
+			"frames":4,
+			"xo": 15,
+			"yo": 30,
+			}
+		]
+}

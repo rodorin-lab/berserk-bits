@@ -1,0 +1,19 @@
+{
+	"inbox_index": 0,
+	"sender_index": 62,
+	"subject": "Help",
+	"body": "Net Detective,\n\nThings have escalated beyond our control. The GX Virus has surpassed even our expectations. It's no longer following orders—it's rewriting them.\n\nNEXUS",
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "DARKNET",
+			"zone": 5
+			}
+
+
+		]
+
+
+}

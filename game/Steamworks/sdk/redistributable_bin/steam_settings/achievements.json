@@ -1,0 +1,450 @@
+[
+  {
+    "description": "Clear 5 missions",
+    "displayName": "Finish 5 missions!",
+    "hidden": 0,
+    "icon": "achievement_images/4ed340e5594d79a3f1b3dfd3e440eae814af8c79.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "FINISH_5_MISSIONS"
+  },
+  {
+    "description": "Clear 10 missions",
+    "displayName": "Finish 10 missions!",
+    "hidden": 0,
+    "icon": "achievement_images/cba687c6682b7230406a250f4f5392cffcd9bf99.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "FINISH_10_MISSIONS"
+  },
+  {
+    "description": "Clear 15 missions",
+    "displayName": "Finish 15 missions!",
+    "hidden": 0,
+    "icon": "achievement_images/4809a60c1ffd8882689a5ee1fa3775466477d8e3.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "FINISH_15_MISSIONS"
+  },
+  {
+    "description": "Bust 50 viruses",
+    "displayName": "Pretty easy right?",
+    "hidden": 0,
+    "icon": "achievement_images/6c5eba01c668fea286d210e8afd4ec9ba5d00a74.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUST_50_VIRUSES"
+  },
+  {
+    "description": "Bust 100 viruses",
+    "displayName": "Still easy right?",
+    "hidden": 0,
+    "icon": "achievement_images/448858b4bc1e1775199ab70c9ef5bc4aa81df0af.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUST_100_VIRUSES"
+  },
+  {
+    "description": "Craft 50 Chips",
+    "displayName": "Master Crafter !",
+    "hidden": 0,
+    "icon": "achievement_images/f0a018351b961d20a5aba06a1d793f3882f52254.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MAKE_50_CHIPS"
+  },
+  {
+    "description": "Reach level 10",
+    "displayName": "Getting stronger!",
+    "hidden": 0,
+    "icon": "achievement_images/f6320c109d057cab8569cfa134a639a3447d06c5.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_10"
+  },
+  {
+    "description": "Reach level 20",
+    "displayName": "Probably pretty good now !",
+    "hidden": 0,
+    "icon": "achievement_images/942f3e035d94ce26a0386403861a6a08e5f7c9de.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_20"
+  },
+  {
+    "description": "Reach level 40",
+    "displayName": "A worthy Net Detective !",
+    "hidden": 0,
+    "icon": "achievement_images/8c506911702969b2864d7161102785e437b1475c.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_40"
+  },
+  {
+    "description": "Reach level 80",
+    "displayName": "We're really getting there!",
+    "hidden": 0,
+    "icon": "achievement_images/3cf433599f025e478b4c650d634e74ab86d13fb3.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_80"
+  },
+  {
+    "description": "Reach level 90",
+    "displayName": "Dang.. it's over 90",
+    "hidden": 0,
+    "icon": "achievement_images/82a3766a817671c907cb5a41a2977b5d8a6e806d.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_90"
+  },
+  {
+    "description": "Reach level 100",
+    "displayName": "You've only gone and done it!",
+    "hidden": 0,
+    "icon": "achievement_images/61feb8434d7b127e702067582e9706628b6d5d90.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_100"
+  },
+  {
+    "description": "Reach level 150",
+    "displayName": "Powered up and still fighting!",
+    "hidden": 0,
+    "icon": "achievement_images/83af3a264d0c4918573f0c71adf908e98d4f13a7.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_150"
+  },
+  {
+    "description": "Reach level 200",
+    "displayName": "I bet you wish we added PvP",
+    "hidden": 0,
+    "icon": "achievement_images/dc87e1b6ff2d95764bba4c5bde8acab820542bf8.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_200"
+  },
+  {
+    "description": "Reach level 250",
+    "displayName": "LEVEL 250? JEEEZE",
+    "hidden": 0,
+    "icon": "achievement_images/759c79f3602f98c70c0011176b49de9012cbd05a.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_250"
+  },
+  {
+    "description": "Buy 20 Tiles",
+    "displayName": "Tiling the floor is fun",
+    "hidden": 0,
+    "icon": "achievement_images/80524a1a989a4e5ee1d78e9e5d2bff88996e057e.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUY_20_TILES"
+  },
+  {
+    "description": "Buy 10 Decor",
+    "displayName": "Hey big spender",
+    "hidden": 0,
+    "icon": "achievement_images/340d84e2ffec1316886a34096e5aa5aa15a0d211.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUY_10_DECOR"
+  },
+  {
+    "description": "Buy 30 food",
+    "displayName": "only 30 food?",
+    "hidden": 0,
+    "icon": "achievement_images/9e5156347a16068ea17804f93ccb89875aabb127.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUY_30_FOOD"
+  },
+  {
+    "description": "Reach level 300!",
+    "displayName": "YOU'RE TOO POWERFUL",
+    "hidden": 0,
+    "icon": "achievement_images/9e351ba3d38a8ac229a71fbe9d57cb6ec540672a.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_300"
+  },
+  {
+    "description": "Buy 2 land extensions",
+    "displayName": "no rent on these suckers!",
+    "hidden": 0,
+    "icon": "achievement_images/b9fbba9739c34664306d4c5589827f23f0966f16.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "UNLOCK_BOTH_LAND_EXPANSIONS"
+  },
+  {
+    "description": "Make 20 Dex entries!",
+    "displayName": "Don't stop now!",
+    "hidden": 0,
+    "icon": "achievement_images/4f7b7b81ab7e000e25096b41030b385ee1af9ca5.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MAKE_20_DEX_ENTRIES"
+  },
+  {
+    "description": "Make 50 Dex entries",
+    "displayName": "We're like half way there",
+    "hidden": 0,
+    "icon": "achievement_images/706835057a84aed2386269dc409af1354d56f6b0.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MAKE_50_DEX_ENTRIES"
+  },
+  {
+    "description": "Make 90 Dex entries",
+    "displayName": "So so so close!",
+    "hidden": 0,
+    "icon": "achievement_images/02a0c8dce46ffab9671d36618ebeaa4e7bd46dbd.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MAKE_90_DEX_ENTRIES"
+  },
+  {
+    "description": "Make 101 Dex entries",
+    "displayName": "Unlike Ash, I completed the DEX",
+    "hidden": 0,
+    "icon": "achievement_images/ceb8aa1be1bcf921b77e75e30e74f0f5f904b45c.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MAKE_101_DEX_ENTRIES"
+  },
+  {
+    "description": "Clear 100 E-mail Missions",
+    "displayName": "The Net Detective!",
+    "hidden": 0,
+    "icon": "achievement_images/e75beadc2f4989c6a905f8e33f8d0ffe86558f9a.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "CLEAR_100_EMAIL_MISSIONS"
+  },
+  {
+    "description": "Clear 200 E-mail Missions",
+    "displayName": " Legendary Net Detective!",
+    "hidden": 0,
+    "icon": "achievement_images/8b785abc7e7c832ce01c2fb5e9e38753426e74bf.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "CLEAR_200_EMAIL_MISSIONS"
+  },
+  {
+    "description": "Try Gacha 10 times!",
+    "displayName": "welcome to your new addiction",
+    "hidden": 0,
+    "icon": "achievement_images/88b2a2d9978b78273a66abfd5711c066e3a79166.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "GACHA_10_TIMES"
+  },
+  {
+    "description": "Try Gacha 50 times!",
+    "displayName": "Atleast it's not real money?",
+    "hidden": 0,
+    "icon": "achievement_images/776d7fed280991519418dbfc2c858accfd5f6dc5.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "GACHA_50_TIMES"
+  },
+  {
+    "description": "Try Gacha 100 times!",
+    "displayName": "I'm not addicted",
+    "hidden": 0,
+    "icon": "achievement_images/039ddd0f2a96e4c50fca96e5223831eda5c57178.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "GACH_100_TIMES"
+  },
+  {
+    "description": "Purchase 5 Automation tools",
+    "displayName": "We're shmoovin",
+    "hidden": 0,
+    "icon": "achievement_images/47cde613fc2f0aa4de2ce285240a399518763a3a.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "PURCHASE_5_AUTOMATION_TOOLS"
+  },
+  {
+    "description": "Purchase all Automation tools",
+    "displayName": "Got em all!",
+    "hidden": 0,
+    "icon": "achievement_images/f2c3046dab73ca0828bfc277880d5bdf7520137c.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "PURCHASE_ALL_AUTOMATION_TOOLS"
+  },
+  {
+    "description": "Purchase 5 different toys",
+    "displayName": "Bots love toys!",
+    "hidden": 0,
+    "icon": "achievement_images/8f475029df98995223f4351d93d6267519b0a102.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "PURCHASE_5_DIFFERENT_TOYS"
+  },
+  {
+    "description": "Purchase 10 different toys!",
+    "displayName": "So this makes you stronger?",
+    "hidden": 0,
+    "icon": "achievement_images/3cb3ff0ace6e43aedb2a72750702bd77c000533b.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "PURCHASE_10_DIFFERENT_TOYS"
+  },
+  {
+    "description": "Purchase all toys!",
+    "displayName": "All the toys, Must have all the toys!",
+    "hidden": 0,
+    "icon": "achievement_images/d2fd7e73c2fef84656298ecd4ebf555d1f84d8f3.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "PURCHASE_ALL_DIFFERENT_TOYS"
+  },
+  {
+    "description": "Bust 1000 viruses",
+    "displayName": "Haven't even broke a sweat yet.",
+    "hidden": 0,
+    "icon": "achievement_images/6aa43136093fbd2895bc4f44eb41001e51d784d6.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUST_1000_VIRUSES"
+  },
+  {
+    "description": "Bust 5000 viruses",
+    "displayName": "I'm known as the virus buster",
+    "hidden": 0,
+    "icon": "achievement_images/ab2ba83f6c944e16a9a12d9f3cb1702f7a13cd3f.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUST_5000_VIRUSES"
+  },
+  {
+    "description": "Get 10,000 coins!",
+    "displayName": "look at all these coins!",
+    "hidden": 0,
+    "icon": "achievement_images/d92b0e73e4784db8ea3dbea73752a24ce263c79e.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "GET_10000_COINS"
+  },
+  {
+    "description": "Get 100,000 coins!",
+    "displayName": "Very wadded",
+    "hidden": 0,
+    "icon": "achievement_images/499521ef32f47ee4270c5a3aa79399853cd9a8b6.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "GET_100000_COINS"
+  },
+  {
+    "description": "Get 500,000 coins!",
+    "displayName": "Pretty darn wadded",
+    "hidden": 0,
+    "icon": "achievement_images/703ddf0c2fd1496544299ca4c66254c648e004d1.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "GET_500000_COINS"
+  },
+  {
+    "description": "Get 1,000,000 coins",
+    "displayName": " Absolutely wadded",
+    "hidden": 0,
+    "icon": "achievement_images/ffef88115baa2bda3d87d94f8007a33b052346b3.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "GET_1000000_COINS"
+  },
+  {
+    "description": "Hatch 300 Eggs!",
+    "displayName": "Welcome to my cluttered board!",
+    "hidden": 0,
+    "icon": "achievement_images/a02a1bd4e600edd6961e3d859cc6891fb7882b99.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "HATCH_300_EGGS"
+  },
+  {
+    "description": "Buy 1000 Food",
+    "displayName": "Do we have enough space for this?",
+    "hidden": 0,
+    "icon": "achievement_images/cf67358952e6e658e0c519426712f9c385be3de3.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUY_1000_FOOD"
+  },
+  {
+    "description": "Buy 500 decor",
+    "displayName": "Is this my new hobby?",
+    "hidden": 0,
+    "icon": "achievement_images/783d712084d4347f9fa497feba0823887c503bdd.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUY_500_DECOR"
+  },
+  {
+    "description": "Buy 1000 decor",
+    "displayName": "Home decorator",
+    "hidden": 0,
+    "icon": "achievement_images/f70296ca2043bd35c29a8613c94070033d07935b.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUY_1000_DECOR"
+  },
+  {
+    "description": "Buy 500 tiles",
+    "displayName": "Home Tiling pro",
+    "hidden": 0,
+    "icon": "achievement_images/63dc943126833dc2dc7e3cce36becd4acfd64856.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "BUY_500_TILES"
+  },
+  {
+    "description": "Style change for the first time!",
+    "displayName": "STYLE CHANGE!",
+    "hidden": 0,
+    "icon": "achievement_images/6775945d4732306854ca0ed4f5b7688217b6e03b.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "STYLE_CHANGE"
+  },
+  {
+    "description": "Style change 5 times!",
+    "displayName": "Can't make up my mind",
+    "hidden": 0,
+    "icon": "achievement_images/ad8719e1c769da8ef3225762afa2fb592b1ac665.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "STYLE_CHANGE_5_TIMES"
+  },
+  {
+    "description": "Clear the game!",
+    "displayName": "Defeat Nexus!",
+    "hidden": 0,
+    "icon": "achievement_images/e8e261855551bb749ea93108563a27be1dc67ae4.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "SAVE_THE_NET"
+  },
+  {
+    "description": "",
+    "displayName": "Project GX",
+    "hidden": 1,
+    "icon": "achievement_images/73726ea6b3a6e6dc3c03bc1c13ee4f9b8cce196c.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "UNLOCK_GENOS"
+  },
+  {
+    "description": "Shake 400 hearts",
+    "displayName": "I heart you 400 times",
+    "hidden": 0,
+    "icon": "achievement_images/e57555348e9e6de10ac8fafa5323afe9dca3d5fa.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "SHAKE_400_HEARTS"
+  },
+  {
+    "description": "Mine 50 ore!",
+    "displayName": "Want some ore?",
+    "hidden": 0,
+    "icon": "achievement_images/62cabb8ae03db08ee52f2c47961f6d6fcea6773e.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MINE_50_ORE"
+  },
+  {
+    "description": "Mine 100 Ore",
+    "displayName": "Anyone want some ore?",
+    "hidden": 0,
+    "icon": "achievement_images/2c450df8493152fca96d5d9ef72cb5f0c9560b54.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MINE_100_ORE"
+  },
+  {
+    "description": "Mine 300 ore",
+    "displayName": "Mining is my passion",
+    "hidden": 0,
+    "icon": "achievement_images/da7badc363f95c3c5baca29f004a971fb5078bbd.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MINE_300_ORE"
+  },
+  {
+    "description": "Mine 500 ore",
+    "displayName": "Extra-Ore-Dinary!",
+    "hidden": 0,
+    "icon": "achievement_images/aad68e91d166d71fa685e5acc25436c631016995.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MINE_500_ORE"
+  },
+  {
+    "description": "Reach level 50!",
+    "displayName": "Pretty Strong!",
+    "hidden": 0,
+    "icon": "achievement_images/60489e3f0a7da1cd1d3758c6e01ef513ad23a9bb.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "REACH_LEVEL_50"
+  },
+  {
+    "description": "Mine 1000 ore!",
+    "displayName": "so much ore!!!",
+    "hidden": 0,
+    "icon": "achievement_images/b5dd519265262fc63b2d579743ac7e000cc85cff.jpg",
+    "icongray": "achievement_images/2f78004347d6d1e8636bb10a5166c0bff8045080.jpg",
+    "name": "MINE_1000_ORE"
+  }
+]

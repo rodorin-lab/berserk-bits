@@ -1,0 +1,29 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+	"sender_index": 7,
+	"subject": "SPOOKY!!!",
+	"body": "Apparently some BOSS ghost data is floating around the NET.\n\nYou should delete it AGAIN!",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 2,
+
+	"mission_biome": "SKY",
+	"mission_zone": 2,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+			[null, null, null,
+                 null, null, "SMINI1",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "SMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "SBOSS",
+                 null, null, null]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "Airwave Fabric", "Cloud Fragment", "Sky Ltn", "Wind Circuit", "Lightning Shard", "Airwave Fabric"]
+
+}

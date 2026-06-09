@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 21,
+	"subject": "AUTOMATION",
+	"body": "HEY! go get yourself some materials and buy yourself an AutoShaker!.\n\nMining for certain material allows you to build AUTOMATION BOTS in the shop!\n\nThey'll handle some of your chores for you, like shaking BOTS.\n\nIf you want to speed up getting these materials, you can BUY THE PICKAXE from the store!\n\nThen go explore the Net!! (the more you equip the better). ",
+
+"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 1
+			}
+
+
+		]
+
+
+}

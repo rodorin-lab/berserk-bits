@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":800,
+	"sender_index": 7,
+	"subject": "MEGA Virus Swarm!",
+	"body": "There's a virus swarm in the net!\n\nPlease help us!",
+	"unlocked_biome":"PRISM",
+	"unlocked_zone": 6,
+
+	"mission_biome": "PRISM",
+	"mission_zone": 6,
+	"mission_type":"SWARM",
+	"wave_count": 18,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Prism Egg", "Purple Egg",  "Prism Yellow", "Prism Green", "Ice Thread", "Frozen Circuit", "Cryo Core"]
+
+}

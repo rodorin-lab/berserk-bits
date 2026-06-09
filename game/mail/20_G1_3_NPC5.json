@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 22,
+	"subject": "The Zoo Returns!",
+	"body": "It seems are systems are back online!! But we need help locking things up!\n\nCould you visit our systems and see if you can lock it?",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "GRASS",
+			"zone": 3
+			}
+
+
+		]
+
+
+}

@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "Our Cafe!",
+	"body": "If you accept this mission, your chip useage will be effected!!\n\nNone of us can use our chips because of these viruses!",
+	"exp":30,
+	"unlocked_biome":"NET",
+	"unlocked_zone": 1,
+
+	"mission_biome": "NET",
+	"mission_zone": 1,
+	"mission_type":"CHIPLESS",
+	"wave_count": 3,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Net Egg", "Blue Egg", "Data Shard", "Signal Thread", "Cache Code", "Firewall Fragment", "Bandwidth Crystal"]
+
+
+}

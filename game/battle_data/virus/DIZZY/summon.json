@@ -1,0 +1,32 @@
+{
+
+	"sprites":[
+			{
+			"filename":"spawn.png",
+			"frames":5,
+			"xo": 23,
+			"yo": 50
+			},
+			{
+			"filename":"heal.png",
+			"frames":8,
+			"xo": 23,
+			"yo": 50
+			}
+		],
+
+	"spawn_sprite_index" : 0,
+
+	"beats": [
+			{
+			"type":"ANIM",
+			"sprite_index":1,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"BUFF",
+			"buff":"LUCK",
+			"seconds":10000000000
+			}
+		]
+}

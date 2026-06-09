@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "BurnonUdon",
+	"generate_seconds" : 100,
+	"productive_minutes" : 80,
+	"food_preference" : 1,
+	"egg" : "Lava Udon",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 16,
+			"yo": 36,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":30,
+	"sender_index": 7,
+	"subject": "ANNOYING",
+	"body": "Look, I have a party to go too.\n\nViruses mean no wifi for movies. ",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 4,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 4,
+	"mission_type":"SWARM",
+	"wave_count": 15,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": [ "Fiber Root", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+}

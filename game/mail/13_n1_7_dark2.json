@@ -1,0 +1,25 @@
+{
+	"inbox_index": 0,
+	"type" : "Call",
+	"caller" : "GENOS",
+	"messages" : [
+			"So… you're going to try interfering with our plans...",
+			"I'm looking forward to deleting you."
+		],
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 7
+			},
+			{
+			"type" : "CALL",
+			"code" : "10_N1_7_COP4"
+			}
+
+
+		]
+
+
+}

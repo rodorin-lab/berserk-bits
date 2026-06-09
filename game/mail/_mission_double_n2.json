@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":50,
+	"sender_index": 7,
+	"subject": "Not worth my time",
+	"body": "Me and my BIT could totally handle it but we're not in the mood.\n\nNET detective, can you handle it?",
+	"unlocked_biome":"NET",
+	"unlocked_zone": 7,
+
+	"mission_biome": "NET",
+	"mission_zone": 2,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "NMINI1",
+                 null, null, null,
+                 null, null, "NMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Net Egg", "Blue Egg", "White Egg", "Signal Thread", "Cache Code", "Firewall Fragment", "Bandwidth Crystal"]
+
+}

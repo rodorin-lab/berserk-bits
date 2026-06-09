@@ -1,0 +1,19 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "(RE:) Let's end this",
+	"body": "This is it. NEXUS's mainframe is within reach. Let's put an end to their schemes once and for all.",
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "DARKNET",
+			"zone": 6
+			}
+
+
+		]
+
+
+}

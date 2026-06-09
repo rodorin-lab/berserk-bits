@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":150,
+	"sender_index": 7,
+	"subject": "NEED AGENT",
+	"body": "Hey Net Agent.\n\Can some amazing battler handle the disturbance in the square please?",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 3,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 3,
+	"mission_type":"SWARM",
+	"wave_count": 15,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": [ "Red Egg", "Vine Circuit", "Quantum Leaf", "Purple Egg", "Organic Nanite"]
+
+}

@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "I DON'T heal",
+	"body": "Look, It's not for me. But some people really need these HEALER BOTS to work, can you help?",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 6,
+
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 6,
+	"mission_type":"NOHEAL+",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Toad", "Bite Egg", "Grass Bite", "Hydro Egg", "Claw Egg", "NullCore"]
+
+}

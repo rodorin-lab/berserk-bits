@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+"exp":150,
+	"sender_index": 7,
+	"subject": "BIG XP",
+	"body": "Viruses I tell ya, everywhere!\n\nCan you delete these freaks hanging around my partners' NET space?",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 7,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 7,
+	"mission_type":"SWARM",
+	"wave_count": 15,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Fiber Root", "Vine Circuit", "Quantum Leaf", "Rainbow Egg", "Organic Nanite", "Fiber Root"]
+
+}

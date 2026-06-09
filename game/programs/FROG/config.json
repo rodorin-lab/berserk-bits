@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "Minimize",
+	"generate_seconds" : 150,
+	"productive_minutes" : 25,
+	"food_preference" : 4,
+	"egg" : "Grass Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 12,
+			"yo": 26,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "BOUNCE"
+}

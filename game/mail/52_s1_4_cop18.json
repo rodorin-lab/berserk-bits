@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "Potential Break-In!",
+	"body": "Fantastic work, Detective! But this hack isn't random anymore —it seems NEXUS are trying to cause even bigger problems for us… Why are they doing this!?",
+
+
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "PRISM",
+			"zone": 4
+			}
+
+
+		]
+
+
+}

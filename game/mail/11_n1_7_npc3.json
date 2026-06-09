@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 28,
+	"subject": "We're So Back",
+	"body": "Hey, great job stopping that virus!\n\nSeems like the area's back to normal. How can we ever repay you?",
+	
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

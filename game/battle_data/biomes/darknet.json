@@ -1,0 +1,366 @@
+{
+  "x" : 131,
+  "y" : 243,
+  "palette_index" : 5,
+
+
+  "subzones": [
+		{
+		"name": "DARKNET 1",
+		"x":147,
+		"y":211,
+		"recomendedLevel" : 125,
+		"isBoss" : false,
+		"bgIndex" : 32,
+		"beat_minutes" : 2,
+ 		"battle_spawn_rate": 14,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 4.7,
+		"lock_condition": "COIN",
+		"lock_amount": 50000,
+		"battleID": ["A","B"],
+		"encounters": [
+
+			],
+		"ore" : ["Shadow Code", "Corrupted Data Shard"]
+		},
+		{
+		"name": "DARKNET 2",
+		"x":120,
+		"y":238,
+		"recomendedLevel" : 125,
+		"isBoss" : false,
+		"bgIndex" : 33,
+		"beat_minutes" : 3,
+ 		"battle_spawn_rate": 10,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 2,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 4.9,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B"],
+		"encounters": [
+
+			],
+		"ore" : ["Void Fiber", "Blackfire Crystal"]
+		},
+		{
+		"name": "DARKNET 3",
+		"x":91,
+		"y":220,
+		"recomendedLevel" : 130,
+		"isBoss" : true,
+		"bgIndex" : 8,
+		"beat_minutes" : 4,
+ 		"battle_spawn_rate": 30,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 2,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 5.1,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["B", "C"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				null, null, null,
+				null, null, "DMINI1",
+				null, null, null
+      				]
+    			}
+			],
+		"ore" : ["Void Fiber", "Blackfire Crystal"]
+		},
+		{
+		"name": "DARKNET 4",
+		"x":71,
+		"y":252,
+		"recomendedLevel" : 134,
+		"isBoss" : false,
+		"bgIndex" : 34,
+		"beat_minutes" : 3,
+ 		"battle_spawn_rate": 24,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 2,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 5.3,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["C", "D"],
+		"encounters": [
+
+			],
+		"ore" : ["Shadow Code", "Blackfire Crystal"]
+		},
+		{
+		"name": "DARKNET 5",
+		"x":102,
+		"y":276,
+		"recomendedLevel" : 140,
+		"isBoss" : false,
+		"bgIndex" : 35,
+		"beat_minutes" : 5,
+ 		"battle_spawn_rate": 8,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 2,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 5.5,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["D", "E"],
+		"encounters": [
+
+			],
+		"ore" : ["Shadow Code","NullCore"]
+		},
+		{
+		"name": "DARKNET 6",
+		"x":134,
+		"y":268,
+		"recomendedLevel" : 142,
+		"isBoss" : true,
+		"bgIndex" : 35,
+		"beat_minutes" : 2,
+ 		"battle_spawn_rate": 9,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 2,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 6.1,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B", "C", "D", "E", "F"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				null, null, null,
+				null, null, "DMINI2",
+				null, null, null
+      				]
+    			}
+			],
+		"ore" : ["Shadow Code",  "Void Fiber" ]
+		},
+		{
+		"name": "DARKNET 7",
+		"x":204,
+		"y":253,
+		"recomendedLevel" : 150,
+		"isBoss" : true,
+		"bgIndex" : 37,
+		"beat_minutes" : 1,
+ 		"battle_spawn_rate": 5,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 2,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 6.5,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B", "C", "D", "E", "F"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				"DDEMON", null, null,
+				null, null, "DBOSS",
+				"DDEMON", null, null
+      				]
+    			}
+			],
+		"ore" : ["Blackfire Crystal", "NullCore"]
+		}
+	],
+
+  "tile_variation" : 1,
+"battles": [
+
+    {
+        "battleID": "A",
+        "grid": [null, "DBOO", null,
+                 null, null, null,
+                 null, "DBOO", null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, null, null,
+                 null, "DBOO", null,
+                 null, null, "DBOO"]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "DBOO", null,
+                 null, "DBOO", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["DBOO", null, "DBOO",
+                 null, null, "DFRANK",
+                 null, null, null]
+    },
+
+
+    {
+        "battleID": "B",
+        "grid": [null, "DBOO", null,
+                 null, "DFRANK", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["DBOO", null, "DFRANK",
+                 null, null, null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "DFRANK", null,
+                 null, "DBOO", null,
+                 null, "DBOO", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "DFRANK", null,
+                 "DBOO", null, "DBOO"]
+    },
+
+
+    {
+        "battleID": "C",
+        "grid": [null, "DFRANK", null,
+                 null, "DMUMMY", null,
+                 null, "DBOO", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "DMUMMY", null,
+                 null, "DFRANK", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["DMUMMY", null, "DFRANK",
+                 null, "DBOO", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, null, null,
+                 "DMUMMY", null, "DBOO",
+                 null, null, "DFRANK"]
+    },
+
+    {
+        "battleID": "D",
+        "grid": [null, "DMUMMY", null,
+                 null, "DFRANK", null,
+                 null, "DMUMMY", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, null, null,
+                 "DFRANK", "DDEMON", "DFRANK",
+                 null, null, null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["DFRANK", null, "DMUMMY",
+                 null, null, null,
+                 "DFRANK", null, null]
+    },
+
+
+    {
+        "battleID": "E",
+        "grid": [null, "DKING", null,
+                 null, "DDEMON", null,
+                 null, "DMUMMY", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "DDEMON", null,
+                 "DKING", null, "DMUMMY",
+                 null, null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["DKING", null, "DMUMMY",
+                 null, "DDEMON", null,
+                 "DKING", null, null]
+    },
+
+
+    {
+        "battleID": "F",
+        "grid": [null, "DKING", null,
+                 null, "DDEMON", null,
+                 null, "DKING", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["DDEMON", null, "DKING",
+                 null, "DDEMON", null,
+                 null, null, "DKING"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "DDEMON", null,
+                 "DKING", null, "DDEMON",
+                 null, "DKING", null]
+    }
+]
+,
+
+  "reward_coins": 20,
+  "rewards" : [
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "MEDAL",
+		"value": 1
+		}
+	],
+
+
+
+
+
+  "EGG" : {
+	"reward_icon":"dark_egg_ui.png",
+	"egg_sprite":"skull_egg.png",
+	"hatch_sprite":"skull_egg_hatch.png",
+	"codes": [
+		
+		"PUNCH",
+		"WEND",
+		"TURB",
+		"SPDR",
+		"LMN",	
+		"BARA",
+		"TOAD2",
+		"DRAGX"
+
+		]
+	},
+
+
+
+}

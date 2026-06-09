@@ -1,0 +1,25 @@
+{
+	"inbox_index": 0,
+	"sender_index": 28,
+	"subject": "SYSTEMS UP!!",
+	"body": "You've saved our town. Our security is back to normal!",
+
+	"button": {
+		"text":"REDEEM",
+		"forever" : false,
+		"effect": "COIN",
+		"amount": "500"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "GRASS",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

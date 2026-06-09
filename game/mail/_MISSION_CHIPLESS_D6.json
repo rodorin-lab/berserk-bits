@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "Worst day ever...",
+	"body": "I can't use any of my chips and I REALLY wanted to show some off today\n\nCan you see what's up?",
+	"exp":1000,
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 6,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 6,
+	"mission_type":"CHIPLESS",
+	"wave_count": 3,
+
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Thrmo", "Shadow Code", "Dark BlackWhite", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+
+}

@@ -1,0 +1,24 @@
+{
+	"inbox_index": 0,
+	"type" : "Call",
+	"caller" : "COP",
+	"messages" : [
+			"Hey there!",
+			"It seems there's some sort of PAY WALL installed in front of NET 1-4 making it harder for people to travel around the Net.",
+			"I'm sorry to ask, but would you be able to pay the money and see what's causing the problem?",
+			"Thank you for your service!",
+			"GO BERSERK!"
+		],
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 3
+			}
+
+
+		]
+
+
+}

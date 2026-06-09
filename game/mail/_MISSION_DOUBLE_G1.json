@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":300,
+	"sender_index": 7,
+	"subject": "Arcade day",
+	"body": "Oh GREAT 2 huge BOSS viruses are standing infront of my favourite arcade\n\nI only have 1 day off a week. Can you delete them?",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 7,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 1,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "GMINI1",
+                 null, null, null,
+                 null, null, "GMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Grass Ears", "Fiber Root", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+}

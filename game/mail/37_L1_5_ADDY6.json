@@ -1,0 +1,23 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "Sign Me Up?",
+	"body": "The bad guys sure are getting into the fire aesthetic...\n\nI don't know they sound pretty cool.\n\nCan you ask them if I can join?",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "LAVA",
+			"zone": 5
+			},
+			{
+			"type" : "READ",
+			"email": "36_L1_5_DARK7"
+			}
+
+
+
+		]
+
+
+}

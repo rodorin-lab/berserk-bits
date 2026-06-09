@@ -1,0 +1,365 @@
+{
+  "x" : 604,
+  "y" : 320,
+  "palette_index" : 0,
+
+
+  "subzones": [
+		{
+		"name": "SKY1",
+		"x":676,
+		"y":293,
+		"recomendedLevel" : 65,
+		"isBoss" : false,
+		"bgIndex" : 22,
+		"beat_minutes" : 3,
+ 		"battle_spawn_rate": 9,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 3.2,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A"],
+		"encounters": [
+
+			],
+		"ore" : ["Airwave Fabric", "Cloud Fragment"]
+		},
+		{
+		"name": "SKY 2",
+		"x":625,
+		"y":287,
+		"recomendedLevel" : 72,
+		"isBoss" : false,
+		"bgIndex" : 23,
+		"beat_minutes" : 4,
+ 		"battle_spawn_rate": 8,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 2,
+		"enemy_multiplier":3.3,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B"],
+		"encounters": [
+
+			],
+		"ore" : ["Cloud Fragment", "Storm Crystal"]
+		},
+		{
+		"name": "SKY 3",
+		"x":645,
+		"y":315,
+		"recomendedLevel" : 74,
+		"isBoss" : true,
+		"bgIndex" : 8,
+		"beat_minutes" : 2,
+ 		"battle_spawn_rate": 15,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 3.3,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["B", "C"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				null, null, null,
+				null, null, "SMINI1",
+				null, null, null
+      				]
+    			}
+			],
+		"ore" : ["Storm Crystal", "Wind Circuit",]
+		},
+		{
+		"name": "SKY 4",
+		"x":664,
+		"y":333,
+		"recomendedLevel" : 75,
+		"isBoss" : true,
+		"bgIndex" : 24,
+		"beat_minutes" : 1,
+ 		"battle_spawn_rate": 15,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 3.3,
+		"lock_condition": "COIN",
+		"lock_amount": 15000,
+		"battleID": ["B", "C"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				null, null, null,
+				null, null, "SMINI2",
+				null, null, null
+      				]
+    			}
+			],
+
+		"ore" : ["Airwave Fabric","Lightning Shard"]
+		},
+		{
+		"name": "SKY 5",
+		"x":629,
+		"y":354,
+		"recomendedLevel" : 78,
+		"isBoss" : false,
+		"bgIndex" : 25,
+		"beat_minutes" : 3,
+ 		"battle_spawn_rate": 8,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 3.4,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["D", "E"],
+		"encounters": [
+
+			],
+		"ore" : ["Cloud Fragment", "Storm Crystal"]
+		},
+		{
+		"name": "SKY 6",
+		"x":610,
+		"y":325,
+		"recomendedLevel" : 80,
+		"isBoss" : false,
+		"bgIndex" : 26,
+		"beat_minutes" : 4,
+ 		"battle_spawn_rate": 9,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 3.0,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["E", "F"],
+		"encounters": [
+
+			],
+		"ore" : ["Storm Crystal", "Wind Circuit"]
+		},
+		{
+		"name": "SKY 7",
+		"x":545,
+		"y":319,
+		"recomendedLevel" : 82,
+		"isBoss" : true,
+		"bgIndex" : 9,
+		"beat_minutes" : 3,
+ 		"battle_spawn_rate": 15,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 3.4,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B", "C", "D", "E", "F"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				"SWOLF", null, null,
+				null, null, "SBOSS",
+				"SWOLF", null, null
+      				]
+    			}
+			],
+		"ore" : ["Wind Circuit", "Lightning Shard"]
+		}
+	],
+
+  "tile_variation" : 1,
+ "battles": [
+
+    {
+        "battleID": "A",
+        "grid": [null, "SBUG", null,
+                 null, null, null,
+                 null, "SBUG", null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, null, null,
+                 null, "SCROW", null,
+                 "SBUG", null, "SCROW"]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "SBUG", null,
+                 null, "SBUG", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["SBUG", null, "SBUG",
+                 null, null, null,
+                 null, null, null]
+    },
+
+    {
+        "battleID": "B",
+        "grid": [null, "SBUG", null,
+                 null, "SCROW", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["SBUG", null, "SCROW",
+                 null, null, null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "SCROW", null,
+                 null, "SBUG", null,
+                 null, "SBUG", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "SCROW", null,
+                 "SBUG", null, "SBUG"]
+    },
+
+
+    {
+        "battleID": "C",
+        "grid": [null, "SCROW", null,
+                 null, "SCLOUD", null,
+                 null, "SBUG", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "SCLOUD", null,
+                 null, "SCROW", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["SCLOUD", null, "SCROW",
+                 null, "SBUG", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, null, null,
+                 "SCLOUD", null, "SBUG",
+                 null, null, "SCROW"]
+    },
+
+
+    {
+        "battleID": "D",
+        "grid": [null, "SCLOUD", null,
+                 null, "SCROW", null,
+                 null, "SCLOUD", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, null, null,
+                 "SCROW", "SEAGLE", "SCROW",
+                 null, null, null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["SCROW", null, "SCLOUD",
+                 null, null, null,
+                 "SCROW", null, null]
+    },
+
+
+    {
+        "battleID": "E",
+        "grid": [null, "SWOLF", null,
+                 null, "SEAGLE", null,
+                 null, "SCLOUD", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "SEAGLE", null,
+                 "SWOLF", null, "SCLOUD",
+                 null, null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["SWOLF", null, "SCLOUD",
+                 null, "SEAGLE", null,
+                 "SWOLF", null, null]
+    },
+
+
+    {
+        "battleID": "F",
+        "grid": [null, "SWOLF", null,
+                 null, "SEAGLE", null,
+                 null, "SWOLF", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["SEAGLE", null, "SWOLF",
+                 null, "SEAGLE", null,
+                 null, null, "SWOLF"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "SEAGLE", null,
+                 "SWOLF", null, "SEAGLE",
+                 null, "SWOLF", null]
+    }
+]
+,
+
+  "reward_coins": 20,
+  "rewards" : [
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "EGG",
+		"value": 1
+		}
+	],
+
+
+
+
+  "EGG" : {
+	"reward_icon":"sky_egg_ui.png",
+	"egg_sprite":"sky_egg.png",
+	"hatch_sprite":"sky_egg_hatch.png",
+	"codes": [
+		"HIPPO",
+		"PEDRO",
+		"SMSSLE",
+		"SARROW",
+		"OWL3",
+		"BULLY",
+		"SHOCK",
+		"FTOP"
+
+		]
+	},
+
+
+
+}

@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+
+	"sender_index": 7,
+	"subject": "MEGA Virus Swarm!",
+	"body": "It was only supposed to be one...!\n\nI accidently released a bunch of viruses in my Dads' PC.",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 2,
+
+	"mission_biome": "SKY",
+	"mission_zone": 2,
+	"mission_type":"SWARM",
+	"wave_count": 20,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "White Egg", "Airwave Fabric", "Cloud Fragment", "Storm Crystal", "Wind Circuit", "Lightning Shard"]
+
+}

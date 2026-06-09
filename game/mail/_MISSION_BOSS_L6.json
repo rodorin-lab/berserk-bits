@@ -1,0 +1,31 @@
+{
+	"inbox_index": 1,
+	"exp":400,
+	"sender_index": 7,
+	"subject": "Anime no sub.",
+	"body": "There's some Big Boys lurking around my Online Language class \n\nYou don't think you could handle these viruses do you?",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 7,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 6,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, null,
+                 null, null, "LMINI1",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "LMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "LLD",
+                 null, null, null]
+		],
+
+
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Lava Udon", "Thermal Core", "Molten Fiber", "Lava BW Egg", "Flame Crystal", "Pyrobyte", "Thermal Core"]
+
+}

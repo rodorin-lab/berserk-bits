@@ -1,0 +1,21 @@
+{
+
+	"type" : "AUTO",
+	"object" : "obj_poop_program",
+	"name" : "Poop Scooper",
+	"description" : "Picks up Program Poop",
+	"generate_seconds" : 0,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 15,
+			"yo": 35,
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

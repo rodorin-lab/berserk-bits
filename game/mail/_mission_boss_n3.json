@@ -1,0 +1,29 @@
+{
+	"inbox_index": 1,
+	"exp":40,
+	"sender_index": 7,
+	"subject": "Day off",
+	"body": "It's my one day off and I can't even enjoy it with this HUGE virus around.\n\nYou're a NET detective. Can you sort it?",
+	"unlocked_biome":"NET",
+	"unlocked_zone": 7,
+
+	"mission_biome": "NET",
+	"mission_zone": 3,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, null,
+                 null, null, "NMINI1",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "NMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "BLD",
+                 null, null, null]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Net Egg", "Blue Egg",  "White Egg", "Signal Thread", "Cache Code", "Firewall Fragment", "Bandwidth Crystal"]
+
+}

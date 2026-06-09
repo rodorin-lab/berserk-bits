@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "Arcade day",
+	"body": "Oh GREAT 2 huge BOSS viruses are standing infront of my favourite arcade\n\nI only have 1 day off a week. Can you delete them?",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 7,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 1,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "DMINI1",
+                 null, null, null,
+                 null, null, "BBX"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Black Egg", "Shadow Code", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

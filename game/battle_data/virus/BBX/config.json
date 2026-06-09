@@ -1,0 +1,45 @@
+{
+	"hp": 1500,
+	"coins": 1000,
+	"exp": 1000,
+	"move_pattern":"RAND",
+	"move_style":"TEL",
+	"move_speed":1,
+	"idle_time":80,
+	"idle_anim" : "NONE",
+	"attack_trigger":"TILE",
+	"trigger_tiles_min": 3,
+	"trigger_tiles_max": 5,
+	"trigger_time": 0,
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 37,
+			"yo": 39,
+			},
+			{
+			"filename":"slash.png",
+			"frames":6,
+			"xo": 66,
+			"yo": 54,
+			},
+			{
+			"filename":"slash_cooldown.png",
+			"frames":5,
+			"xo": 66,
+			"yo": 54,
+			}
+		],
+	"idle_sprite_index": 0,
+	"idle_sprite_speed": 0,
+	"attacks":[
+			{
+			"name":"slash",
+			"sprite_index_0": 0,
+			"sprite_speed_0": 0.2,
+			"sprite_index_1": 2,
+			"sprite_speed_1": 0.2
+			}
+		]
+}

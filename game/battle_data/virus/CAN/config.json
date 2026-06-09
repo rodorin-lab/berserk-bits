@@ -1,0 +1,25 @@
+{
+	"hp": 50,
+	"exp": 200,
+	"move_pattern":"ADJ",
+	"move_style":"HOV",
+	"move_speed":0.3,
+	"idle_time":20,
+	"idle_anim" : "NONE",
+	"attack_trigger":"ROW",
+	"trigger_tiles_min": 3,
+	"trigger_tiles_max": 5,
+	"trigger_time": 0,
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":7,
+			"xo": 24,
+			"yo": 37,
+			}
+		],
+	"idle_sprite_index": 0,
+	"idle_sprite_speed": 0.1,
+	"attacks":[
+		]
+}

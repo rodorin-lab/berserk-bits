@@ -1,0 +1,28 @@
+{
+
+	"type" : "AUTO",
+	"object" : "obj_chef_program",
+	"name" : "Savory Chef",
+	"description" : "Cooks food for your programs.",
+	"generate_seconds" : 140,
+	"food" : ["Onigiri", "Burger", "Fries"],
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 22,
+			"yo": 29,
+			},
+			{
+			"filename":"cook.png",
+			"frames":8,
+			"xo": 22,
+			"yo": 29,
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

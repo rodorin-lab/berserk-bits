@@ -1,0 +1,55 @@
+{
+
+	"sprites":[
+			{
+			"filename":"spawn.png",
+			"frames":5,
+			"xo": 23,
+			"yo": 47
+			},
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 23,
+			"yo": 47
+			},
+			{
+			"filename":"spotlight.png",
+			"frames":4,
+			"xo": 23,
+			"yo": 47
+			},
+			{
+			"filename":"spotlight_cooldown.png",
+			"frames":1,
+			"xo": 23,
+			"yo": 47
+			}
+		],
+
+	"spawn_sprite_index" : 0,
+
+	"beats": [
+			{
+			"type":"ANIM",
+			"sprite_index":1,
+			"sprite_speed":0.05
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"DEBUFF",
+			"buff":"STUN",
+			"seconds":10
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":3,
+			"sprite_speed":0.05
+			},
+
+		]
+}

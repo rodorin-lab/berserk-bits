@@ -1,0 +1,19 @@
+{
+	"inbox_index": 0,
+	"sender_index": 8,
+	"subject": "(RE:) MAYDAY!",
+	"body": "Thank you for saving us! It seems the main Virus is just up ahead!",
+
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "SKY",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

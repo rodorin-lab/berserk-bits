@@ -1,0 +1,23 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "CopyThis",
+	"generate_seconds" : 200,
+	"productive_minutes" : 40,
+	"food_preference" : 5,
+	"egg" : "Dark Silver",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 20,
+			"yo": 48,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+
+}

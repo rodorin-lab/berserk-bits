@@ -1,0 +1,24 @@
+{
+	"inbox_index": 0,
+	"sender_index": 46,
+	"subject": "Having Fun?",
+	"body": "We hope you're having fun with your personal B.I.T! - if you are, please do consider leaving us a review! - it helps us out a lot!",
+	"button": {
+		"text":"WISHLIST",
+		"forever" : true,
+		"effect": "LINK",
+		"url": "https://store.steampowered.com/app/2348540/Berserk_BITS/"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "GRASS",
+			"zone": 1
+			}
+			
+
+		]
+
+
+}

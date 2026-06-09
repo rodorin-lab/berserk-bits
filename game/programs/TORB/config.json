@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "TornadoB",
+	"generate_seconds" : 150,
+	"productive_minutes" : 50,
+	"food_preference" : 4,
+	"egg" : "Lava Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 22,
+			"yo": 34,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "FLOAT",
+	"walk_anim" : "FLOAT"
+}

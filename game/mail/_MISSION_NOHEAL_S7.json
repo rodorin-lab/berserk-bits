@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+
+	"sender_index": 7,
+	"subject": "Worst date ever.",
+	"body": Just had a battle to realise none of our BITS can heal.\n\nThis sucks, can you help fix the issue?",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 7,
+
+	"mission_biome": "SKY",
+	"mission_zone": 7,
+	"mission_type":"NOHEAL",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "Sky King", "Airwave Fabric", "Sky Yellow Egg", "Storm Crystal", "Wind Circuit", "Sky Cat"]
+
+}

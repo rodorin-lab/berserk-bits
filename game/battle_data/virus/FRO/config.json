@@ -1,0 +1,53 @@
+{
+	"hp": 60,
+	"exp": 30,
+	"coins": 10,
+	"move_pattern":"ADJ",
+	"move_style":"JUMP",
+	"move_speed":1,
+	"idle_time":30,
+	"idle_anim" : "SQUISH",
+	"attack_trigger":"",
+	"attack_trigger":"TILE",
+	"trigger_tiles_min": 3,
+	"trigger_tiles_max": 5,
+	"trigger_time": 0,
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 17,
+			"yo": 26,
+			},
+			{
+			"filename":"spit.png",
+			"frames":4,
+			"xo": 17,
+			"yo": 26,
+			},
+			{
+			"filename":"spit_cooldown.png",
+			"frames":2,
+			"xo": 17,
+			"yo": 26,
+			},
+			{
+			"filename":"jump.png",
+			"frames":1,
+			"xo": 17,
+			"yo": 26,
+			}
+		],
+	"idle_sprite_index": 0,
+	"idle_sprite_speed": 0.2,
+	"jump_sprite_index": 3,
+	"attacks":[
+			{
+			"name":"bubble",
+			"sprite_index_0": 1,
+			"sprite_speed_0": 0.1,
+			"sprite_index_1": 2,
+			"sprite_speed_1": 0.05
+			}
+		]
+}

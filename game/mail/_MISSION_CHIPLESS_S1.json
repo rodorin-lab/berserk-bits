@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "Our Cafe!",
+	"body": "If you accept this mission, your chip useage will be effected!!\n\nNone of us can use our chips because of these viruses!",
+	"exp":600,
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 4,
+
+	"mission_biome": "SKY",
+	"mission_zone": 4,
+	"mission_type":"CHIPLESS",
+	"wave_count": 3,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "Airwave Fabric", "Cloud Fragment", "Sky Ltn", "Sky Yellow Egg", "Lightning Shard"]
+
+
+}

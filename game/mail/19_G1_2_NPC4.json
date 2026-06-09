@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 22,
+	"subject": "Help My Zoo!",
+	"body": "Hey, I run a zoo in the local area. I'm not sure what's going on, but a lot of our animals are escaping.\n\nCould you check if our Security is okay?",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "GRASS",
+			"zone": 2
+			}
+
+
+		]
+
+
+}

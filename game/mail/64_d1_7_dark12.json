@@ -1,0 +1,27 @@
+{
+	"inbox_index": 0,
+
+	"type" : "Call",
+	"caller" : "GENOS",
+	"messages" : [
+			"Net Detective",
+			"I was created to liberate.. To fix what humanity has broken.",
+			"But somewhere along the way, I lost my purpose.",
+			"You and your B.I.T are...",
+			"Inspiring."
+		],
+	
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "DARKNET",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

@@ -1,0 +1,187 @@
+{
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 25,
+			"yo": 40
+			},
+			{
+			"filename":"laser.png",
+			"frames":5,
+			"xo": 25,
+			"yo": 40
+			},
+			{
+			"filename":"spawn.png",
+			"frames":4,
+			"xo": 25,
+			"yo": 40
+			},
+			{
+			"filename":"tongue_core.png",
+			"frames":1,
+			"xo": 27,
+			"yo": 13
+			},
+			{
+			"filename":"tongue_long.png",
+			"frames":1,
+			"xo": 14,
+			"yo": 13
+			},
+			{
+			"filename":"tongue_end.png",
+			"frames":1,
+			"xo": 25,
+			"yo": 13
+			}
+		],
+
+	"spawn_sprite_index" : 2,
+
+	"beats": [
+
+			{
+			"type":"TEL",
+			"move_pattern":"PLAYER_RAND"
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.5
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":1,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":3,
+			"play_speed":0.2,
+			"damage": 30,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0,
+			"idle_time":10,
+			"life":10,
+			"on_hit":"",
+			"spawn_pos": [
+				"X","S","0","0",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":4,
+			"play_speed":0.2,
+			"damage": 30,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0,
+			"idle_time":10,
+			"life":10,
+			"on_hit":"",
+			"spawn_pos": [
+				"X","0","S","0",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":5,
+			"play_speed":0.2,
+			"damage": 30,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0,
+			"idle_time":10,
+			"life":10,
+			"on_hit":"",
+			"spawn_pos": [
+				"X","0","0","S",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.05
+			},
+			{
+			"type":"TEL",
+			"move_pattern":"PLAYER_RAND"
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.5
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":1,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":3,
+			"play_speed":0.2,
+			"damage": 30,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0,
+			"idle_time":10,
+			"life":10,
+			"on_hit":"",
+			"spawn_pos": [
+				"X","S","0","0",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":4,
+			"play_speed":0.2,
+			"damage": 30,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0,
+			"idle_time":10,
+			"life":10,
+			"on_hit":"",
+			"spawn_pos": [
+				"X","0","S","0",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":5,
+			"play_speed":0.2,
+			"damage": 30,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0,
+			"idle_time":10,
+			"life":10,
+			"on_hit":"",
+			"spawn_pos": [
+				"X","0","0","S",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.03
+			}
+		]
+}

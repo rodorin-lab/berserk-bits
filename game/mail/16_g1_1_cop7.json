@@ -1,0 +1,23 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "What was that?",
+	"body": "Erm... What on earth was that?!\n\nWas that a B.I.T attacking your computer directly?... Strange.\n\nIt must be a one time thing!",
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "GRASS",
+			"zone": 1
+			},
+			{
+			"type" : "READ",
+			"email": "15_G1_1_DARK3"
+			}
+			
+
+
+		]
+
+
+}

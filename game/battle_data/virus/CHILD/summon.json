@@ -1,0 +1,54 @@
+{
+
+	"sprites":[
+			{
+			"filename":"spawn.png",
+			"frames":5,
+			"xo": 26,
+			"yo": 55
+			},
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 26,
+			"yo": 55
+			},
+			{
+			"filename":"heart.png",
+			"frames":1,
+			"xo": 26,
+			"yo": 55
+			},
+			{
+			"filename":"heart_startup.png",
+			"frames":2,
+			"xo": 26,
+			"yo": 55
+			}
+		],
+
+	"spawn_sprite_index" : 0,
+
+	"beats": [
+			{
+			"type":"ANIM",
+			"sprite_index":1,
+			"sprite_speed":0.05
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":3,
+			"sprite_speed":0.2
+			},	
+			{
+			"type":"BUFF",
+			"buff":"LOST",
+			"seconds":10
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.05
+			}
+		]
+}

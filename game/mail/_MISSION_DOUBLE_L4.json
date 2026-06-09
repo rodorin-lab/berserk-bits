@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+	"sender_index": 7,
+	"subject": "Jetflix and idle",
+	"body": "Jetflix is being hacked. I can't watch my favourite shows.\n\nCan you delete these two huge viruses?",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 7,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 4,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "LMINI1",
+                 null, null, null,
+                 null, null, "LMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Dark Bug2", "Thermal Core", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte"]
+
+}

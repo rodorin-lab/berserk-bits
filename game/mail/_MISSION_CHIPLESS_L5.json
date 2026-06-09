@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "Bad Internet!",
+	"body": "We have bad connection in the Net so WE CAN'T USE OUR CHIPS!\n\nPlease help us!",
+	"exp":300,
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 5,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 5,
+	"mission_type":"CHIPLESS",
+	"wave_count": 3,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Thermal Core", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte"]
+
+
+}

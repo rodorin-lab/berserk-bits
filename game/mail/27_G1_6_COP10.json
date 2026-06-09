@@ -1,0 +1,22 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "You OK?",
+	"body": "Net Detective, are you okay?\n\nThings seem to be getting a little tense around here. We never meant for you to get so involved with these organisations. If you want to pull out of the mission I totally understand.",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "GRASS",
+			"zone": 6
+			},
+			{
+			"type" : "READ",
+			"email": "26_G1_6_DARK5"
+			}
+
+
+		]
+
+
+}

@@ -1,0 +1,24 @@
+{
+	"inbox_index": 0,
+	"type" : "Call",
+	"caller" : "COP",
+	"messages" : [
+			"Hey Net Detective",
+			"It seems like someone's hacking a lot of the temprature control systems.",
+			"You've been having a lot of success, so I was wondering if you could check out what's going on.",
+			"Thank you for your service!",
+			"GO BERSERK!"
+		],
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "LAVA",
+			"zone": 1
+			}
+
+
+		]
+
+
+}

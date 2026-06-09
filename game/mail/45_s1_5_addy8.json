@@ -1,0 +1,29 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "Dark skies.",
+	"body": "I don't like how NEXUS is talking to you, babe. Abusing you is MY job.\n\nMaybe this will cheer you up.",
+
+	"button": {
+		"text":"JOIN",
+		"forever" : true,
+		"effect": "LINK",
+		"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "SKY",
+			"zone": 5
+			},
+			{
+			"type" : "READ",
+			"email": "44_S1_5_DARK8"
+			}
+
+
+		]
+
+
+}

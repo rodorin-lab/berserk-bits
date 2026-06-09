@@ -1,0 +1,30 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+
+	"sender_index": 7,
+	"subject": "Day off",
+	"body": "It's my one day off and I can't even enjoy it with this HUGE virus around.\n\nYou're a NET detective. Can you sort it?",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 3,
+
+	"mission_biome": "SKY",
+	"mission_zone": 3,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+			[null, null, null,
+                 null, null, "SMINI1",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "SMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "SLD",
+                 null, null, null]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "Airwave Fabric", "Cloud Fragment", "Storm Crystal", "Wind Circuit", "Sky Cat", "Airwave Fabric"]
+
+}

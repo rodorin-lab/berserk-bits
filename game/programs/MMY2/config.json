@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "TimeSweep",
+	"generate_seconds" : 80,
+	"productive_minutes" : 25,
+	"food_preference" : 7,
+	"egg" : "Grass Eye",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 11,
+			"yo": 21,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

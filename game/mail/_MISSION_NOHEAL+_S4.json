@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+"exp":600,
+	"sender_index": 7,
+	"subject": "It's me again",
+	"body": "Hey, can someone turn these HEAL BOTS back on? they've stopped working.",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 4,
+
+
+	"mission_biome": "SKY",
+	"mission_zone": 4,
+	"mission_type":"NOHEAL+",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "Sky King", "Sky Orange Egg", "Cloud Fragment", "Storm Crystal", "Wind Circuit", "Lightning Shard"]
+
+}

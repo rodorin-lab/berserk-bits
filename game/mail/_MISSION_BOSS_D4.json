@@ -1,0 +1,29 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "Annoying...",
+	"body": "Some Massive Virus stole my coins!\n\nCan I hire you to sort them out?",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 7,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 4,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, null,
+                 null, null, "SMINI1",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "LMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "DBOSS",
+                 null, null, null]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Black Egg", "Shadow Code", "Dark Green", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

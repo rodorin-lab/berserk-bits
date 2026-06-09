@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "5 mins to go",
+	"body": "My flight leaves in 5 minutes but this bathroom's locked me in... Damn viruses! HELP.",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 6,
+
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 6,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 5,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Peanut Butter", "Shadow Code", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

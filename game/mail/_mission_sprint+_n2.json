@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+	"exp":30,
+	"sender_index": 7,
+	"subject": "Not again...",
+	"body": "SWARMS OF VIRUSES. SWARMS!!!!!!!!!",
+	"unlocked_biome":"NET",
+	"unlocked_zone": 2,
+
+
+	"mission_biome": "NET",
+	"mission_zone": 2,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 2,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Black Egg", "White Egg", "Data Shard", "Signal Thread", "Cache Code", "Firewall Fragment", "Bandwidth Crystal"]
+
+}

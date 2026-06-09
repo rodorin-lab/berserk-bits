@@ -1,0 +1,112 @@
+{
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 44,
+			"yo": 51
+			},
+			{
+			"filename":"slash.png",
+			"frames":6,
+			"xo": 44,
+			"yo": 51
+			},
+			{
+			"filename":"slash_cooldown.png",
+			"frames":3,
+			"xo": 44,
+			"yo": 51
+			},
+			{
+			"filename":"spawn.png",
+			"frames":5,
+			"xo": 44,
+			"yo": 51
+			},
+			{
+			"filename":"flame.png",
+			"frames":3,
+			"xo": 21,
+			"yo": 39
+			}
+		],
+
+	"spawn_sprite_index" : 3,
+
+	"beats": [
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.05
+			},
+			{
+			"type":"TEL",
+			"move_pattern":"PLAYER_RAND"
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":1,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":4,
+			"play_speed":0.2,
+			"damage": 60,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0.7,
+			"idle_time":10,
+			"life":300,
+			"on_hit":"DIE",
+			"spawn_pos": [
+				"X","S","0","0",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.05
+			},
+			{
+			"type":"TEL",
+			"move_pattern":"PLAYER_RAND"
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":1,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":4,
+			"play_speed":0.2,
+			"damage": 60,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0.7,
+			"idle_time":10,
+			"life":300,
+			"on_hit":"DIE",
+			"spawn_pos": [
+				"X","S","0","0",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+		]
+}

@@ -1,0 +1,28 @@
+{
+	"inbox_index": 0,
+	"sender_index": 46,
+	"subject": "Thank You!",
+	"body": "Thank you so much for downloading Berserk B.I.T.S!\n\nIf you have any suggestions please consider joining our Discord!",
+	"button": {
+		"text":"JOIN",
+		"forever" : true,
+		"effect": "LINK",
+		"url": "https://discord.gg/uEyG5tfDzQ"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 2
+			},
+			{
+			"type" : "DEMO",
+			"true_false": false
+			}
+
+
+		]
+
+
+}

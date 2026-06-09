@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"exp":30,
+	"sender_index": 7,
+	"subject": "NO TIME!",
+	"body": "I messed up. I downloaded something funky.\n\nPeople are coming to my house in 1 minute and I NEED these viruses gone!",
+	"unlocked_biome":"NET",
+	"unlocked_zone": 3,
+
+	"mission_biome": "NET",
+	"mission_zone": 3,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 2,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Net Egg"]
+
+}

@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "WtrGunA",
+	"generate_seconds" : 130,
+	"productive_minutes" : 30,
+	"food_preference" : 2,
+	"egg" : "Mach Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 26,
+			"yo": 28,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

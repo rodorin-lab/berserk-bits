@@ -1,0 +1,23 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "BrnBrnB",
+	"generate_seconds" : 120,
+	"productive_minutes" : 30,
+	"food_preference" : 6,
+	"egg" : "Net Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 17,
+			"yo": 32,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "BOUNCE"
+
+}

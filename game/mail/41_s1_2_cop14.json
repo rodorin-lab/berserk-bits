@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "Fall From the Sky!",
+	"body": "Net Detective! The airport systems are down, and it's chaos. Passengers are stranded, and flights are grounded. Can you investigate? There might be a rogue virus in the control systems.",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "SKY",
+			"zone": 2
+			}
+
+
+		]
+
+
+}

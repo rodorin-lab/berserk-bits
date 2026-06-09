@@ -1,0 +1,16 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "You Died.",
+	"body": "It's okay to back out of battles when you've bitten off more than you can chew.\n\nJust move your bit back to the HOMENET!\n\nJust try again, gain experience, and get stronger!",
+
+	"unlock_conditions": [
+			{
+			"type" : "DIE"
+			}
+
+
+		]
+
+
+}

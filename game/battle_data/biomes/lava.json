@@ -1,0 +1,367 @@
+{
+  
+  "x" : 120,
+  "y" : 368,
+  "palette_index" : 4,
+
+
+
+  "subzones": [
+		{
+		"name": "LAVA 1",
+		"x":88,
+		"y":403,
+		"recomendedLevel" : 48,
+		"isBoss" : false,
+		"beat_minutes" : 3,
+		"bgIndex" : 16,
+ 		"battle_spawn_rate": 7,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 2.5,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A","C","D"],
+		"encounters": [
+			],
+		"ore" : ["Thermal Core", "Molten Fiber"]
+		},
+		{
+		"name": "LAVA 2",
+		"x":125,
+		"y":392,
+		"recomendedLevel" : 52,
+		"isBoss" : false,
+		"beat_minutes" : 2.5,
+		"bgIndex" : 17,
+ 		"battle_spawn_rate": 15,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 2,
+		"enemy_multiplier": 2.7,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A","C","D","B"],
+		"encounters": [
+			],
+		"ore" : ["Thermal Core","Scorched Silicon"]
+		},
+		{
+		"name": "LAVA 3",
+		"x":80,
+		"y":366,
+		"recomendedLevel" : 54,
+		"isBoss" : true,
+		"beat_minutes" : 3,
+		"bgIndex" : 8,
+ 		"battle_spawn_rate": 10,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 2.7,
+		"lock_condition": "COIN",
+		"lock_amount": 15000,
+		"battleID": ["B", "C"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				null, null, null,
+				null, null, "LMINI1",
+				null, null, null
+      				]
+    			}
+			],
+		"ore" : ["Molten Fiber","Flame Crystal" ]
+		},
+		{
+		"name": "LAVA 4",
+		"x":64,
+		"y":338,
+		"recomendedLevel" : 55,
+		"isBoss" : false,
+		"beat_minutes" : 4,
+		"bgIndex" : 18,
+ 		"battle_spawn_rate": 11,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 3,
+		"enemy_multiplier": 2.7,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["C", "D"],
+		"encounters": [
+
+			],
+		"ore" : ["Molten Fiber", "Scorched Silicon"]
+		},
+		{
+		"name": "LAVA 5",
+		"x":112,
+		"y":346,
+		"recomendedLevel" : 57,
+		"isBoss" : false,
+		"beat_minutes" : 4,
+		"bgIndex" : 19,
+ 		"battle_spawn_rate": 11,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 3,
+		"enemy_multiplier": 2.8,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["D", "E"],
+		"encounters": [
+
+			],
+		"ore" : ["Flame Crystal", "Pyrobyte"]
+		},
+		{
+		"name": "LAVA 6",
+		"x":146,
+		"y":374,
+		"recomendedLevel" : 58,
+		"isBoss" : true,
+		"bgIndex" : 20,
+		"beat_minutes" : 2,
+ 		"battle_spawn_rate": 13,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 2.8,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B", "C", "D", "E", "F"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				null, null, null,
+				null, null, "LMINI2",
+				null, null, null
+      				]
+    			}
+			],
+
+		"ore" : ["Thermal Core", "Flame Crystal"]
+		},
+		{
+		"name": "LAVA 7",
+		"x":154,
+		"y":342,
+		"recomendedLevel" : 60,
+		"isBoss" : true,
+		"bgIndex" : 8,
+		"beat_minutes" : 2,
+ 		"battle_spawn_rate": 5,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 2.8,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B", "C", "D", "E", "F"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				"LSUN", null, null,
+				null, null, "LBOSS",
+				"LSUN", null, null
+      				]
+    			}
+			],
+		"ore" : ["Molten Fiber", "Scorched Silicon"]
+		}
+	],
+
+  "tile_variation" : 1,
+"battles": [
+
+    {
+        "battleID": "A",
+        "grid": [null, "LSAM", null,
+                 null, null, null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, null, null,
+                 null, "LSAM", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "LSAM", null,
+                 null, "LSAM", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["LSAM", null, "LSAM",
+                 null, null, null,
+                 null, null, null]
+    },
+
+
+    {
+        "battleID": "B",
+        "grid": [null, "LSAM", null,
+                 null, "LFIRE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["LSAM", null, "LFIRE",
+                 null, null, null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "LFIRE", null,
+                 null, "LSAM", null,
+                 null, "LSAM", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "LFIRE", null,
+                 "LSAM", null, "LSAM"]
+    },
+
+
+    {
+        "battleID": "C",
+        "grid": [null, "LFIRE", null,
+                 null, "LSTAMP", null,
+                 null, "LSAM", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "LSTAMP", null,
+                 null, "LFIRE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["LSTAMP", null, "LFIRE",
+                 null, "LSAM", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, null, null,
+                 "LSTAMP", null, "LSAM",
+                 null, null, "LFIRE"]
+    },
+
+
+    {
+        "battleID": "D",
+        "grid": [null, "LSTAMP", null,
+                 null, "LFIRE", null,
+                 null, "LSTAMP", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, null, null,
+                 "LFIRE", "LSUN", "LFIRE",
+                 null, null, null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["LFIRE", null, "LSTAMP",
+                 null, null, null,
+                 "LFIRE", null, null]
+    },
+
+
+    {
+        "battleID": "E",
+        "grid": [null, "LWIZ", null,
+                 null, "LSUN", null,
+                 null, "LSTAMP", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "LSUN", null,
+                 "LWIZ", null, "LSTAMP",
+                 null, null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["LWIZ", null, "LSTAMP",
+                 null, "LSUN", null,
+                 "LWIZ", null, null]
+    },
+
+
+    {
+        "battleID": "F",
+        "grid": [null, "LWIZ", null,
+                 null, "LSUN", null,
+                 null, "LWIZ", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["LSUN", null, "LWIZ",
+                 null, "LSUN", null,
+                 null, null, "LWIZ"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "LSUN", null,
+                 "LWIZ", null, "LSUN",
+                 null, "LWIZ", null]
+    }
+]
+,
+
+
+  "reward_coins": 20,
+  "rewards" : [
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "EGG",
+		"value": 1
+		}
+	],
+
+
+
+
+
+  "EGG" : {
+	"reward_icon":"lava_egg_ui.png",
+	"egg_sprite":"lava_egg.png",
+	"hatch_sprite":"lava_egg_hatch.png",
+	"codes": [
+		"ANKY",
+		"MINE",
+		"DOG",
+		"TRTLE",
+		"SWRD2",
+		"PEN",	
+		"PAYP",
+		"FARROW"
+	
+		]
+	}
+
+
+}

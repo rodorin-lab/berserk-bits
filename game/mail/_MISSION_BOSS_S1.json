@@ -1,0 +1,29 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+	"sender_index": 7,
+	"subject": "My Business...",
+	"body": "None of my helper BOTS can come into work, apparently some BIG virus is intimidating them.\n\nCan you please do something about it?",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 1,
+
+	"mission_biome": "SKY",
+	"mission_zone": 1,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, null,
+                 null, null, "SMINI1",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "SMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "SBOSS",
+                 null, null, null]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Green Egg", "Sky Ltn", "Airwave Fabric", "Cloud Fragment", "Sky Cat", "Wind Circuit", "Lightning Shard", "Airwave Fabric"]
+
+}

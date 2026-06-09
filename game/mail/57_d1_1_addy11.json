@@ -1,0 +1,21 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "Welcome!",
+	"body": "Ahhh, the DarkNet.\n\nA good place to find a discount assassin. Or to mine some crypto!",
+
+
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "DARKNET",
+			"zone": 1
+			}
+		
+
+
+		]
+
+
+}

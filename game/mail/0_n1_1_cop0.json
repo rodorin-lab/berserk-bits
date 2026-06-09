@@ -1,0 +1,32 @@
+{
+	"inbox_index": 0,
+	"type" : "Call",
+
+	"caller" : "COP",
+	"messages" : [
+	"Thank you for purchasing your [b]B.I.T device![b] And enrolling in the [b]Cyber security program![b]",
+    "I'm [b]Cyber Coni[b]. The head of the program!",
+    "You are officially a [b]B.I.T Detective![b]",
+    "While the digital world has brought incredible advancements, it has also attracted those who seek to cause trouble and exploit modern technology.",
+    "Recently we're seeing waves of stronger Viruses that must be other people's B.I.T.S being used for the wrong purposes.",
+    "We don't expect you to handle those larger threats yet, but we need you to help patrol the Web for any viruses you see!",
+    "Let's log you in with your B.I.T and help you get accustomed to it!",
+    "[HOME]This is the Home Menu.",
+    "This is where your B.I.T can rest and recharge its health.",
+    "You can fill the Home area with programs to create new battle chips and decorations from the shop to make it more homey.",
+    "[BATTLE]Next, the Battle Menu is where you enter the net to bust viruses.",
+    "You'll earn money, gain experience, and can complete Agency missions there!",
+    "[CHIP]The Chip Menu holds special attacks which can made by programs hatched from eggs you find on the net.",
+    "These Chips can really help in a pinch when your B.I.T is on the ropes.",
+    "[BIT]And here they are, your partner in crime-busting!",
+    "You can drag your B.I.T between the Battle and Home Menus any time you like.",
+    "And that should be it!",
+    "Get comfortable and I'll send you an email with a little sign-up bonus!",
+    "Thank you for your service!",
+    "GO BERSERK![TUT_END]"
+		],
+
+	"unlock_conditions": []
+
+
+}

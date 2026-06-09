@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":800,
+	"sender_index": 7,
+	"subject": "Not worth my time",
+	"body": "Me and my BIT could totally handle it but we're not in the mood.\n\nNET detective, can you handle it?",
+	"unlocked_biome":"PRISM",
+	"unlocked_zone": 3,
+
+	"mission_biome": "PRISM",
+	"mission_zone": 3,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "PMINI1",
+                 null, null, null,
+                 null, null, "PMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Prism Egg", "Prism Wiz", "Frost Shard", "Glacial Code", "Ice Thread", "Frozen Circuit", "Cryo Core"]
+
+}

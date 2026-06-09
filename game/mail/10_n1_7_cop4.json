@@ -1,0 +1,27 @@
+{
+	"inbox_index": 0,
+	"type" : "Call",
+	"caller" : "COP",
+	"messages" : [
+		"Hey! That was amazing work!",
+		"Our team has been struggling to get access to the area.",
+		"Get in there and stop that virus!"
+		],
+
+	"unlock_conditions": [
+			{
+			"type" : "SUPERLOCKED",
+			"biome": "NET",
+			"zone": 7
+			},
+			{
+			"type" : "UNLOCKED",
+			"biome": "NET",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "GobSmack",
+	"generate_seconds" : 150,
+	"productive_minutes" : 45,
+	"food_preference" : 4,
+	"egg" : "Prism Yellow",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 14,
+			"yo": 30,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "BOUNCE"
+}

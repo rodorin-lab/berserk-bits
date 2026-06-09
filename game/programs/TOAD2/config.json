@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "RibbidyLick",
+	"generate_seconds" : 150,
+	"productive_minutes" : 35,
+	"food_preference" : 6,
+	"egg" : "Darknet Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 31,
+			"yo": 33,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "BOUNCE"
+}

@@ -1,0 +1,22 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+
+	"sender_index": 7,
+	"subject": "5 mins to go",
+	"body": "My flight leaves in 5 minutes but this bathroom's locked me in... Damn viruses! HELP.",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 6,
+
+
+	"mission_biome": "SKY",
+	"mission_zone": 6,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 8,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "Sky Cyan Egg", "Airwave Fabric", "Cloud Fragment", "Storm Crystal", "Wind Circuit", "Lightning Shard"]
+
+}

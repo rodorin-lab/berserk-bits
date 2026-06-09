@@ -1,0 +1,64 @@
+{
+	"hp": 700,
+	"coins": 1100,
+	"exp": 200,
+	"move_pattern":"RAND",
+	"move_style":"TEL",
+	"move_speed":1,
+	"pierce": true,
+	"idle_time":80,
+	"attack_trigger":"TILE",
+	"trigger_tiles_min": 3,
+	"trigger_tiles_max": 5,
+	"trigger_time": 0,
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":5,
+			"xo": 13,
+			"yo": 48,
+			},
+			{
+			"filename":"fireball.png",
+			"frames":7,
+			"xo": 32,
+			"yo": 55
+			},
+			{
+			"filename":"fireball_cooldown.png",
+			"frames":6,
+			"xo": 32,
+			"yo": 55
+			},
+			{
+			"filename":"heal_transition.png",
+			"frames":1,
+			"xo": 23,
+			"yo": 50
+			},
+			{
+			"filename":"heal.png",
+			"frames":8,
+			"xo": 23,
+			"yo": 50
+			}
+		],
+	"idle_sprite_index": 0,
+	"idle_sprite_speed": 0.1,
+	"attacks":[
+			{
+			"name":"punch",
+			"sprite_index_0": 1,
+			"sprite_speed_0": 0.2,
+			"sprite_index_1": 2,
+			"sprite_speed_1": 0.2
+			},
+			{
+			"name":"heal",
+			"sprite_index_0": 3,
+			"sprite_speed_0": 0.2,
+			"sprite_index_1": 4,
+			"sprite_speed_1": 0.2
+			}
+		]
+}

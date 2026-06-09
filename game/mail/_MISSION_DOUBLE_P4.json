@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":800,
+	"sender_index": 7,
+	"subject": "Jetflix and idle",
+	"body": "Jetflix is being hacked. I can't watch my favourite shows.\n\nCan you delete these two huge viruses?",
+	"unlocked_biome":"PRISM",
+	"unlocked_zone": 7,
+
+	"mission_biome": "PRISM",
+	"mission_zone": 4,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+			[null, null, "PMINI1",
+                 null, null, null,
+                 null, null, "PMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Prism Egg", "Prism Wiz", "Frost Shard", "Prism Cyan", "Ice Thread", "Frozen Circuit", "Cryo Core"]
+
+}

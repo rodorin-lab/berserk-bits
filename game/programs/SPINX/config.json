@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "EarthBite",
+	"generate_seconds" : 130,
+	"productive_minutes" : 20,
+	"food_preference" : 7,
+	"egg" : "SPIN Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 22,
+			"yo": 52,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "BOUNCE"
+}

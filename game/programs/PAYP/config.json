@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "PayPigA",
+	"generate_seconds" : 300,
+	"productive_minutes" : 90,
+	"food_preference" : 1,
+	"egg" : "Lava Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 23,
+			"yo": 39,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

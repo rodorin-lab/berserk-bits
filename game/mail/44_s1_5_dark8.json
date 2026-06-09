@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 62,
+	"subject": "...",
+	"body": "Welcome to the storm, Detective. We've been watching your progress. It's time you know our name—NEXUS. Oppose us, and you'll regret it. Join us, or be obliterated.",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "SKY",
+			"zone": 5
+			}
+
+
+		]
+
+
+}

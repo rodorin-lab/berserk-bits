@@ -1,0 +1,1261 @@
+{
+	"dex": [
+		"BarrierC",
+		"WtrGunB",
+		"WtrGunA",
+		"Slash",
+		"DblSlash",
+		"Deflect",
+		"Surf",
+		"RestoreD",
+		"Recharge",
+		"CheatCode",
+		"SpinTop",	
+		"Kashoo",
+		"OvrClockE",
+		"LandMine",
+		"TxicSldge",
+		"SuitUp",
+		"SeedBullet",
+		"TornadoA",
+		"SniprTom",
+		"PoisySnake",
+		"LostChild",
+		"Howl",
+		"CntOnMe",
+		"CabinFever",
+		"TimeSweep",
+		"BigLaser",
+		"DeathDefy",
+		"GnarlyWind",
+		"Heshim",
+		"PawFect",
+		"LtnJustce",
+		"BolderBash",
+		"BrnBrnB",
+		"RevUp",
+		"Fever",
+		"Toriyama",
+		"NearEden",
+		"Bite",
+		"FireBite",
+		"Reload",
+		"MOOFO",
+		"MeteorA",
+		"CndyStrm",
+		"BoomFish",
+		"GobPunch",
+		"ToxicArrows",
+		"Minimize",
+		"Sticky4U",
+		"SourLems",
+		"HomngMissle",
+		"Nibblr",
+		"RibbidyTng",
+		"Clawtastic",
+		"RubbaWoofa",
+		"Inspectagator",
+		"Shocker",
+		"LegendWave",
+		"BullyBlock",
+		"TurtScreen",
+		"KingBlade",
+		"Freeze",
+		"OodleNoodle",
+		"CrowCountry",
+		"PBnPain",
+		"HydroPlant",
+		"PainLem",
+		"GobSmack",
+		"BurnonUdon",
+		"DarkMeteor",	
+		"LegendBurst",
+		"SprSuitUp",
+		"GrassBite",
+		"GoBersrk",
+		"NoMemory",
+		"PayPigA",
+		"BarrierB",
+		"BarrierA",
+		"MeteorB",
+		"OvrClockA",
+		"TornadoB",
+		"RestoreA",
+		"PRISMShard",
+		"MEGALOAD",
+		"FrozenSldge",	
+		"BrnBrnA",
+		"HydroPower",
+		"RibbidyLick",		
+		"CopyThis",
+		"SeekingMissle",
+		"MarshFella",	
+		"Decline2Drop",
+		"Slurple",
+		"IceBite",
+		"FrozenTop",
+		"WideSword",
+		"LongSword",
+		"AlphaMega",
+		"BolderCrash",
+		"PyroArrows",
+		"SlowArrows",
+		"SeedStorm"
+		
+		],
+
+	
+  "chips": [
+    {
+      "name": "BarrierC",
+      "description": "Get a shield for 2 hits.",
+      "hint": "Found in the NET",
+      "image": "chip_0000.png",
+      "icon": 11,
+      "effect": {
+        "type": "SHIELD",
+        "key": 0
+      }
+    },
+    {
+      "name": "WtrGunB",
+      "description": "A floating bubble floats across enemy panels.",
+      "hint": "Found in the NET",
+      "image": "chip_0024.png",
+      "icon": 2,
+      "effect": {
+        "type": "ATTACK",
+        "key": "WtrGunB"
+      }
+    },
+    {
+      "name": "WtrGunA",
+      "description": "Two floating bubbles float across enemy panels.",
+      "hint": "NET E-MAIL MISSION",
+      "image": "chip_0025.png",
+      "icon": 2,
+      "effect": {
+        "type": "ATTACK",
+        "key": "WtrGunA"
+      }
+    },
+    {
+      "name": "Slash",
+      "description": "Slash foes with an energy sword!",
+      "hint": "Found in the NET",
+      "image": "chip_0039.png",
+      "icon": 9,
+      "effect": {
+        "type": "ATTACK",
+        "key": "SlashChip"
+      }
+    },
+    {
+      "name": "DblSlash",
+      "description": "Slash foes with a strong energy sword!",
+      "hint": "Found in the NET",
+      "image": "chip_0066.png",
+      "icon": 9,
+      "effect": {
+        "type": "ATTACK",
+        "key": "DblSlash"
+      }
+    },
+    {
+      "name": "Deflect",
+      "description": "The enemies next attack is deflected.",
+      "hint": "Found in the NET",
+      "image": "chip_0023.png",
+      "icon": 11,
+      "effect": {
+        "type": "SHIELD",
+        "key": 3
+      }
+    },
+    {
+      "name": "Surf",
+      "description": "Two waves go across enemy tiles.",
+      "hint": "Found in the NET",
+      "image": "chip_0054.png",
+      "icon": 10,
+      "effect": {
+        "type": "ATTACK",
+        "key": "Wave"
+      }
+    },
+    {
+      "name": "RestoreD",
+      "description": "Gain 10 health.",
+      "hint": "Found in the NET",
+      "image": "chip_0041.png",
+      "icon": 7,
+      "effect": {
+        "type": "HEAL",
+        "hp": 10
+      }
+    },
+    {
+      "name": "Recharge",
+      "description": "Heal after this wave.",
+      "hint": "Found in the Lava NET",
+      "image": "chip_0040.png",
+      "icon": 8,
+      "effect": {
+        "type": "BUFF",
+        "buff": "RECHARGE",
+        "amount": 1,
+        "seconds": 3000000
+      }
+    },
+    {
+      "name": "CheatCode",
+      "description": "Create a random Buff or Reward",
+      "hint": "NET E-MAIL MISSION",
+      "image": "chip_0058.png",
+      "icon": 14,
+      "effect": {
+        "type": "BUFF",
+        "buff": "CHEAT",
+        "amount": 1,
+        "seconds": 10
+      }
+    },
+    {
+      "name": "SpinTop",
+      "description": "Lethal spinning top travels across enemy panels.",
+      "hint": "NET E-MAIL MISSION",
+      "image": "chip_0011.png",
+      "icon": 3,
+      "effect": {
+        "type": "ATTACK",
+        "key": "SpinTop"
+      }
+    },
+    {
+      "name": "Kashoo",
+      "description": "LOCK all enemies in a brief slumber.",
+      "hint": "NET E-MAIL MISSION",
+      "image": "chip_0049.png",
+      "icon": 16,
+      "effect": {
+        "type": "DEBUFF",
+        "buff": "SLEEP",
+        "amount": 1,
+        "seconds": 10
+      }
+    },
+    {
+      "name": "OvrClockE",
+      "description": "Slightly increase speed.",
+      "hint": "NET E-MAIL MISSION",
+      "image": "chip_0027.png",
+      "icon": 17,
+      "effect": {
+        "type": "BUFF",
+        "buff": "SPD",
+        "amount": 1,
+        "seconds": 10
+      }
+    },
+    {
+      "name": "LandMine",
+      "description": "Place a mine 2 spots forward.",
+      "hint": "Found in the LAVA NET",
+      "image": "chip_0010.png",
+      "icon": 3,
+      "effect": {
+        "type": "ATTACK",
+        "key": "LandMine"
+      }
+    },
+    {
+      "name": "TxicSldge",
+      "description": "Shoot toxic sludge with a chance of poisoning your enemy.",
+      "hint": "Found in the GRASS NET",
+      "image": "chip_0055.png",
+      "icon": 10,
+      "effect": {
+        "type": "ATTACK",
+        "key": "PoisonWave"
+      }
+    },
+    {
+      "name": "SuitUp",
+      "description": "You're buffed for 5 seconds!",
+      "hint": "Found in the GRASS NET",
+      "image": "chip_0004.png",
+      "icon": 1,
+      "effect": {
+        "type": "Summon",
+        "key": "QUINN"
+      }
+    },
+    {
+      "name": "SeedBullet",
+      "description": "Fire an auto-turret for 3 seconds.",
+      "hint": "Found in the GRASS NET",
+      "image": "chip_0019.png",
+      "icon": 2,
+      "effect": {
+        "type": "Summon",
+        "key": "TURRA"
+      }
+    },
+    {
+      "name": "TornadoA",
+      "description": "Launch two tornados across the enemies panels.",
+      "hint": "Found in the PRISM NET",
+      "image": "chip_0022.png",
+      "icon": 5,
+      "effect": {
+        "type": "ATTACK",
+        "key": "TornadoA"
+      }
+    },
+    {
+      "name": "SniprTom",
+      "description": "A sniper takes aim to deal critical damage.",
+      "hint": "Found in the GRASS NET",
+      "image": "chip_0020.png",
+      "icon": 2,
+      "effect": {
+        "type": "OBJECT",
+        "key": "obj_sniper"
+      }
+    },
+    {
+      "name": "PoisySnake",
+      "description": "3 Poisonous Shrooms pop up.",
+      "hint": "Found in the GRASS NET",
+      "image": "chip_0076.png",
+      "icon": 10,
+      "effect": {
+        "type": "ATTACK",
+        "key": "PoisySnake"
+      }
+    },
+    {
+      "name": "LostChild",
+      "description": "Exchange 20% of your health for a buff.",
+      "hint": "GRASS E-MAIL MISSION",
+      "image": "chip_0051.png",
+      "icon": 0,
+      "effect": {
+        "type": "Summon",
+        "key": "CHILD"
+      }
+    },
+    {
+      "name": "Howl",
+      "description": "SLOWS all viruses.",
+      "hint": "GRASS E-MAIL MISSION",
+      "image": "chip_0017.png",
+      "icon": 15,
+      "effect": {
+        "type": "DEBUFF",
+        "buff": "SLOW",
+        "amount": 1,
+        "seconds": 10
+      }
+    },
+    {
+      "name": "CntOnMe",
+      "description": "Chance of aquiring rare loot after being deleted.",
+      "hint": "GRASS E-MAIL MISSION",
+      "image": "chip_0005.png",
+      "icon": 1,
+      "effect": {
+        "type": "Summon",
+        "key": "DIZZY"
+      }
+    },
+    {
+      "name": "CabinFever",
+      "description": "Curse enemies with reduced defence.",
+      "hint": "GRASS E-MAIL MISSION",
+      "image": "chip_0072.png",
+      "icon": 13,
+      "effect": {
+        "type": "ATTACK",
+        "key": "CabinFever"
+      }
+    },
+    {
+      "name": "TimeSweep",
+      "description": "Chance of regaining 4 Chips again",
+      "hint": "GRASS E-MAIL MISSION",
+      "image": "chip_0075.png",
+      "icon": 8,
+      "effect": {
+        "type": "BUFF",
+        "buff": "CHIP",
+        "amount": 4,
+        "seconds": 3000000000
+      }
+    },
+    {
+      "name": "BigLaser",
+      "description": "A drone shoots a laser through battle field.",
+      "hint": "Found in the SKY NET",
+      "image": "chip_0012.png",
+      "icon": 3,
+      "effect": {
+        "type": "Summon",
+        "key": "LASER"
+      }
+    },
+    {
+      "name": "DeathDefy",
+      "description": "Cheat death with lower health.",
+      "hint": "Found in the SKY NET",
+      "image": "chip_0091.png",
+      "icon": 4,
+      "effect": {
+        "type": "BUFF",
+        "buff": "LIFE",
+        "amount": 1,
+        "seconds": 5
+      }
+    },
+    {
+      "name": "GnarlyWind",
+      "description": "A biting wind that SLOWS and LOCKS viruses in their tracks.",
+      "hint": "Found in the SKY NET",
+      "image": "chip_0088.png",
+      "icon": 5,
+      "effect": {
+        "type": "ATTACK",
+        "key": "GnarlyWind"
+      }
+    },
+    {
+      "name": "Heshim",
+      "description": "Temporarly go invisible.",
+      "hint": "Found in the SKY NET",
+      "image": "chip_0078.png",
+      "icon": 6,
+      "effect": {
+        "type": "BUFF",
+        "buff": "INVIS",
+        "amount": 1,
+        "seconds": 5
+      }
+    },
+    {
+      "name": "PawFect",
+      "description": "Slash 3 random tiles on the board.",
+      "hint": "SKY E-MAIL MISSION",
+      "image": "chip_0073.png",
+      "icon": 9,
+      "effect": {
+        "type": "ATTACK",
+        "key": "PawFect"
+      }
+    },
+    {
+      "name": "LtnJustce",
+      "description": "Electricity sticks to enemies",
+      "hint": "SKY E-MAIL MISSION",
+      "image": "chip_0045.png",
+      "icon": 14,
+      "effect": {
+        "type": "ATTACK",
+        "key": "Lightning"
+      }
+    },
+    {
+      "name": "BolderBash",
+      "description": "Roll a stunning rock on your enemies.",
+      "hint": "Found in the Lava NET",
+      "image": "chip_0057.png",
+      "icon": 13,
+      "effect": {
+        "type": "ATTACK",
+        "key": "BolderBash"
+      }
+    },
+    {
+      "name": "BrnBrnB",
+      "description": "Shoot two fireballs.",
+      "hint": "Found in the Lava NET",
+      "image": "chip_0006.png",
+      "icon": 2,
+      "effect": {
+        "type": "Summon",
+        "key": "BRN"
+      }
+    },
+    {
+      "name": "RevUp",
+      "description": "Spotlight stuns enemies.",
+      "hint": "Found in the Lava NET",
+      "image": "chip_0009.png",
+      "icon": 0,
+      "effect": {
+        "type": "Summon",
+        "key": "REV"
+      }
+    },
+    {
+      "name": "Fever",
+      "description": "Randomly burn or freeze all enemies.",
+      "hint": "Found in the LAVA BIOME",
+      "image": "chip_0094.png",
+      "icon": 8,
+      "effect": {
+        "type": "DEBUFF",
+        "buff": "FEVER",
+        "amount": 1,
+        "seconds": 10
+      }
+    },
+    {
+      "name": "Toriyama",
+      "description": "Go beyond. With a short burst of x2 damage.",
+      "hint": "LAVA E-MAIL MISSION",
+      "image": "chip_0046.png",
+      "icon": 14,
+      "effect": {
+        "type": "BUFF",
+        "buff": "ATK",
+        "amount": 2,
+        "seconds": 20
+      }
+    },
+    {
+      "name": "NearEden",
+      "description": "Damage enemies with piercing projectiles.",
+      "hint": "LAVA E-MAIL MISSION",
+      "image": "chip_0052.png",
+      "icon": 0,
+      "effect": {
+        "type": "Summon",
+        "key": "EDEN"
+      }
+    },
+    {
+      "name": "Bite",
+      "description": "Bite an enemy.",
+      "hint": "SKY E-MAIL MISSION",
+      "image": "chip_0077.png",
+      "icon": 15,
+      "effect": {
+        "type": "ATTACK",
+        "key": "Bite"
+      }
+    },
+    {
+      "name": "FireBite",
+      "description": "Flaming Chomp",
+      "hint": "LAVA E-MAIL MISSION",
+      "image": "chip_0065.png",
+      "icon": 15,
+      "effect": {
+        "type": "ATTACK",
+        "key": "FireBite"
+      }
+    },
+    {
+      "name": "Reload",
+      "description": "Random chance of your next 3 chips not discarding after use.",
+      "hint": "Found in the PRISM NET",
+      "image": "chip_0016.png",
+      "icon": 8,
+      "effect": {
+        "type": "BUFF",
+        "buff": "CHIP",
+        "amount": 3,
+        "seconds": 3000000000
+      }
+    },
+    {
+      "name": "MOOFO",
+      "description": "Stun and Poison a virus on the board.",
+      "hint": "Found in the PRISM NET",
+      "image": "chip_0083.png",
+      "icon": 10,
+      "effect": {
+        "type": "ATTACK",
+        "key": "MOOFO"
+      }
+    },
+    {
+      "name": "MeteorA",
+      "description": "Three Meteors fall from the sky.",
+      "hint": "Found in the PRISM NET",
+      "image": "chip_0038.png",
+      "icon": 13,
+      "effect": {
+        "type": "ATTACK",
+        "key": "MeteorA"
+      }
+    },
+    {
+      "name": "CndyStrm",
+      "description": "Falling sweets fall from the sky.",
+      "hint": "PRISM E-MAIL MISSION",
+      "image": "chip_0047.png",
+      "icon": 13,
+      "effect": {
+        "type": "ATTACK",
+        "key": "CandyStorm"
+      }
+    },
+    {
+      "name": "BoomFish",
+      "description": "Place a moving mine.",
+      "hint": "PRISM E-MAIL MISSION",
+      "image": "chip_0070.png",
+      "icon": 3,
+      "effect": {
+        "type": "ATTACK",
+        "key": "BoomFish"
+      }
+    },
+    {
+      "name": "GobPunch",
+      "description": "Two hit punch.",
+      "hint": "Found in the DARK NET",
+      "image": "chip_0063.png",
+      "icon": 12,
+      "effect": {
+        "type": "ATTACK",
+        "key": "GobPunch"
+      }
+    },
+    {
+      "name": "ToxicArrows",
+      "description": "Shoot 3 Poison arrows through enemies.",
+      "hint": "Found in the DARK NET",
+      "image": "chip_0092.png",
+      "icon": 2,
+      "effect": {
+        "type": "ATTACK",
+        "key": "ToxicArrows"
+      }
+    },
+    {
+      "name": "Minimize",
+      "description": "Shrinks enemies and greatly lowers their defence.",
+      "hint": "Found in the GRASS NET",
+      "image": "chip_0026.png",
+      "icon": 0,
+      "effect": {
+        "type": "DEBUFF",
+        "buff": "SHRINK",
+        "amount": 1,
+        "seconds": 10
+      }
+    },
+    {
+      "name": "Sticky4U",
+      "description": "A web sticks everyone on the board.",
+      "hint": "Found in the DARK NET",
+      "image": "chip_0085.png",
+      "icon": 4,
+      "effect": {
+        "type": "BUFF",
+        "buff": "SPIDER",
+        "amount": 1,
+        "seconds": 5
+      }
+    },
+    {
+      "name": "SourLems",
+      "description": "Slow down an enemy for 5 seconds.",
+      "hint": "Found in the Dark NET",
+      "image": "chip_0074.png",
+      "icon": 14,
+      "effect": {
+        "type": "ATTACK",
+        "key": "SourLems"
+      }
+    },
+    {
+      "name": "HomngMissle",
+      "description": "Drop a large bomb on all Viruses and your BIT.",
+      "hint": "DARK NET E-MAIL MISSION",
+      "image": "chip_0056.png",
+      "icon": 3,
+      "effect": {
+        "type": "ATTACK",
+        "key": "HomngMissle"
+      }
+    },
+    {
+      "name": "Nibblr",
+      "description": "Attach the Nibblr on an enemy until they attack.",
+      "hint": "Found in the DARK NET",
+      "image": "chip_0071.png",
+      "icon": 15,
+      "effect": {
+        "type": "ATTACK",
+        "key": "Nibblr"
+      }
+    },
+    {
+      "name": "RibbidyTng",
+      "description": "Lick your foes. YUCK!",
+      "hint": "Found in the GRASS NET",
+      "image": "chip_0067.png",
+      "icon": 15,
+      "effect": {
+        "type": "Summon",
+        "key": "FROG"
+      }
+    },
+    {
+      "name": "Clawtastic",
+      "description": "Claw an enemy with a critical chance of higher damage.",
+      "hint": "Found in the GRASS NET",
+      "image": "chip_0086.png",
+      "icon": 12,
+      "effect": {
+        "type": "ATTACK",
+        "key": "Clawtastic"
+      }
+    },
+    {
+      "name": "RubbaWoofa",
+      "description": "Possibly Erase enemies to end the battle.",
+      "hint": "Found in the LAVA NET",
+      "image": "chip_0068.png",
+      "icon": 15,
+      "effect": {
+        "type": "ATTACK",
+        "key": "RubbaWoofa"
+      }
+    },
+    {
+      "name": "Inspectagator",
+      "description": "Buff the next chips damage by 20.",
+      "hint": "???",
+      "image": "chip_0079.png",
+      "icon": 16,
+      "effect": {
+        "type": "BUFF",
+        "buff": "GATOR",
+        "amount": 1,
+        "seconds": 100000000000
+      }
+    },
+    {
+      "name": "Shocker",
+      "description": "Send out a shocking wire on the board.",
+      "hint": "Found in the SKY NET",
+      "image": "chip_0090.png",
+      "icon": 14,
+      "effect": {
+        "type": "ATTACK",
+        "key": "Shocker"
+      }
+    },
+    {
+      "name": "LegendWave",
+      "description": "Create a powerful Tsunami.",
+      "hint": "???",
+      "image": "chip_0093.png",
+      "icon": 10,
+      "effect": {
+        "type": "ATTACK",
+        "key": "LegendWave"
+      }
+    },
+    {
+      "name": "BullyBlock",
+      "description": "Briefly stop moving in exchange for buff.",
+      "hint": "Found in the SKY NET",
+      "image": "chip_0053.png",
+      "icon": 12,
+      "effect": {
+        "type": "BUFF",
+        "buff": "BULLY",
+        "amount": 1,
+        "seconds": 5
+      }
+    },
+    {
+      "name": "TurtScreen",
+      "description": "Burn and stun all enemies.",
+      "hint": "Found in the PRISM NET",
+      "image": "chip_0087.png",
+      "icon": 10,
+      "effect": {
+        "type": "ATTACK",
+        "key": "TurtScreen"
+      }
+    },
+    {
+      "name": "KingBlade",
+      "description": "A legendary blade that struggles to miss.",
+      "hint": "???",
+      "image": "chip_0050.png",
+      "icon": 9,
+      "effect": {
+        "type": "ATTACK",
+        "key": "KingBlade"
+      }
+    },
+    {
+      "name": "Freeze",
+      "description": "Drop ice shards.",
+      "hint": "Found in the NET",
+      "image": "chip_0008.png",
+      "icon": 2,
+      "effect": {
+        "type": "ATTACK",
+        "key": "IceShards"
+      }
+    },
+    {
+      "name": "OodleNoodle",
+      "description": "Send down burning food.",
+      "hint": "???",
+      "image": "chip_0069.png",
+      "icon": 14,
+      "effect": {
+        "type": "ATTACK",
+        "key": "OodleNoodle"
+      }
+    },
+    {
+      "name": "CrowCountry",
+      "description": "Attack the back row, with a creepy prensence.",
+      "hint": "???",
+      "image": "chip_0064.png",
+      "icon": 2,
+      "effect": {
+        "type": "Summon",
+        "key": "CROW"
+      }
+    },
+    {
+      "name": "PBnPain",
+      "description": "Rain stuns enemies.",
+      "hint": "???",
+      "image": "chip_0089.png",
+      "icon": 10,
+      "effect": {
+        "type": "ATTACK",
+        "key": "PBnPain"
+      }
+    },
+    {
+      "name": "HydroPlant",
+      "description": "Create a wall of Stunning Water",
+      "hint": "Found in the NET",
+      "image": "chip_0062.png",
+      "icon": 10,
+      "effect": {
+        "type": "Summon",
+        "key": "HYDRANT"
+      }
+    },
+    {
+      "name": "PainLem",
+      "description": "Slow down an enemy for 7 seconds.",
+      "hint": "Found in the DARK NET",
+      "image": "chip_0095.png",
+      "icon": 14,
+      "effect": {
+        "type": "ATTACK",
+        "key": "PainLem"
+      }
+    },
+    {
+      "name": "GobSmack",
+      "description": "2 Massive fists bring the pain.",
+      "hint": "Found in the Dark Net",
+      "image": "chip_0096.png",
+      "icon": 12,
+      "effect": {
+        "type": "ATTACK",
+        "key": "GobSmack"
+      }
+    },
+    {
+      "name": "BurnonUdon",
+      "description": "Cook up foes with a burning hot twist.",
+      "hint": "GRASS E-MAIL MISSION",
+      "image": "chip_0097.png",
+      "icon": 14,
+      "effect": {
+        "type": "ATTACK",
+        "key": "BurnonUdon"
+      }
+    },
+    {
+      "name": "DarkMeteor",
+      "description": "Rain down a shower of Meteors infected with dark strength!",
+      "hint": "Found in the DARK NET",
+      "image": "chip_0098.png",
+      "icon": 13,
+      "effect": {
+        "type": "ATTACK",
+        "key": "DarkMeteor"
+      }
+    },
+    {
+      "name": "LegendBurst",
+      "description": "A legendary wave goes forward!",
+      "hint": "???",
+      "image": "chip_0099.png",
+      "icon": 10,
+      "effect": {
+        "type": "ATTACK",
+        "key": "LegendBurst"
+      }
+    },
+    {
+      "name": "SprSuitUp",
+      "description": "You're buffed for 10 seconds!",
+      "hint": "Found in the PRISM NET",
+      "image": "chip_0102.png",
+      "icon": 1,
+      "effect": {
+        "type": "Summon",
+        "key": "QUINN2"
+      }
+    },
+    {
+      "name": "GrassBite",
+      "description": "Draining Bite an enemy and heal.",
+      "hint": "Found in the GRASS NET",
+      "image": "chip_0118.png",
+      "icon": 15,
+      "effect": {
+        "type": "ATTACK",
+        "key": "EarthBite"
+      }
+    },
+    {
+      "name": "GoBersrk",
+      "description": "Any attacks are deflected with an electric shield.",
+      "hint": "???",
+      "image": "chip_0014.png",
+      "icon": 1,
+      "effect": {
+        "type": "Summon",
+        "key": "BB"
+      }
+    },
+    {
+      "name": "NoMemory",
+      "description": "The last chip you use Restocks and works twice in a row.",
+      "hint": "DARK NET E-Mail Mission",
+      "image": "chip_0003.png",
+      "icon": 2,
+      "effect": {
+        "type": "Summon",
+        "key": "GENOS"
+      }
+    },
+    {
+      "name": "PayPigA",
+      "description": "Gain a lot of extra loot! x 2.",
+      "hint": "Found in the LAVA NET",
+      "image": "chip_0036.png",
+      "icon": 6,
+      "effect": {
+        "type": "BUFF",
+        "buff": "COIN",
+        "amount": 4,
+        "seconds": 30
+      }
+    },
+    {
+      "name": "BarrierB",
+      "description": "Get a shield for 3 hits.",
+      "hint": "Found in SKY NET",
+      "image": "chip_0001.png",
+      "icon": 11,
+      "effect": {
+        "type": "SHIELD",
+        "key": 1
+      }
+    },
+    {
+      "name": "BarrierA",
+      "description": "Get a shield for 4 hits.",
+      "hint": "Found in the DARK NET",
+      "image": "chip_0002.png",
+      "icon": 11,
+      "effect": {
+        "type": "SHIELD",
+        "key": 2
+      }
+    },
+    {
+      "name": "MeteorB",
+      "description": "Two Meteors fall from the sky.",
+      "hint": "LAVA E-MAIL MISSION",
+      "image": "chip_0037.png",
+      "icon": 13,
+      "effect": {
+        "type": "ATTACK",
+        "key": "MeteorB"
+      }
+    },
+    {
+      "name": "OvrClockA",
+      "description": "Elite speed!",
+      "hint": "PRISM E-MAIL MISSION",
+      "image": "chip_0031.png",
+      "icon": 17,
+      "effect": {
+        "type": "BUFF",
+        "buff": "SPD",
+        "amount": 2,
+        "seconds": 15
+      }
+    },
+    {
+      "name": "TornadoB",
+      "description": "Launch a tornado across the enemies panels.",
+      "hint": "LAVA E-MAIL MISSION",
+      "image": "chip_0021.png",
+      "icon": 5,
+      "effect": {
+        "type": "ATTACK",
+        "key": "TornadoB"
+      }
+    },
+    {
+      "name": "RestoreA",
+      "description": "Gain 40 Health.",
+      "hint": "GRASS E-MAIL MISSION",
+      "image": "chip_0043.png",
+      "icon": 7,
+      "effect": {
+        "type": "HEAL",
+        "hp": 40
+      }
+    },
+    {
+      "name": "PRISMShard",
+      "description": "Drop powerful PRISM shards.",
+      "hint": "PRISM E-MAIL MISSION",
+      "image": "chip_0109.png",
+      "icon": 1,
+      "effect": {
+        "type": "ATTACK",
+        "key": "PrismShard"
+      }
+    },
+    {
+      "name": "MEGALOAD",
+      "description": "Random chance of your next 5 chips not discarding after use.",
+      "hint": "Found in the PRISM NET",
+      "image": "chip_0108.png",
+      "icon": 8,
+      "effect": {
+        "type": "BUFF",
+        "buff": "CHIP",
+        "amount": 5,
+        "seconds": 3000000000
+      }
+    },
+    {
+      "name": "FrozenSldge",
+      "description": "Chilling, but weak waves have a chance of freezing your enemies.",
+      "hint": "SKY E-MAIL MISSION",
+      "image": "chip_0107.png",
+      "icon": 10,
+      "effect": {
+        "type": "ATTACK",
+        "key": "PoisonWave2"
+      }
+    },
+    {
+      "name": "BrnBrnA",
+      "description": "Shoot three fireballs.",
+      "hint": "GRASS E-MAIL MISSION",
+      "image": "chip_0007.png",
+      "icon": 2,
+      "effect": {
+        "type": "Summon",
+        "key": "BRN2"
+      }
+    },
+    {
+      "name": "HydroPower",
+      "description": "Create a wall of Stunning... Liquid",
+      "hint": "GRASS E-MAIL MISSION",
+      "image": "chip_106.png",
+      "icon": 10,
+      "effect": {
+        "type": "Summon",
+        "key": "HYDRANT2"
+      }
+    },
+    {
+      "name": "RibbidyLick",
+      "description": "REALLY Lick your foes. YUCK!",
+      "hint": "Found in the Dark NET",
+      "image": "chip_105.png",
+      "icon": 15,
+      "effect": {
+        "type": "Summon",
+        "key": "FROG2"
+      }
+    },
+    {
+      "name": "CopyThis",
+      "description": "Briefly clones your B.I.T to battle along side you.",
+      "hint": "???",
+      "image": "chip_0013.png",
+      "icon": 16,
+      "effect": {
+        "type": "BUFF",
+        "buff": "COPY",
+        "amount": 1,
+        "seconds": 5
+      }
+    },
+    {
+      "name": "SeekingMissle",
+      "description": "Drop a POWERFUL bomb on all Viruses and your BIT.",
+      "hint": "Found in the SKY NET",
+      "image": "chip_0110.png",
+      "icon": 3,
+      "effect": {
+        "type": "ATTACK",
+        "key": "HomngMissle2"
+      }
+    },
+    {
+      "name": "MarshFella",
+      "description": "Absorb the power of a MarshMellow. Deal x5 damage for moment!.",
+      "hint": "LAVA E-MAIL MISSION",
+      "image": "chip_0119.png",
+      "icon": 14,
+      "effect": {
+        "type": "BUFF",
+        "buff": "ATK",
+        "amount": 5,
+        "seconds": 2
+      }
+    },
+    {
+      "name": "Decline2Drop",
+      "description": "Big, slow punch",
+      "hint": "Found in the NET",
+      "image": "chip_0059.png",
+      "icon": 12,
+      "effect": {
+        "type": "ATTACK",
+        "key": "Decline2Drop"
+      }
+    },
+    {
+      "name": "Slurple",
+      "description": "Lick and Poison your foes!.",
+      "hint": "SKY E-MAIL MISSION",
+      "image": "chip_0082.png",
+      "icon": 15,
+      "effect": {
+        "type": "ATTACK",
+        "key": "Slurple"
+      }
+    },
+    {
+      "name": "IceBite",
+      "description": "Cause a freezing bite on your foes!",
+      "hint": "SKY E-MAIL MISSION",
+      "image": "chip_0103.png",
+      "icon": 15,
+      "effect": {
+        "type": "ATTACK",
+        "key": "IceBite"
+      }
+    },
+    {
+      "name": "FrozenTop",
+      "description": "A slightly weaker spinning top but with a chance to freeze!",
+      "hint": "Found in the SKY NET",
+      "image": "chip_0111.png",
+      "icon": 3,
+      "effect": {
+        "type": "ATTACK",
+        "key": "FrozenTop"
+      }
+    },
+    {
+      "name": "WideSword",
+      "description": "A Wider Slash!",
+      "hint": "Found in the NET",
+      "image": "chip_0112.png",
+      "icon": 9,
+      "effect": {
+        "type": "ATTACK",
+        "key": "WideSword"
+      }
+    },
+    {
+      "name": "LongSword",
+      "description": "A Longer Slash!",
+      "hint": "LAVA E-MAIL MISSION",
+      "image": "chip_0113.png",
+      "icon": 9,
+      "effect": {
+        "type": "ATTACK",
+        "key": "LongSword"
+      }
+    },
+    {
+      "name": "AlphaMega",
+      "description": "Genos spawns to unleash a devestating attack!",
+      "hint": "???",
+      "image": "chip_0114.png",
+      "icon": 9,
+      "effect": {
+        "type": "Summon",
+        "key": "ENDSHERE"
+      }
+    },
+    {
+      "name": "BolderCrash",
+      "description": "Roll 2  stunning rock on your enemies.",
+      "hint": "SKY E-MAIL MISSION",
+      "image": "chip_0115.png",
+      "icon": 13,
+      "effect": {
+        "type": "ATTACK",
+        "key": "BolderCrash"
+      }
+    },
+    {
+      "name": "PyroArrows",
+      "description": "Shoot 3 Burning arrows through enemies.",
+      "hint": "Found in the LAVA NET",
+      "image": "chip_0116.png",
+      "icon": 2,
+      "effect": {
+        "type": "ATTACK",
+        "key": "FireArrows"
+      }
+    },
+    {
+      "name": "SlowArrows",
+      "description": "Shoot 3 Slowing arrows through enemies.",
+      "hint": "Found in the SKY NET",
+      "image": "chip_0117.png",
+      "icon": 2,
+      "effect": {
+        "type": "ATTACK",
+        "key": "SlowArrows"
+      }
+    },
+    {
+      "name": "SeedStorm",
+      "description": "Fire an auto-turret for 2 seconds.",
+      "hint": "Found in the DARK NET",
+      "image": "chip_0018.png",
+      "icon": 2,
+      "effect": {
+        "type": "Summon",
+        "key": "TURRB"
+      }
+    }
+  ]
+}

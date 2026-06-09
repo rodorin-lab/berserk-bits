@@ -1,0 +1,49 @@
+{
+	"beats": [
+		{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.2
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 60,
+		"move_pattern":"",
+		"move_style":"FALL",
+		"move_speed": 0.1,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"EXPLODE",
+		"spawn_pos": []
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 60,
+		"move_pattern":"",
+		"move_style":"FALL",
+		"move_speed": 0.1,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"EXPLODE",
+		"spawn_pos": []
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1,
+		"sprite_speed":0.3
+		}
+	],
+
+	"sprites":[
+			{
+			"filename":"meteor.png",
+			"frames":1,
+			"xo": 15,
+			"yo": 26,
+			}
+		]
+}

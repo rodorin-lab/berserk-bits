@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"sender_index": 5,
+	"subject": "No Chips?",
+	"body": "We have bad connection in the Net so WE CAN'T USE OUR CHIPS!\n\nPlease help us!",
+	"exp":1000,
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 2,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 2,
+	"mission_type":"CHIPLESS",
+	"wave_count": 3,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Thrmo", "Dark Green", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+
+}

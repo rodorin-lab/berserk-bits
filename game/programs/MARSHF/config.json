@@ -1,0 +1,23 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "MarshFella",
+	"generate_seconds" : 250,
+	"productive_minutes" :50,
+	"food_preference" : 1,
+	"egg" : "Lava BW Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 20,
+			"yo": 48,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "FLOAT",
+	"walk_anim" : "FLOAT"
+
+}

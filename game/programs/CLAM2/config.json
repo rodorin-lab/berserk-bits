@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "Heshim",
+	"generate_seconds" : 300,
+	"productive_minutes" : 15,
+	"food_preference" : 4,
+	"egg" : "Sky King",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 15,
+			"yo": 31,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "Need Agent",
+	"body": "Hey Net Agent.\n\Can some lazy battler handle the disturbance in the square please?",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 6,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 6,
+	"mission_type":"SWARM",
+	"wave_count": 12,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Toad", "Shadow Code", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

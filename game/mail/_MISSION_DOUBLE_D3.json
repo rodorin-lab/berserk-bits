@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "Double Trouble!",
+	"body": "Two mini bosses are messing up the place!\n\nClear the out!",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 7,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 3,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "NMINI1",
+                 null, null, null,
+                 null, null, "GX"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Bug2", "Shadow Code", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

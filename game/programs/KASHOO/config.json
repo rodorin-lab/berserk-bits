@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "Kashoo",
+	"generate_seconds" : 180,
+	"productive_minutes" : 20,
+	"food_preference" : 6,
+	"egg" : "White Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 23,
+			"yo": 31,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

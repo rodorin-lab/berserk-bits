@@ -1,0 +1,53 @@
+{
+	"beats": [
+		{
+		"type":"MOVE",
+		"x": 10,
+		"y": 0,
+		"frames" : 10
+ 		},
+		{
+		"type":"FLASH",
+		"frames":40
+		},
+		{
+		"type":"MOVE",
+		"x": -20,
+		"y": 0,
+		"frames" : 10
+ 		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 10,
+		"move_pattern":"HOR",
+		"move_style":"TEL",
+		"move_speed": 0,
+		"idle_time":10,
+		"life":30000,
+		"floats":false,
+		"on_hit":"",
+		"spawn_pos": [
+			"S","X","0","0",
+			"0","0","0","0",
+			"0","0","0","0"
+			]
+		},
+		{
+		"type":"MOVE",
+		"x": 10,
+		"y": 0,
+		"frames" : 5
+ 		}
+	],
+
+	"sprites":[
+			{
+			"filename":"shockwave.png",
+			"frames":5,
+			"xo": 17,
+			"yo": 26,
+			}
+		]
+}

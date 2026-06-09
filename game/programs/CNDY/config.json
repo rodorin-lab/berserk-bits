@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "CndyStrm",
+	"generate_seconds" : 300,
+	"productive_minutes" :15,
+	"food_preference" : 7,
+	"egg" : "Prism Candy",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 21,
+			"yo": 39,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

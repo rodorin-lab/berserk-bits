@@ -1,0 +1,370 @@
+{
+  "x" : 587,
+  "y" : 110,
+  "palette_index" : 2,
+
+
+  "subzones": [
+		{
+		"name": "GRASS 1",
+		"x":518,
+		"y":133,
+		"recomendedLevel" : 35,
+		"isBoss" : false,
+		"bgIndex" : 11,
+		"beat_minutes" : 5,
+ 		"battle_spawn_rate": 7,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 2,
+		"enemy_multiplier": 1.7,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A"],
+		"encounters": [
+
+			],
+		"ore" : ["Fiber Root", "Vine Circuit"]
+		},
+		{
+		"name": "GRASS 2",
+		"x":538,
+		"y":90,
+		"recomendedLevel" : 39,
+		"isBoss" : false,
+		"bgIndex" : 10,
+		"beat_minutes" : 6,
+ 		"battle_spawn_rate": 30,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 2,
+		"icon" : 0,
+		"clocks" : 2,
+		"enemy_multiplier": 1.8,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B"],
+		"encounters": [
+
+			],
+		"ore" : [ "Quantum Leaf", "Bio-Data Cluster"]
+		},
+		{
+		"name": "GRASS 3",
+		"x":560,
+		"y":130,
+		"recomendedLevel" : 42,
+		"isBoss" : true,
+		"bgIndex" : 8,
+		"beat_minutes" : 2,
+ 		"battle_spawn_rate": 250,
+		"mine_spawn_rate": 5,
+		"treasure_spawn_rate": 2,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 1.9,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["B", "C"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				null, null, null,
+				null, null, "GMINI1",
+				null, null, null
+      				]
+    			}
+			],
+		"ore" : ["Fiber Root", "Organic Nanite"]
+		},
+		{
+		"name": "GRASS 4",
+		"x":614,
+		"y":131,
+		"recomendedLevel" : 42,
+		"isBoss" : false,
+		"bgIndex" : 13,
+		"beat_minutes" : 3,
+ 		"battle_spawn_rate": 250,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 3,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 1.9,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["C", "D"],
+		"encounters": [
+
+			],
+		"ore" : [ "Vine Circuit", "Organic Nanite"]
+		},
+		{
+		"name": "GRASS 5",
+		"x":616,
+		"y":87,
+		"recomendedLevel" : 45,
+		"isBoss" : true,
+		"bgIndex" : 14,
+		"beat_minutes" : 3,
+ 		"battle_spawn_rate": 50,
+		"mine_spawn_rate": 4,
+		"treasure_spawn_rate": 3,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 2,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["D", "E"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				null, null, null,
+				null, null, "GMINI2",
+				null, null, null
+      				]
+    			}
+			],
+
+		"ore" : ["Bio-Data Cluster", "Organic Nanite"]
+		},
+		{
+		"name": "GRASS 6",
+		"x":658,
+		"y":86,
+		"recomendedLevel" : 47,
+		"isBoss" : false,
+		"bgIndex" : 12,
+		"beat_minutes" : 3,
+ 		"battle_spawn_rate": 30,
+		"mine_spawn_rate": 2,
+		"treasure_spawn_rate": 1,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 2.1,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["E", "F"],
+		"encounters": [
+
+			],
+		"ore" : ["Quantum Leaf", "Bio-Data Cluster"]
+		},
+		{
+		"name": "GRASS 7",
+		"x":664,
+		"y":125,
+		"recomendedLevel" : 48,
+		"isBoss" : true,
+		"bgIndex" : 15,
+		"beat_minutes" : 2,
+ 		"battle_spawn_rate": 15,
+		"mine_spawn_rate": 3,
+		"treasure_spawn_rate": 2.2,
+		"icon" : 0,
+		"clocks" : 1,
+		"enemy_multiplier": 2.5,
+		"lock_condition": "NONE",
+		"lock_amount": 0,
+		"battleID": ["A", "B", "C", "D", "E", "F"],
+		"encounters": [
+			{
+			"spawn_minutes": 1,
+      			"grid": [
+				"GTREE", null, null,
+				null, null, "GBOSS",
+				"GTREE", null, null
+      				]
+    			}
+			],
+		"ore" : ["Bio-Data Cluster", "Organic Nanite"]
+		},
+	],
+
+
+  "card": "biome_cards1.png",
+  "tile_variation" : 1,
+  "battles": [
+{
+        "battleID": "A",
+        "grid": [null, "GNUT", null,
+                 null, null, null,
+                 null, "GHEDGE", null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "GNUT", null,
+                 null, "GTENGU", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": [null, "GNUT", null,
+                 null, "GNUT", null,
+                 "GTREE", null, null]
+    },
+    {
+        "battleID": "A",
+        "grid": ["GNUT", null, "GNUT",
+                 null, null, null,
+                 null, "GTENGU", null]
+    },
+
+
+    {
+        "battleID": "B",
+        "grid": [null, "GNUT", null,
+                 null, "GHEDGE", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "B",
+        "grid": ["GNUT", null, "GHEDGE",
+                 null, null, null,
+                 null, "GTENGU", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, "GHEDGE", null,
+                 null, "GNUT", null,
+                 null, "GNUT", null]
+    },
+    {
+        "battleID": "B",
+        "grid": [null, null, null,
+                 null, "GHEDGE", null,
+                 "GNUT", null, "GNUT"]
+    },
+
+
+    {
+        "battleID": "C",
+        "grid": [null, "GHEDGE", null,
+                 null, "GKID", null,
+                 null, "GNUT", null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, "GKID", null,
+                 null, "GHEDGE", null,
+                 "GTENGU", null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": ["GKID", null, "GHEDGE",
+                 "GTREE", "GNUT", null,
+                 null, null, null]
+    },
+    {
+        "battleID": "C",
+        "grid": [null, null, null,
+                 "GKID", null, "GNUT",
+                 null, null, "GHEDGE"]
+    },
+
+
+    {
+        "battleID": "D",
+        "grid": [null, "GKID", null,
+                 null, "GHEDGE", null,
+                 null, "GKID", null]
+    },
+    {
+        "battleID": "D",
+        "grid": [null, null, null,
+                 "GHEDGE", "GTREE", "GHEDGE",
+                 null, null, null]
+    },
+    {
+        "battleID": "D",
+        "grid": ["GHEDGE", null, "GKID",
+                 null, null, null,
+                 "GHEDGE", null, null]
+    },
+
+
+    {
+        "battleID": "E",
+        "grid": [null, "GTENGU", null,
+                 null, "GTREE", null,
+                 null, "GKID", null]
+    },
+    {
+        "battleID": "E",
+        "grid": [null, "GTREE", null,
+                 "GTENGU", null, "GKID",
+                 null, null, null]
+    },
+    {
+        "battleID": "E",
+        "grid": ["GTENGU", null, "GKID",
+                 null, "GTREE", null,
+                 "GTENGU", null, null]
+    },
+
+
+    {
+        "battleID": "F",
+        "grid": [null, "GTENGU", null,
+                 "GTREE", "GTREE", null,
+                 null, "GTENGU", null]
+    },
+    {
+        "battleID": "F",
+        "grid": ["GTREE", null, "GTENGU",
+                 null, "GTREE", null,
+                 null, null, "GTENGU"]
+    },
+    {
+        "battleID": "F",
+        "grid": [null, "GTREE", null,
+                 "GTENGU", null, "GTREE",
+                 null, "GTENGU", null]
+    }
+  ],
+
+  "reward_coins": 20,
+  "rewards" : [
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "EGG",
+		"value": 1
+		},
+		{
+		"type": "EGG",
+		"value": 1
+		}
+	],
+
+
+
+
+
+  "EGG" : {
+	"reward_icon":"jungle_egg_ui.png",
+	"egg_sprite":"grass_egg.png",
+	"hatch_sprite":"grass_egg_hatch.png",
+	"codes": [
+		"SNL",
+		"CLAM",
+		"TREE",
+		"YNMA",
+		"SNPR",
+		"MUSH",
+		"CRAB2",
+		"TOAD",	
+		"FROG",
+		"GTR",
+		"BAR"
+
+		
+		]
+	},
+
+
+}

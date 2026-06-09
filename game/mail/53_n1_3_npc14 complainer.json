@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 53,
+	"subject": "SO many viruses?",
+	"body": "Has anyone noticed there's SO many viruses around recently? what on earth is going on?!",
+
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 3
+			}
+
+
+		]
+
+
+}

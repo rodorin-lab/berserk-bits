@@ -1,0 +1,63 @@
+{
+	"beats": [
+		{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.2
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 60,
+		"move_pattern":"",
+		"move_style":"PUNCH",
+		"move_speed": 0.2,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"EXPLODE",
+		"spawn_pos": [
+			"X","S","0","0",
+			"0","0","0","0",
+			"0","0","0","0"
+			]
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":1,
+		"play_speed":0.2,
+		"damage": 40,
+		"move_pattern":"",
+		"move_style":"PUNCH",
+		"move_speed": 0.2,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"EXPLODE",
+		"spawn_pos": [
+			"X","0","0","S",
+			"0","0","0","0",
+			"0","0","0","0"
+			]
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1,
+		"sprite_speed":0.3
+		}
+	],
+
+	"sprites":[
+			{
+			"filename":"glove_1.png",
+			"frames":1,
+			"xo": 21,
+			"yo": 52,
+			},
+			{
+			"filename":"glove_2.png",
+			"frames":1,
+			"xo": 21,
+			"yo": 52,
+			}
+		]
+}

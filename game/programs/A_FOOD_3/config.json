@@ -1,0 +1,28 @@
+{
+
+	"type" : "AUTO",
+	"object" : "obj_chef_program",
+	"name" : "Sweet Chef",
+	"description" : "Cooks food for your programs.",
+	"generate_seconds" : 140,
+	"food" : ["Apple", "Cherry", "Donut", "Ice Cream"],
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 23,
+			"yo": 34,
+			},
+			{
+			"filename":"cook.png",
+			"frames":8,
+			"xo": 23,
+			"yo": 34,
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

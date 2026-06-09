@@ -1,0 +1,50 @@
+{
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 28,
+			"yo": 55
+			},
+			{
+			"filename":"shoot.png",
+			"frames":2,
+			"xo": 28,
+			"yo": 55
+			},
+			{
+			"filename":"spawn.png",
+			"frames":5,
+			"xo": 28,
+			"yo": 55
+			}
+		],
+
+	"spawn_sprite_index" : 2,
+
+	"beats": [
+
+			{
+			"type":"TEL",
+			"move_pattern":"PLAYER_RAND"
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.5
+			},
+			{
+			"type":"SHOOT",
+			"shoot_sprite_index":1,
+			"damage": 1,
+			"sprite_speed":0.3,
+			"seconds":3
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.05
+			},
+		]
+}

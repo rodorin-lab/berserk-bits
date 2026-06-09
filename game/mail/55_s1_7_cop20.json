@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "Noice!",
+	"body": "You did it Net Detective! I always knew you could! It seems systems are all back to normal!",
+
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "PRISM",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

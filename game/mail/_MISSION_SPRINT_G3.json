@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+	"exp":150,
+	"sender_index": 7,
+	"subject": "Not again...",
+	"body": "SWARMS OF VIRUSES. SWARMS!!!!!!!!!",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 3,
+
+
+	"mission_biome": "GRASS",
+	"mission_zone": 3,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 10,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Grass Teal", "Fiber Root",  "Grass Teal", "Quantum Leaf", "Silver Egg", "Organic Nanite"]
+
+}

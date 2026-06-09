@@ -1,0 +1,22 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+	"sender_index": 7,
+	"subject": "POINTLESS!!!",
+	"body": "Useless NET DETECTIVES can't even delete 2 baby viruses.\n\nCAN SOMEBODY PLEASE HANDLE IT.",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 7,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 6,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+	[null, null, "LMINI1",
+                 null, null, null,
+                 null, null, "LMINI2"]
+		],
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Thermal Core", "Molten Fiber", "Scorched Silicon", "Flame Crystal", "Pyrobyte"]
+
+}

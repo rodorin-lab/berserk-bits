@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 29,
+	"subject": "SYSTEMS DOWN!!",
+	"body": "HEY! I'm so sorry to message you again but i didn't know where to turn! The security is down all over the town and all of our shops are being broken into! Can you please get the system online again!",
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "GRASS",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

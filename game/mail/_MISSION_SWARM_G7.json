@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"exp":150,
+	"sender_index": 7,
+	"subject": "Virus Swarm!",
+	"body": "There's a virus swarm in the net!\n\nPlease help us!",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 7,
+
+
+	"mission_biome": "GRASS",
+	"mission_zone": 7,
+	"mission_type":"SWARM",
+	"wave_count": 8,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Rainbow Egg", "Fiber Root", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+}

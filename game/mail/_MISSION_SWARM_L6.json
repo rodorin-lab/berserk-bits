@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":700,
+	"sender_index": 7,
+	"subject": "Need Agent",
+	"body": "Hey Net Agent.\n\Can some lazy battler handle the disturbance in the square please?",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 6,
+
+	"mission_biome": "LAVA",
+	"mission_zone": 6,
+	"mission_type":"SWARM",
+	"wave_count": 10,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Lava Eden", "Lava Toriyama", "Molten Fiber", "Lava BW Egg", "Flame Crystal", "Pyrobyte"]
+
+}

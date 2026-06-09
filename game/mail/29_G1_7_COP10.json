@@ -1,0 +1,24 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "Thanks for Sticking Around.",
+	"body": "Hey Net Detective, I truly appreciate you sticking around. You truly are one of our best!",
+	"button": {
+		"text":"REDEEM",
+		"forever" : false,
+		"effect": "COIN",
+		"amount": "500"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "GRASS",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

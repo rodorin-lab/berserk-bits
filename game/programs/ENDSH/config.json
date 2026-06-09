@@ -1,0 +1,23 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "AlphaMega",
+	"generate_seconds" : 500,
+	"productive_minutes" : 10,
+	"food_preference" : 5,
+	"egg" : "Dark Purple",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 20,
+			"yo": 48,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "FLOAT",
+	"walk_anim" : "FLOAT"
+
+}

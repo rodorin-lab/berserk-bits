@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 13,
+	"subject": "THE CORE!!",
+	"body": "They're trying to stop us at all costs! Can you take this down again Net Agent?",
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "LAVA",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

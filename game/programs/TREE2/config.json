@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "Howl",
+	"generate_seconds" : 100,
+	"productive_minutes" : 50,
+	"food_preference" : 1,
+	"egg" : "Grass Brown",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 16,
+			"yo": 41,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "SQUISH"
+}

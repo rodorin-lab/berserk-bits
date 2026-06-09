@@ -1,0 +1,25 @@
+{
+	"inbox_index": 0,
+	"sender_index": 33,
+	"subject": "BANKS WIN AGAIN!",
+	"body": "Hey Net Detective, we couldn't have done it without you! Here's a little reward. On the house",
+
+	"button": {
+		"text":"REDEEM",
+		"forever" : false,
+		"effect": "COIN",
+		"amount": "1"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "PRISM",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

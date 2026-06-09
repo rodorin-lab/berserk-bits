@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":30,
+	"sender_index": 7,
+	"subject": "BIG XP",
+	"body": "Viruses I tell ya, everywhere!\n\nCan you delete these freaks hanging around my partner's NET space?",
+	"unlocked_biome":"NET",
+	"unlocked_zone": 7,
+
+	"mission_biome": "NET",
+	"mission_zone": 7,
+	"mission_type":"SWARM",
+	"wave_count": 40,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Green Egg", "Blue Egg", "Mach Egg", "Signal Thread", "Cache Code", "Firewall Fragment", "Dark Silver", "Data Shard"]
+
+}

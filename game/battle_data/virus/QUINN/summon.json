@@ -1,0 +1,78 @@
+{
+
+	"sprites":[
+			{
+			"filename":"spawn.png",
+			"frames":5,
+			"xo": 23,
+			"yo": 44
+			},
+			{
+			"filename":"startup.png",
+			"frames":6,
+			"xo": 23,
+			"yo": 44
+			},
+			{
+			"filename":"heal.png",
+			"frames":2,
+			"xo": 23,
+			"yo": 44
+			}
+		],
+
+	"spawn_sprite_index" : 0,
+
+	"beats": [
+			{
+			"type":"ANIM",
+			"sprite_index":1,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"BUFF",
+			"buff":"DEF",
+			"seconds":5
+			},
+			{
+			"type":"BUFF",
+			"buff":"DEF",
+			"seconds":5
+			},
+			{
+			"type":"BUFF",
+			"buff":"DEF",
+			"seconds":5
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			}
+		]
+}

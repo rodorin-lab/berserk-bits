@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":300,
+	"sender_index": 7,
+	"subject": "Jetflix and idle",
+	"body": "Jetflix is being hacked. I can't watch my favourite shows.\n\nCan you delete these two huge viruses?",
+	"unlocked_biome":"GRASS",
+	"unlocked_zone": 7,
+
+	"mission_biome": "GRASS",
+	"mission_zone": 4,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "GMINI1",
+                 null, null, null,
+                 null, null, "GMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Grass Egg", "Grass Ears","Fiber Root", "Vine Circuit", "Quantum Leaf", "Bio-Data Cluster", "Organic Nanite"]
+
+}

@@ -1,0 +1,19 @@
+{
+	"inbox_index": 0,
+	"sender_index": 33,
+	"subject": "SPACE NEEDS YOU!",
+	"body": "Our satellites are being hijacked! If NEXUS gains control, they could weaponize them. Please, help us!",
+
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "DARKNET",
+			"zone": 2
+			}
+
+
+		]
+
+
+}

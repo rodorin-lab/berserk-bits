@@ -1,0 +1,96 @@
+{
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 22,
+			"yo": 46
+			},
+			{
+			"filename":"shoot.png",
+			"frames":2,
+			"xo": 22,
+			"yo": 46
+			},
+			{
+			"filename":"spawn.png",
+			"frames":5,
+			"xo": 22,
+			"yo": 46
+			}
+		],
+
+	"spawn_sprite_index" : 2,
+
+	"beats": [
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.05
+			},
+			{
+			"type":"TEL",
+			"move_pattern":"PLAYER_RAND"
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.5
+			},
+			{
+			"type":"SHOOT",
+			"shoot_sprite_index":1,
+			"sprite_speed":0.2,
+			"damage": 5,
+			"seconds":0.4
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.05
+			},
+			{
+			"type":"TEL",
+			"move_pattern":"PLAYER_RAND"
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.5
+			},
+			{
+			"type":"SHOOT",
+			"shoot_sprite_index":1,
+			"sprite_speed":0.2,
+			"damage": 5,
+			"seconds":0.4
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.05
+			},
+			{
+			"type":"TEL",
+			"move_pattern":"PLAYER_RAND"
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.5
+			},
+			{
+			"type":"SHOOT",
+			"shoot_sprite_index":1,
+			"sprite_speed":0.2,
+			"damage": 5,
+			"seconds":0.4
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.05
+			}
+		]
+}

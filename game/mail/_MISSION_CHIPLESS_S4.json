@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "ANNOYING HACKERS",
+	"body": "I think there's a hacker stopping everyone from using battle chips.\n\nPlease help us!",
+	"exp":600,
+
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 4,
+
+	"mission_biome": "SKY",
+	"mission_zone": 4,
+	"mission_type":"CHIPLESS",
+	"wave_count": 3,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "Sky Orange Egg", "Airwave Fabric", "Cloud Fragment", "Storm Crystal", "Wind Circuit", "Lightning Shard"]
+
+
+}

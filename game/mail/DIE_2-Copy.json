@@ -1,0 +1,17 @@
+{
+	"inbox_index": 0,
+	"sender_index": 18,
+	"subject": "Level up + Chips",
+	"body": "Hey, just saw you battling in the NET!.\n\n FYI Your BIT levels up and gets stronger! so replaying sections is great for training.\n\nThe BATTLE CHIPS Bots make you, are very useful too!\n\nThe more you have the better   odds of winning!\n\nGood luck!",
+
+
+	"unlock_conditions": [
+			{
+			"type" : "DIE"
+			}
+
+
+		]
+
+
+}

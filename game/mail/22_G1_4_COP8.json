@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "Good Work!",
+	"body": "Hey Net Detective! Thank you so much for helping out! It seems there's a lot of disturbance in the area.\n\nWe're going to go ahead and scout out the area!",
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCK",
+			"biome": "GRASS",
+			"zone": 4
+			}
+
+
+		]
+
+
+}

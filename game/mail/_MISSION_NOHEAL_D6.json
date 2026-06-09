@@ -1,0 +1,18 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "No Heal!",
+	"body": "Our heal BOTS are down in the area! We need help!",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 6,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 6,
+	"mission_type":"NOHEAL",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Spin2", "Dark Red", "Corrupted Data Shard", "Void Fiber", "Blackfire Crystal", "NullCore"]
+
+}

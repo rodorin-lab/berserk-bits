@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+	"exp":200,
+	"sender_index": 7,
+	"subject": "Not again...",
+	"body": "SWARMS OF VIRUSES. SWARMS!!!!!!!!!",
+	"unlocked_biome":"LAVA",
+	"unlocked_zone": 3,
+
+
+	"mission_biome": "LAVA",
+	"mission_zone": 3,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 10,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Lava Egg", "Lava Bite", "Thermal Core", "Molten Fiber", "Lava Green Egg", "Flame Crystal", "Pyrobyte"]
+
+}

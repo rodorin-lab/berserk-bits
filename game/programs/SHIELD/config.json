@@ -1,0 +1,20 @@
+{
+	"type" : "AUTO",
+	"object" : "obj_defense_boost_program",
+	"name" : "Defense Boost",
+	"description" : "Periodically creates a shield for your BIT.",
+	"generate_seconds" : 0,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 9,
+			"yo": 18
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

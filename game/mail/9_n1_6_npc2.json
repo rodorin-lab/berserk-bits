@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 28,
+	"subject": "URGENT CODES!",
+	"body": "Help! Help! All of our communications located around our NET area are going down.\n\nA strong virus is hampering our systems. The path to our area has been locked off!\n\nPlease find a way to unlock the next area and get to us!",
+	
+	
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 6
+			}
+
+
+		]
+
+
+}

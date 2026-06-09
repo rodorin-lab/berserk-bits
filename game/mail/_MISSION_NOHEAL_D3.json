@@ -1,0 +1,18 @@
+{
+	"inbox_index": 1,
+	"exp":1000,
+	"sender_index": 7,
+	"subject": "I challenge you!",
+	"body": "Can you beat this level without a heal bot?",
+	"unlocked_biome":"DARKNET",
+	"unlocked_zone": 3,
+
+	"mission_biome": "DARKNET",
+	"mission_zone": 3,
+	"mission_type":"NOHEAL",
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Darknet Egg", "Dark Bug2", "Dark Purple", "Corrupted Data Shard", "Void Fiber", "Dark Green", "NullCore"]
+
+}

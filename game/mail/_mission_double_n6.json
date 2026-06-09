@@ -1,0 +1,23 @@
+{
+	"inbox_index": 1,
+	"exp":50,
+	"sender_index": 7,
+	"subject": "POINTLESS!!!",
+	"body": "Useless NET DETECTIVES can't even delete 2 baby viruses.\n\nCAN SOMEBODY PLEASE HANDLE IT.",
+	"unlocked_biome":"NET",
+	"unlocked_zone": 7,
+
+	"mission_biome": "NET",
+	"mission_zone": 6,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, "NMINI1",
+                 null, null, null,
+                 null, null, "NMINI2"]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Net Egg", "Blue Egg", "White Egg", "Black Egg","Mach Egg", "Firewall Fragment", "Bandwidth Crystal"]
+
+}

@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "You ok?",
+	"body": "That was intense! Are you okay? NEXUS… So that's the group behind all of these viruses on the Net and so many B.I.T.S going rouge… be careful.",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "SKY",
+			"zone": 6
+			}
+
+
+		]
+
+
+}

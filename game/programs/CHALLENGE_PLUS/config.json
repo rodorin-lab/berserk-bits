@@ -1,0 +1,20 @@
+{
+	"type" : "AUTO",
+	"object" : "obj_stealth_program",
+	"name" : "Stealth",
+	"description" : "Randomly go invisible for 5 seconds during combat",
+	"generate_seconds" : 0,
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 9,
+			"yo": 18
+			}
+		],
+
+	"idle_index": 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

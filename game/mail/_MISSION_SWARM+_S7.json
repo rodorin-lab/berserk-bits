@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+
+	"sender_index": 7,
+	"subject": "BIG XP",
+	"body": "Viruses I tell ya, everywhere!\n\nCan you delete these freaks hanging around my partners' NET space?",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 7,
+
+	"mission_biome": "SKY",
+	"mission_zone": 7,
+	"mission_type":"SWARM",
+	"wave_count": 20,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Orange Egg", "White Egg", "Airwave Fabric", "White Egg", "Storm Crystal", "Wind Circuit", "Lightning Shard", "Airwave Fabric"]
+
+}

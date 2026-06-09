@@ -1,0 +1,29 @@
+{
+	"inbox_index": 1,
+	"exp":800,
+	"sender_index": 7,
+	"subject": "My Business...",
+	"body": "None of my helper BOTS can come into work, apparently some BIG virus is intimidating them.\n\nCan you please do something about it?",
+	"unlocked_biome":"PRISM",
+	"unlocked_zone": 7,
+
+	"mission_biome": "PRISM",
+	"mission_zone": 1,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+		[null, null, null,
+                 null, null, "PMINI1",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "PMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "PBOSS",
+                 null, null, null]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Prism Egg", "Prism Candy", "Prism Green", "Glacial Code", "Prism Cyan", "Frozen Circuit", "Cryo Core", "Frost Shard"]
+
+}

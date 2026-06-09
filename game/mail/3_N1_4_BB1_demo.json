@@ -1,0 +1,28 @@
+{
+	"inbox_index": 0,
+	"sender_index": 46,
+	"subject": "Having Fun?",
+	"body": "Thank you so much for downloading Berserk B.I.T.S!\n\nIf you're liking the game so far, please go and wishlist us on steam!",
+	"button": {
+		"text":"WISHLIST",
+		"forever" : true,
+		"effect": "LINK",
+		"url": "https://store.steampowered.com/app/2348540/Berserk_BITS/"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "NET",
+			"zone": 4
+			},
+			{
+			"type" : "DEMO",
+			"true_false": true
+			}
+
+
+		]
+
+
+}

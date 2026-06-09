@@ -1,0 +1,20 @@
+{
+	"inbox_index": 1,
+	"exp":800,
+	"sender_index": 7,
+	"subject": "Time Trial PLUS!",
+	"body": "I bet you can't bust 5 waves of viruses in 1 minute!",
+	"unlocked_biome":"PRISM",
+	"unlocked_zone": 4,
+
+	"mission_biome": "PRISM",
+	"mission_zone": 4,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 6,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Prism Egg", "Purple Egg", "Frost Shard", "Glacial Code", "Prism Yellow", "Frozen Circuit", "Cryo Core"]
+
+}

@@ -1,0 +1,136 @@
+{
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 25,
+			"yo": 50
+			},
+			{
+			"filename":"laser.png",
+			"frames":5,
+			"xo": 25,
+			"yo": 50
+			},
+			{
+			"filename":"shoot.png",
+			"frames":2,
+			"xo": 25,
+			"yo": 50
+			},
+			{
+			"filename":"spawn.png",
+			"frames":4,
+			"xo": 25,
+			"yo": 50
+			},
+			{
+			"filename":"laser_core.png",
+			"frames":2,
+			"xo": 16,
+			"yo": 23
+			},
+			{
+			"filename":"laser_long.png",
+			"frames":2,
+			"xo": 25,
+			"yo": 23
+			}
+		],
+
+	"spawn_sprite_index" : 3,
+
+	"beats": [
+
+			{
+			"type":"TEL",
+			"move_pattern":"PLAYER_RAND"
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":1,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.1
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":4,
+			"play_speed":0.2,
+			"damage": 80,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0,
+			"idle_time":15,
+			"life":100,
+			"on_hit":"",
+			"spawn_pos": [
+				"X","S","0","0",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"PROJ",
+			"sprite_index":5,
+			"play_speed":0.2,
+			"damage": 70,
+			"move_pattern":"HOR",
+			"move_style":"HOV",
+			"move_speed": 0,
+			"idle_time":15,
+			"life":100,
+			"on_hit":"",
+			"spawn_pos": [
+				"X","0","S","S",
+				"0","0","0","0",
+				"0","0","0","0"
+				]
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			{
+			"type":"ANIM",
+			"sprite_index":2,
+			"sprite_speed":0.2
+			},
+			
+			{
+			"type":"ANIM",
+			"sprite_index":0,
+			"sprite_speed":0.05
+			},
+		]
+}

@@ -1,0 +1,19 @@
+{
+	"inbox_index": 1,
+	"exp":20,
+	"sender_index": 7,
+	"subject": "Virus infestation!",
+	"body": "I promise I won't buy illegal chips anymore!\n\nJust wipe out these viruses please!",
+	"unlocked_biome":"NET",
+	"unlocked_zone": 4,
+
+	"mission_biome": "NET",
+	"mission_zone": 4,
+	"mission_type":"SWARM",
+	"wave_count": 20,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Black Egg", "Blue Egg", "Data Shard", "Signal Thread", "Cache Code", "Firewall Fragment", "Bandwidth Crystal"]
+
+}

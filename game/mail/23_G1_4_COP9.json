@@ -1,0 +1,22 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "Your Reward!",
+	"body": "Thanks again for helping us! Here's 500 coins",
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCK",
+			"biome": "GRASS",
+			"zone": 4
+			},
+			{
+			"type" : "READ",
+			"email": "22_G1_4_COP8"
+			}
+
+
+		]
+
+
+}

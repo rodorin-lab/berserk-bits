@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 61,
+	"subject": "You're too hot... To handle",
+	"body": "Reports show things are calming down around here. Thank you once again!",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "LAVA",
+			"zone": 7
+			}
+
+
+		]
+
+
+}

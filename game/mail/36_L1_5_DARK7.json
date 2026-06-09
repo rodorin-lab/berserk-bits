@@ -1,0 +1,18 @@
+{
+	"inbox_index": 0,
+	"sender_index": 62,
+	"subject": "...",
+	"body": "Impressive work, Detective. But you're only delaying the inevitable. Soon, the entire world will burn, and there's nothing you can do to stop us.",
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "LAVA",
+			"zone": 5
+			}
+
+
+		]
+
+
+}

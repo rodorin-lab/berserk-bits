@@ -1,0 +1,29 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+	"sender_index": 7,
+	"subject": "Anime no sub.",
+	"body": "There's some Big Boys lurking around my Online Language class \n\nYou don't think you could handle these viruses do you?",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 4,
+
+	"mission_biome": "SKY",
+	"mission_zone": 4,
+	"mission_type":"ENCOUNTER",
+	"battles":[
+			[null, null, null,
+                 null, null, "SLD",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "SMINI2",
+                 null, null, null],
+		[null, null, null,
+                 null, null, "SBOSS",
+                 null, null, null]
+		],
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "Sky Cat", "Airwave Fabric", "Cloud Fragment", "Storm Crystal", "Wind Circuit", "Lightning Shard", "Airwave Fabric"]
+
+}

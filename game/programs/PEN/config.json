@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "RubbaWoofa",
+	"generate_seconds" : 100,
+	"productive_minutes" : 35,
+	"food_preference" : 7,
+	"egg" : "Lava Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 19,
+			"yo": 20,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

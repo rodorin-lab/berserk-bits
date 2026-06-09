@@ -1,0 +1,22 @@
+{
+	"inbox_index": 1,
+	"exp":600,
+
+	"sender_index": 7,
+	"subject": "Not again...",
+	"body": "SWARMS OF VIRUSES. SWARMS!!!!!!!!!",
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 2,
+
+
+	"mission_biome": "SKY",
+	"mission_zone": 2,
+	"mission_type":"SPRINT",
+	"wave_count": 5,
+	"time_limit": 4,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Red Egg", "Sky Red Egg", "Sky Orange Egg", "Cloud Fragment", "Storm Crystal", "Wind Circuit", "Lightning Shard"]
+
+}

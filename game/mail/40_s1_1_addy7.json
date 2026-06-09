@@ -1,0 +1,25 @@
+{
+	"inbox_index": 0,
+	"sender_index": 60,
+	"subject": "I'm so high.",
+	"body": "This area of the net has me feeling lighter than air. Here's a token of my gratitude. Hehehe\n\nPUNS!",
+
+	"button": {
+		"text":"DOWNLOAD",
+		"forever" : false,
+		"effect": "TOKEN",
+		"amount": "1"
+		},
+
+	"unlock_conditions": [
+			{
+			"type" : "UNLOCKED",
+			"biome": "SKY",
+			"zone": 1
+			}
+
+
+		]
+
+
+}

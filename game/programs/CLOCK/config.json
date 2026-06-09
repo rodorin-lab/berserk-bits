@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "OvrClockE",
+	"generate_seconds" : 180,
+	"productive_minutes" : 8,
+	"food_preference" : 7,
+	"egg" : "Black Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 13,
+			"yo": 39,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

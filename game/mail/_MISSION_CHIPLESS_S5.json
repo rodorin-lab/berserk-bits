@@ -1,0 +1,21 @@
+{
+	"inbox_index": 1,
+	"sender_index": 4,
+	"subject": "Bad Internet!",
+	"body": "We have bad connection in the Net so WE CAN'T USE OUR CHIPS!\n\nPlease help us!",
+	"exp":600,
+
+	"unlocked_biome":"SKY",
+	"unlocked_zone": 5,
+
+	"mission_biome": "SKY",
+	"mission_zone": 5,
+	"mission_type":"CHIPLESS",
+	"wave_count": 3,
+	
+	"coin_rewards": 0,
+	"token_rewards": 0,
+	"item_rewards": ["Sky Egg", "Sky Ltn", "Airwave Fabric", "Cloud Fragment", "Storm Crystal", "Sky Yellow Egg", "Lightning Shard"]
+
+
+}

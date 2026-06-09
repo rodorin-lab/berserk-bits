@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "PawFect",
+	"generate_seconds" : 130,
+	"productive_minutes" : 35,
+	"food_preference" : 4,
+	"egg" : "Sky Cat",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 15,
+			"yo": 30,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "FLOAT",
+	"walk_anim" : "FLOAT"
+}

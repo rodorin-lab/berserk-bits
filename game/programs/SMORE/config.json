@@ -1,0 +1,22 @@
+{
+
+	"type" : "CHIP",
+	"chip_name" : "Toriyama",
+	"generate_seconds" : 300,
+	"productive_minutes" : 10,
+	"food_preference" : 4,
+	"egg" : "Lava Purple Egg",
+
+	"sprites":[
+			{
+			"filename":"idle.png",
+			"frames":1,
+			"xo": 10,
+			"yo": 28,
+			}
+		],
+
+	"idle_index" : 0,
+	"idle_anim" : "SQUISH",
+	"walk_anim" : "WADDLE"
+}

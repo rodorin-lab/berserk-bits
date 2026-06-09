@@ -1,0 +1,40 @@
+{
+	"beats": [
+		{
+		"type":"ANIM",
+		"sprite_index":0,
+		"sprite_speed":0.2
+		},
+		{
+		"type":"PROJ",
+		"sprite_index":0,
+		"play_speed":0.2,
+		"damage": 30,
+		"move_pattern":"HOR",
+		"move_style":"HOV",
+		"move_speed": 4,
+		"idle_time":10,
+		"life":30000,
+		"on_hit":"POISON",
+		"spawn_pos": [
+			"S","0","0","0",
+			"S","0","0","0",
+			"S","0","0","0"
+			]
+		},
+		{
+		"type":"ANIM",
+		"sprite_index":1,
+		"sprite_speed":0.3
+		}
+	],
+
+	"sprites":[
+			{
+			"filename":"arrows.png",
+			"frames":1,
+			"xo": 16,
+			"yo": 15,
+			}
+		]
+}

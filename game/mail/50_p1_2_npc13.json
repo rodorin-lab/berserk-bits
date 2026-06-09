@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 33,
+	"subject": "THE VAULTS ARE EMPTY!",
+	"body": "Transactions are failing, and accounts are being drained. Can you stop this breach? Lives depend on it!",
+
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "PRISM",
+			"zone": 2
+			}
+
+
+		]
+
+
+}

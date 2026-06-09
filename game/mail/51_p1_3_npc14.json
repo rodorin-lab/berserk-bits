@@ -1,0 +1,20 @@
+{
+	"inbox_index": 0,
+	"sender_index": 33,
+	"subject": "Vault Code (NO SHARING)!",
+	"body": "Here's a code to get into the vault. There could be some viruses in here!?",
+
+
+
+	"unlock_conditions": [
+			{
+			"type" : "BEAT",
+			"biome": "PRISM",
+			"zone": 3
+			}
+
+
+		]
+
+
+}
